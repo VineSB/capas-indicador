@@ -42,8 +42,13 @@ const fItunes = async (q) => {
 const fWiki = async (q, lang) => {
   const j = await getJson("https://" + lang + ".wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=" + encodeURIComponent(q) + "&gsrlimit=6&prop=pageimages&piprop=thumbnail&pithumbsize=500&format=json&formatversion=2");
   const ps = ((j.query && j.query.pages) || []).filter((x) => x.thumbnail).sort((a, b) => a.index - b.index);
-  const nq = nz(q.replace(/ (film|filme)$/i, "")), bom = ps.find((x) => nz(x.title).includes(nq)) || ps[0];
+  const nq = nz(q.replace(/ (film|filme|série|TV series)$/i, "")), bom = ps.find((x) => nz(x.title).includes(nq));
   return bom ? { url: bom.thumbnail.source, matched: bom.title + " (Wikipedia " + lang + ")" } : null;
+};
+const fWikiTitulo = async (titulo, lang) => {
+  const j = await getJson("https://" + lang + ".wikipedia.org/w/api.php?action=query&titles=" + encodeURIComponent(titulo) + "&redirects=1&prop=pageimages&piprop=thumbnail&pithumbsize=500&format=json&formatversion=2");
+  const p = ((j.query && j.query.pages) || []).find((x) => x.thumbnail);
+  return p ? { url: p.thumbnail.source, matched: p.title + " (Wikipedia " + lang + ", página exata)" } : null;
 };
 const tryAll = async (fns) => { for (const f of fns) { try { const r = await f(); if (r) return r; } catch (e) { console.log("   fonte falhou:", String(e.message).slice(0, 120)); } } return null; };
 
@@ -51,8 +56,7 @@ export async function achar(it) {
   const q = it.q || it.t;
   if (it.tp === "anime") return tryAll([() => fAnilist(q), () => fKitsu(q), () => fTvmaze(q)]);
   if (it.tp === "serie") return tryAll([() => fTvmaze(q), () => fWiki(q + " série", "pt"), () => fWiki(q + " TV series", "en")]);
-  const wq = it.wq;
-  if (wq) return tryAll([() => fWiki(wq, "en"), () => fWiki(wq, "pt"), () => fItunes(q)]);
+  if (it.wp) return tryAll([() => fWikiTitulo(it.wp, it.wl || "en"), () => fWikiTitulo(it.wp, "pt")]);
   return tryAll([() => fItunes(q), () => fWiki(q + " filme", "pt"), () => fWiki(q + " film", "en")]);
 }
 

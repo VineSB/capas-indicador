@@ -1,12 +1,72 @@
 [
-  {"t": "Anônimo", "tp": "filme", "q": "Nobody", "wq": "Nobody 2021 film", "s": "anonimo"},
-  {"t": "Anônimo 2", "tp": "filme", "q": "Nobody 2", "wq": "Nobody 2 2025 film", "s": "anonimo-2"},
-  {"t": "Kate", "tp": "filme", "q": "Kate", "wq": "Kate 2021 film Mary Elizabeth Winstead", "s": "kate"},
-  {"t": "No Limite do Amanhã", "tp": "filme", "q": "Edge of Tomorrow", "wq": "Edge of Tomorrow film", "s": "no-limite-do-amanha"},
-  {"t": "O Contador", "tp": "filme", "q": "The Accountant", "wq": "The Accountant 2016 film", "s": "o-contador"},
-  {"t": "Os Vingadores", "tp": "filme", "q": "The Avengers", "wq": "The Avengers 2012 film", "s": "os-vingadores"},
-  {"t": "Red Sparrow", "tp": "filme", "q": "Red Sparrow", "wq": "Red Sparrow 2018 film", "s": "red-sparrow"},
-  {"t": "Piratas do Caribe", "tp": "filme", "q": "Pirates of the Caribbean", "wq": "Pirates of the Caribbean: The Curse of the Black Pearl", "s": "piratas-do-caribe"},
-  {"t": "Terra Selvagem", "tp": "filme", "q": "Wind River", "wq": "Wind River 2017 film", "s": "terra-selvagem"},
-  {"t": "Vingadores: Ultimato", "tp": "filme", "q": "Avengers: Endgame", "wq": "Avengers: Endgame", "s": "vingadores-ultimato"}
+ {
+  "t": "Anônimo",
+  "tp": "filme",
+  "wp": "Nobody (2021 film)",
+  "s": "anonimo",
+  "refazer": true
+ },
+ {
+  "t": "Anônimo 2",
+  "tp": "filme",
+  "wp": "Nobody 2",
+  "s": "anonimo-2",
+  "refazer": true
+ },
+ {
+  "t": "Kate",
+  "tp": "filme",
+  "wp": "Kate (2021 film)",
+  "s": "kate",
+  "refazer": true
+ },
+ {
+  "t": "No Limite do Amanhã",
+  "tp": "filme",
+  "wp": "Edge of Tomorrow",
+  "s": "no-limite-do-amanha",
+  "refazer": true
+ },
+ {
+  "t": "O Contador",
+  "tp": "filme",
+  "wp": "The Accountant (2016 film)",
+  "s": "o-contador",
+  "refazer": true
+ },
+ {
+  "t": "Os Vingadores",
+  "tp": "filme",
+  "wp": "The Avengers (2012 film)",
+  "s": "os-vingadores",
+  "refazer": true
+ },
+ {
+  "t": "Red Sparrow",
+  "tp": "filme",
+  "wp": "Red Sparrow (film)",
+  "s": "red-sparrow",
+  "refazer": true
+ },
+ {
+  "t": "Piratas do Caribe",
+  "tp": "filme",
+  "wp": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "s": "piratas-do-caribe",
+  "refazer": true
+ },
+ {
+  "t": "Terra Selvagem",
+  "tp": "filme",
+  "wp": "Wind River (2017 film)",
+  "s": "terra-selvagem",
+  "refazer": true
+ },
+ {
+  "t": "Vingadores: Ultimato",
+  "tp": "filme",
+  "wp": "Avengers: Endgame",
+  "s": "vingadores-ultimato",
+  "refazer": true
+ }
 ]
