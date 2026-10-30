@@ -1,3 +1,19 @@
+200 https://itunes.apple.com/search?term=nobody&media=movie&limit=5 
+     { "resultCount":0, "results": [] } 
+200 https://itunes.apple.com/search?term=nobody&entity=movie&limit=5 
+     { "resultCount":0, "results": [] } 
+200 https://itunes.apple.com/search?term=nobody&media=movie&entity=movie&country=us&limit=5 
+     { "resultCount":0, "results": [] } 
+200 https://itunes.apple.com/search?term=edge+of+tomorrow&media=movie&country=us 
+     { "resultCount":0, "results": [] } 
+200 https://itunes.apple.com/search?term=matrix&media=movie&limit=1 
+     { "resultCount":0, "results": [] } 
+200 https://itunes.apple.com/us/search?term=nobody&media=movie 
+     { "resultCount":0, "results": [] } 
+200 https://pt.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Anonimo%20filme%20Bob%20Odenkirk&gs 
+    {"batchcomplete":true,"continue":{"gsroffset":5,"continue":"gsroffset||"},"query":{"pages":[{"pageid":1606548,"ns":0,"title":"Breaking Bad","index":4,"thumbnail":{"source":"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Breaking_Bad_logo.svg/500px-Breaking_Bad_logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail","width":500,"height":298}},{"pageid":2862101,"ns
+200 https://pt.wikipedia.org/w/api.php?action=query&titles=Nobody%20(filme)|Edge%20of%20Tomorrow|No%20Limite%20do% 
+    {"batchcomplete":true,"query":{"redirects":[{"from":"Wind River","to":"Rio Wind"},{"from":"Edge of Tomorrow","to":"No Limite do Amanhã"},{"from":"O Contador","to":"The Accountant"}],"pages":[{"pageid":3279632,"ns":0,"title":"Rio Wind","thumbnail":{"source":"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Wind_River_07-05-~1_%282%29.JPG/330px-Wind_River_07-05-~1_%282%29.JPG?utm_source=pt.w
    iTunes us "Nobody" 0 resultados: 
    iTunes br "Nobody" 0 resultados: 
 não achei: Anônimo
