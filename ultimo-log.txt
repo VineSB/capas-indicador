@@ -1,9 +1,25 @@
+   iTunes us "Nobody" 0 resultados: 
+   iTunes br "Nobody" 0 resultados: 
 não achei: Anônimo
+   iTunes us "Nobody 2" 0 resultados: 
+   iTunes br "Nobody 2" 0 resultados: 
 não achei: Anônimo 2
+   iTunes us "Kate" 0 resultados: 
+   iTunes br "Kate" 0 resultados: 
 não achei: Kate
+   iTunes us "Edge of Tomorrow" 0 resultados: 
+   iTunes br "Edge of Tomorrow" 0 resultados: 
 não achei: No Limite do Amanhã
+   iTunes us "The Accountant" 0 resultados: 
+   iTunes br "The Accountant" 0 resultados: 
 não achei: O Contador
+   iTunes us "Marvel's The Avengers" 0 resultados: 
+   iTunes br "Marvel's The Avengers" 0 resultados: 
 não achei: Os Vingadores
+   iTunes us "Red Sparrow" 0 resultados: 
+   iTunes br "Red Sparrow" 0 resultados: 
 não achei: Red Sparrow
+   iTunes us "Wind River" 0 resultados: 
+   iTunes br "Wind River" 0 resultados: 
 não achei: Terra Selvagem
 Pronto. Com capa: 0. Sem capa: 8 (Anônimo, Anônimo 2, Kate, No Limite do Amanhã, O Contador, Os Vingadores, Red Sparrow, Terra Selvagem)
