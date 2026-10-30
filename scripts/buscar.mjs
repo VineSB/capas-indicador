@@ -77,12 +77,23 @@ const fWikiImagens = async (titulo, lang) => {
   const u = ii && ii[0] && (ii[0].thumburl || ii[0].url);
   return u ? { url: u, matched: pg.title + " / " + bom + " (Wikipedia " + lang + ", imagem da página)" } : null;
 };
+const fImdb = async (q, ano) => {
+  const t = nz(q).replace(/ /g, "_");
+  const j = await getJson("https://v2.sg.media-imdb.com/suggestion/" + (t[0] || "a") + "/" + encodeURIComponent(t) + ".json");
+  const ds = (j.d || []).filter((x) => x.i && x.i.imageUrl && /feature|tv movie|video|short/i.test(x.q || "") );
+  console.log("   imdb", JSON.stringify(q), ano || "", "->", (j.d || []).slice(0, 6).map((x) => x.l + " (" + (x.y || "?") + ", " + (x.q || x.qid || "?") + ")" + (x.i ? "" : " [sem img]")).join(" | "));
+  const nq = nz(q);
+  const exatos = ds.filter((x) => nz(x.l) === nq && (!ano || Number(x.y) === Number(ano)));
+  const d = exatos[0] || (!ano ? ds.find((x) => nz(x.l) === nq) : null);
+  return d ? { url: d.i.imageUrl, matched: d.l + " (" + d.y + ") (IMDb)" } : null;
+};
 const tryAll = async (fns) => { for (const f of fns) { try { const r = await f(); if (r) return r; } catch (e) { console.log("   fonte falhou:", String(e.message).slice(0, 120)); } } return null; };
 
 export async function achar(it) {
   const q = it.q || it.t;
   if (it.tp === "anime") return tryAll([() => fAnilist(q), () => fKitsu(q), () => fTvmaze(q)]);
   if (it.tp === "serie") return tryAll([() => fTvmaze(q), () => fWiki(q + " série", "pt"), () => fWiki(q + " TV series", "en")]);
+  if (it.imdb) return tryAll([() => fImdb(it.imdb, it.ano)]);
   if (it.wi) return tryAll([].concat(it.wi).map((t) => () => fWikiImagens(t, it.wl || "pt")));
   if (it.wb) return tryAll([].concat(it.wb).map((q) => () => fWikiBusca(q, it.wl || "pt", it.wm)));
   if (it.wp) return tryAll([].concat(it.wp).map((t) => () => fWikiTitulo(t, it.wl || "pt")));
