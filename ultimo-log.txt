@@ -1,9 +1,3 @@
-   imdb "Nobody" 2021 -> Nobody Wants This (2024, TV series) | Nobody (2021, feature) | Nobody 2 (2025, feature) | Mr. Nobody (2009, feature) | Nobody Knows (2004, feature) | Nobody (2025, feature)
-ok: Anônimo -> Nobody (2021) (IMDb)
-   imdb "Nobody 2" 2025 -> Nobody 2 (2025, feature) | Nobody Sleeps in the Woods Tonight 2 (2021, feature) | Nobody But You 2 (2026, feature) | Windfall (2022, feature) | Trust Nobody 2 (2023, feature) | Nobody (2025, feature)
-ok: Anônimo 2 -> Nobody 2 (2025) (IMDb)
-   imdb "Kate" 2021 -> Scary Good Horror (?, ?) | Kate Siegel (?, ?) | Kate Hudson (?, ?) | Kate Beckinsale (?, ?) | Kate Winslet (?, ?) | Kate O'Flynn (?, ?)
-não achei: Kate
-   imdb "Edge of Tomorrow" 2014 -> Edge of Tomorrow (2014, feature) | Edge of Tomorrow 2 (?, feature) [sem img] | Edge of Tomorrow (?, ?) [sem img] | Edge of Tomorrow: Weapons of the Future (2014, video) | Edge of Tomorrow Special (2014, TV movie) | The Absolutely, Amazing, Wonderful, Frightening, Threatening Edge of Tomorrow (2024, feature)
-ok: No Limite do Amanhã -> Edge of Tomorrow (2014) (IMDb)
-Pronto. Com capa: 3. Sem capa: 1 (Kate)
+   imdb "Kate 2021" 2021 -> Kate (2021, feature) | Kate (2021, short) | Kate (2021, short) | The Legend of Kate Kensington (2021, feature) | Kate Humble's Coastal Britain (2021, TV series) [sem img] | Kate Garraway: Finding Derek (2021, TV movie)
+ok: Kate -> Kate (2021) (IMDb)
+Pronto. Com capa: 1. Sem capa: 0
