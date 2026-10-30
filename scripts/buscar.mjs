@@ -41,6 +41,7 @@ const fItunes = async (q) => {
 };
 const fItunesExato = async (q, pais) => {
   const j = await getJson("https://itunes.apple.com/search?term=" + encodeURIComponent(q) + "&country=" + pais + "&media=movie&entity=movie&limit=15");
+  console.log("   iTunes", pais, JSON.stringify(q), (j.results || []).length, "resultados:", (j.results || []).slice(0, 6).map((x) => x.trackName).join(" | "));
   const nq = nz(q), d = (j.results || []).filter((x) => x.artworkUrl100 && nz(x.trackName) === nq).sort((x, y) => String(x.releaseDate).localeCompare(String(y.releaseDate)))[0];
   return d ? { url: d.artworkUrl100.replace("100x100bb", "600x900bb"), matched: d.trackName + " (iTunes " + pais + ", nome exato)" } : null;
 };
