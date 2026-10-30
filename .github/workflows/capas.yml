@@ -1,0 +1,32 @@
+name: Buscar capas
+on:
+  push:
+    paths: ["pedidos.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: capas
+  cancel-in-progress: false
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Instalar sharp
+        run: npm install --no-save --no-package-lock sharp
+      - name: Buscar capas
+        run: node scripts/buscar.mjs
+      - name: Guardar no repositório
+        run: |
+          git config user.name "capas-bot"
+          git config user.email "capas-bot@users.noreply.github.com"
+          git add capas manifest.json faltando.json
+          if git diff --cached --quiet; then echo "nada novo"; exit 0; fi
+          git commit -m "Capas: atualização automática"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

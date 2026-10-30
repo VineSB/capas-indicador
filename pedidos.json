@@ -1,0 +1,12 @@
+[
+  {"t": "Anônimo", "tp": "filme", "q": "Nobody", "wq": "Nobody 2021 film", "s": "anonimo"},
+  {"t": "Anônimo 2", "tp": "filme", "q": "Nobody 2", "wq": "Nobody 2 2025 film", "s": "anonimo-2"},
+  {"t": "Kate", "tp": "filme", "q": "Kate", "wq": "Kate 2021 film Mary Elizabeth Winstead", "s": "kate"},
+  {"t": "No Limite do Amanhã", "tp": "filme", "q": "Edge of Tomorrow", "wq": "Edge of Tomorrow film", "s": "no-limite-do-amanha"},
+  {"t": "O Contador", "tp": "filme", "q": "The Accountant", "wq": "The Accountant 2016 film", "s": "o-contador"},
+  {"t": "Os Vingadores", "tp": "filme", "q": "The Avengers", "wq": "The Avengers 2012 film", "s": "os-vingadores"},
+  {"t": "Red Sparrow", "tp": "filme", "q": "Red Sparrow", "wq": "Red Sparrow 2018 film", "s": "red-sparrow"},
+  {"t": "Piratas do Caribe", "tp": "filme", "q": "Pirates of the Caribbean", "wq": "Pirates of the Caribbean: The Curse of the Black Pearl", "s": "piratas-do-caribe"},
+  {"t": "Terra Selvagem", "tp": "filme", "q": "Wind River", "wq": "Wind River 2017 film", "s": "terra-selvagem"},
+  {"t": "Vingadores: Ultimato", "tp": "filme", "q": "Avengers: Endgame", "wq": "Avengers: Endgame", "s": "vingadores-ultimato"}
+]
