@@ -1,9 +1,0 @@
-   imagens pt "Nobody (filme)" -> nenhuma
-não achei: Anônimo
-   imagens pt "Nobody 2" -> nenhuma
-não achei: Anônimo 2
-   imagens pt "Kate (filme)" -> nenhuma
-não achei: Kate
-   imagens pt "No Limite do Amanhã" -> Ficheiro:Edge of Tomorrow Logo.jpg
-não achei: No Limite do Amanhã
-Pronto. Com capa: 0. Sem capa: 4 (Anônimo, Anônimo 2, Kate, No Limite do Amanhã)
