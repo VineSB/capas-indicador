@@ -2,56 +2,29 @@
  {
   "t": "Anônimo",
   "tp": "filme",
-  "wb": [
-   "Nobody filme 2021 Bob Odenkirk",
-   "Anônimo filme Bob Odenkirk"
-  ],
-  "wm": "nobody|an[oô]nimo",
+  "wi": "Nobody (filme)",
   "s": "anonimo",
   "refazer": true
  },
  {
   "t": "Anônimo 2",
   "tp": "filme",
-  "wb": [
-   "Nobody 2 filme 2025",
-   "Anônimo 2 filme"
-  ],
-  "wm": "nobody|an[oô]nimo",
+  "wi": "Nobody 2",
   "s": "anonimo-2",
   "refazer": true
  },
  {
   "t": "Kate",
   "tp": "filme",
-  "wb": [
-   "Kate filme 2021 Mary Elizabeth Winstead",
-   "Kate filme Netflix 2021"
-  ],
-  "wm": "^kate",
+  "wi": "Kate (filme)",
   "s": "kate",
   "refazer": true
  },
  {
   "t": "No Limite do Amanhã",
   "tp": "filme",
-  "wb": [
-   "No Limite do Amanhã filme Tom Cruise",
-   "Edge of Tomorrow filme"
-  ],
-  "wm": "limite do amanh|edge of tomorrow",
+  "wi": "No Limite do Amanhã",
   "s": "no-limite-do-amanha",
-  "refazer": true
- },
- {
-  "t": "O Contador",
-  "tp": "filme",
-  "wb": [
-   "The Accountant filme Ben Affleck",
-   "O Contador filme Ben Affleck 2016"
-  ],
-  "wm": "accountant|contador",
-  "s": "o-contador",
   "refazer": true
  }
 ]

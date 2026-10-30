@@ -65,12 +65,25 @@ const fWikiBusca = async (q, lang, rx) => {
   const p = ps.find((x) => x.thumbnail && !/\.svg/i.test(x.thumbnail.source) && (!re || re.test(x.title)));
   return p ? { url: p.thumbnail.source, matched: p.title + " (Wikipedia " + lang + ", busca)" } : null;
 };
+const fWikiImagens = async (titulo, lang) => {
+  const j = await getJson("https://" + lang + ".wikipedia.org/w/api.php?action=query&titles=" + encodeURIComponent(titulo) + "&redirects=1&prop=images&imlimit=60&format=json&formatversion=2");
+  const pg = ((j.query && j.query.pages) || [])[0];
+  const arqs = ((pg && pg.images) || []).map((x) => x.title).filter((n) => /\.(jpe?g|png)$/i.test(n));
+  console.log("   imagens", lang, JSON.stringify(titulo), "->", arqs.slice(0, 12).join(" | ") || "nenhuma");
+  const bom = arqs.find((n) => /cartaz|poster|capa|cover/i.test(n)) || arqs.find((n) => !/logo|icon|flag|bandeira|commons|wiki|symbol|ambox|question|edit|padlock|star|disambig|folder|pt-wiki/i.test(n));
+  if (!bom) return null;
+  const k = await getJson("https://" + lang + ".wikipedia.org/w/api.php?action=query&titles=" + encodeURIComponent(bom) + "&prop=imageinfo&iiprop=url&iiurlwidth=500&format=json&formatversion=2");
+  const ii = (((k.query || {}).pages || [])[0] || {}).imageinfo;
+  const u = ii && ii[0] && (ii[0].thumburl || ii[0].url);
+  return u ? { url: u, matched: pg.title + " / " + bom + " (Wikipedia " + lang + ", imagem da página)" } : null;
+};
 const tryAll = async (fns) => { for (const f of fns) { try { const r = await f(); if (r) return r; } catch (e) { console.log("   fonte falhou:", String(e.message).slice(0, 120)); } } return null; };
 
 export async function achar(it) {
   const q = it.q || it.t;
   if (it.tp === "anime") return tryAll([() => fAnilist(q), () => fKitsu(q), () => fTvmaze(q)]);
   if (it.tp === "serie") return tryAll([() => fTvmaze(q), () => fWiki(q + " série", "pt"), () => fWiki(q + " TV series", "en")]);
+  if (it.wi) return tryAll([].concat(it.wi).map((t) => () => fWikiImagens(t, it.wl || "pt")));
   if (it.wb) return tryAll([].concat(it.wb).map((q) => () => fWikiBusca(q, it.wl || "pt", it.wm)));
   if (it.wp) return tryAll([].concat(it.wp).map((t) => () => fWikiTitulo(t, it.wl || "pt")));
   return tryAll([() => fWiki(q + " filme", "pt"), () => fWiki(q + " film", "pt")]);
