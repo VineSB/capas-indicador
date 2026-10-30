@@ -2,56 +2,86 @@
  {
   "t": "Anônimo",
   "tp": "filme",
-  "itq": "Nobody",
+  "wp": [
+   "Nobody (filme)",
+   "Anônimo (filme)",
+   "Nobody (filme de 2021)"
+  ],
   "s": "anonimo",
   "refazer": true
  },
  {
   "t": "Anônimo 2",
   "tp": "filme",
-  "itq": "Nobody 2",
+  "wp": [
+   "Nobody 2",
+   "Anônimo 2"
+  ],
   "s": "anonimo-2",
   "refazer": true
  },
  {
   "t": "Kate",
   "tp": "filme",
-  "itq": "Kate",
+  "wp": [
+   "Kate (filme)",
+   "Kate (filme de 2021)",
+   "Kate (2021)"
+  ],
   "s": "kate",
   "refazer": true
  },
  {
   "t": "No Limite do Amanhã",
   "tp": "filme",
-  "itq": "Edge of Tomorrow",
+  "wp": [
+   "No Limite do Amanhã",
+   "Edge of Tomorrow (filme)"
+  ],
   "s": "no-limite-do-amanha",
   "refazer": true
  },
  {
   "t": "O Contador",
   "tp": "filme",
-  "itq": "The Accountant",
+  "wp": [
+   "O Contador (filme)",
+   "The Accountant (filme)",
+   "The Accountant (2016)"
+  ],
   "s": "o-contador",
   "refazer": true
  },
  {
   "t": "Os Vingadores",
   "tp": "filme",
-  "itq": "Marvel's The Avengers",
+  "wp": [
+   "Os Vingadores (filme)",
+   "The Avengers (filme)",
+   "Os Vingadores (filme de 2012)"
+  ],
   "s": "os-vingadores",
   "refazer": true
  },
  {
   "t": "Red Sparrow",
   "tp": "filme",
-  "itq": "Red Sparrow",
+  "wp": [
+   "Red Sparrow (filme)",
+   "Operação Red Sparrow",
+   "Red Sparrow"
+  ],
   "s": "red-sparrow",
   "refazer": true
  },
  {
   "t": "Terra Selvagem",
   "tp": "filme",
-  "itq": "Wind River",
+  "wp": [
+   "Wind River (filme)",
+   "Terra Selvagem (filme)",
+   "Wind River (2017)"
+  ],
   "s": "terra-selvagem",
   "refazer": true
  }

@@ -53,7 +53,8 @@ const fWiki = async (q, lang) => {
 };
 const fWikiTitulo = async (titulo, lang) => {
   const j = await getJson("https://" + lang + ".wikipedia.org/w/api.php?action=query&titles=" + encodeURIComponent(titulo) + "&redirects=1&prop=pageimages&piprop=thumbnail&pithumbsize=500&format=json&formatversion=2");
-  const p = ((j.query && j.query.pages) || []).find((x) => x.thumbnail);
+  const p = ((j.query && j.query.pages) || []).find((x) => x.thumbnail && !/\.svg/i.test(x.thumbnail.source));
+  console.log("   wiki", lang, JSON.stringify(titulo), "->", p ? p.title + " | " + p.thumbnail.source.slice(0, 90) : "sem imagem");
   return p ? { url: p.thumbnail.source, matched: p.title + " (Wikipedia " + lang + ", página exata)" } : null;
 };
 const tryAll = async (fns) => { for (const f of fns) { try { const r = await f(); if (r) return r; } catch (e) { console.log("   fonte falhou:", String(e.message).slice(0, 120)); } } return null; };
@@ -62,9 +63,8 @@ export async function achar(it) {
   const q = it.q || it.t;
   if (it.tp === "anime") return tryAll([() => fAnilist(q), () => fKitsu(q), () => fTvmaze(q)]);
   if (it.tp === "serie") return tryAll([() => fTvmaze(q), () => fWiki(q + " série", "pt"), () => fWiki(q + " TV series", "en")]);
-  if (it.itq) return tryAll([() => fItunesExato(it.itq, it.ic || "us"), () => fItunesExato(it.itq, "br"), ...(it.wp ? [() => fWikiTitulo(it.wp, it.wl || "en")] : [])]);
-  if (it.wp) return tryAll([() => fWikiTitulo(it.wp, it.wl || "en"), () => fWikiTitulo(it.wp, "pt")]);
-  return tryAll([() => fItunes(q), () => fWiki(q + " filme", "pt"), () => fWiki(q + " film", "en")]);
+  if (it.wp) return tryAll([].concat(it.wp).map((t) => () => fWikiTitulo(t, it.wl || "pt")));
+  return tryAll([() => fWiki(q + " filme", "pt"), () => fWiki(q + " film", "pt")]);
 }
 
 async function salvar(url, file) {

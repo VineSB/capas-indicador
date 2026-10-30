@@ -20,7 +20,7 @@ jobs:
       - name: Instalar sharp
         run: npm install --no-save --no-package-lock sharp
       - name: Buscar capas
-        run: (node scripts/diag.mjs; node scripts/buscar.mjs) 2>&1 | tee ultimo-log.txt
+        run: node scripts/buscar.mjs 2>&1 | tee ultimo-log.txt
       - name: Guardar no repositório
         run: |
           git config user.name "capas-bot"
