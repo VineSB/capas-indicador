@@ -38,5 +38,89 @@
  "kate": {
   "titulo": "Kate",
   "achou": "Kate (2021) (IMDb)"
+ },
+ "john-wick-de-volta-ao-jogo": {
+  "titulo": "John Wick: De Volta ao Jogo",
+  "achou": "John Wick (2014) (IMDb)"
+ },
+ "john-wick-2-um-novo-dia-para-matar": {
+  "titulo": "John Wick 2: Um Novo Dia para Matar",
+  "achou": "John Wick: Chapter 2 (2017) (IMDb)"
+ },
+ "john-wick-3-parabellum": {
+  "titulo": "John Wick 3: Parabellum",
+  "achou": "John Wick: Chapter 3 - Parabellum (2019) (IMDb)"
+ },
+ "resgate": {
+  "titulo": "Resgate",
+  "achou": "Extraction (2020) (IMDb)"
+ },
+ "sicario": {
+  "titulo": "Sicario",
+  "achou": "Sicario (2015) (IMDb)"
+ },
+ "sicario-dia-do-soldado": {
+  "titulo": "Sicario: Dia do Soldado",
+  "achou": "Sicario: Day of the Soldado (2018) (IMDb)"
+ },
+ "se-beber-nao-case": {
+  "titulo": "Se Beber, Não Case",
+  "achou": "The Hangover (2009) (IMDb)"
+ },
+ "se-beber-nao-case-parte-ii": {
+  "titulo": "Se Beber, Não Case! Parte II",
+  "achou": "The Hangover Part II (2011) (IMDb)"
+ },
+ "guardioes-da-galaxia": {
+  "titulo": "Guardiões da Galáxia",
+  "achou": "Guardians of the Galaxy (2014) (IMDb)"
+ },
+ "guardioes-da-galaxia-vol-3": {
+  "titulo": "Guardiões da Galáxia Vol. 3",
+  "achou": "Guardians of the Galaxy Vol. 3 (2023) (IMDb)"
+ },
+ "godzilla-minus-one": {
+  "titulo": "Godzilla Minus One",
+  "achou": "Godzilla Minus One (2023) (IMDb)"
+ },
+ "godzilla-minus-zero": {
+  "titulo": "Godzilla Minus Zero",
+  "achou": "Godzilla Minus Zero (2026) (IMDb)"
+ },
+ "homem-aranha-de-volta-ao-lar": {
+  "titulo": "Homem-Aranha: De Volta ao Lar",
+  "achou": "Spider-Man: Homecoming (2017) (IMDb)"
+ },
+ "homem-aranha-sem-volta-para-casa": {
+  "titulo": "Homem-Aranha: Sem Volta para Casa",
+  "achou": "Spider-Man: No Way Home (2021) (IMDb)"
+ },
+ "velozes-e-furiosos": {
+  "titulo": "Velozes e Furiosos",
+  "achou": "The Fast and the Furious (2001) (IMDb)"
+ },
+ "velozes-e-furiosos-2": {
+  "titulo": "Velozes e Furiosos 2",
+  "achou": "2 Fast 2 Furious (2003) (IMDb)"
+ },
+ "velozes-e-furiosos-desafio-em-toquio": {
+  "titulo": "Velozes e Furiosos: Desafio em Tóquio",
+  "achou": "The Fast and the Furious: Tokyo Drift (2006) (IMDb)"
+ },
+ "deadpool": {
+  "titulo": "Deadpool",
+  "achou": "Deadpool (2016) (IMDb)"
+ },
+ "bailarina": {
+  "titulo": "Bailarina",
+  "achou": "Ballerina (2025) (IMDb)"
+ },
+ "o-senhor-dos-aneis": {
+  "titulo": "O Senhor dos Anéis",
+  "achou": "The Lord of the Rings: The Fellowship of the Ring (2001) (IMDb)"
+ },
+ "ready-player-one": {
+  "titulo": "Jogador Nº 1",
+  "achou": "Ready Player One (2018) (IMDb)"
  }
 }
