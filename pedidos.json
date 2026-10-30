@@ -2,87 +2,56 @@
  {
   "t": "Anônimo",
   "tp": "filme",
-  "wp": [
-   "Nobody (filme)",
-   "Anônimo (filme)",
-   "Nobody (filme de 2021)"
+  "wb": [
+   "Nobody filme 2021 Bob Odenkirk",
+   "Anônimo filme Bob Odenkirk"
   ],
+  "wm": "nobody|an[oô]nimo",
   "s": "anonimo",
   "refazer": true
  },
  {
   "t": "Anônimo 2",
   "tp": "filme",
-  "wp": [
-   "Nobody 2",
-   "Anônimo 2"
+  "wb": [
+   "Nobody 2 filme 2025",
+   "Anônimo 2 filme"
   ],
+  "wm": "nobody|an[oô]nimo",
   "s": "anonimo-2",
   "refazer": true
  },
  {
   "t": "Kate",
   "tp": "filme",
-  "wp": [
-   "Kate (filme)",
-   "Kate (filme de 2021)",
-   "Kate (2021)"
+  "wb": [
+   "Kate filme 2021 Mary Elizabeth Winstead",
+   "Kate filme Netflix 2021"
   ],
+  "wm": "^kate",
   "s": "kate",
   "refazer": true
  },
  {
   "t": "No Limite do Amanhã",
   "tp": "filme",
-  "wp": [
-   "No Limite do Amanhã",
-   "Edge of Tomorrow (filme)"
+  "wb": [
+   "No Limite do Amanhã filme Tom Cruise",
+   "Edge of Tomorrow filme"
   ],
+  "wm": "limite do amanh|edge of tomorrow",
   "s": "no-limite-do-amanha",
   "refazer": true
  },
  {
   "t": "O Contador",
   "tp": "filme",
-  "wp": [
-   "O Contador (filme)",
-   "The Accountant (filme)",
-   "The Accountant (2016)"
+  "wb": [
+   "The Accountant filme Ben Affleck",
+   "O Contador filme Ben Affleck 2016"
   ],
+  "wm": "accountant|contador",
   "s": "o-contador",
-  "refazer": true
- },
- {
-  "t": "Os Vingadores",
-  "tp": "filme",
-  "wp": [
-   "Os Vingadores (filme)",
-   "The Avengers (filme)",
-   "Os Vingadores (filme de 2012)"
-  ],
-  "s": "os-vingadores",
-  "refazer": true
- },
- {
-  "t": "Red Sparrow",
-  "tp": "filme",
-  "wp": [
-   "Red Sparrow (filme)",
-   "Operação Red Sparrow",
-   "Red Sparrow"
-  ],
-  "s": "red-sparrow",
-  "refazer": true
- },
- {
-  "t": "Terra Selvagem",
-  "tp": "filme",
-  "wp": [
-   "Wind River (filme)",
-   "Terra Selvagem (filme)",
-   "Wind River (2017)"
-  ],
-  "s": "terra-selvagem",
   "refazer": true
  }
 ]

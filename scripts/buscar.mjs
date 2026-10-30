@@ -57,12 +57,21 @@ const fWikiTitulo = async (titulo, lang) => {
   console.log("   wiki", lang, JSON.stringify(titulo), "->", p ? p.title + " | " + p.thumbnail.source.slice(0, 90) : "sem imagem");
   return p ? { url: p.thumbnail.source, matched: p.title + " (Wikipedia " + lang + ", página exata)" } : null;
 };
+const fWikiBusca = async (q, lang, rx) => {
+  const j = await getJson("https://" + lang + ".wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=" + encodeURIComponent(q) + "&gsrlimit=10&prop=pageimages&piprop=thumbnail&pithumbsize=500&format=json&formatversion=2");
+  const ps = ((j.query && j.query.pages) || []).sort((a, b) => a.index - b.index);
+  console.log("   busca", lang, JSON.stringify(q), "->", ps.map((x) => x.title + (x.thumbnail ? (/\.svg/i.test(x.thumbnail.source) ? "[svg]" : "[img]") : "")).join(" | "));
+  const re = rx ? new RegExp(rx, "i") : null;
+  const p = ps.find((x) => x.thumbnail && !/\.svg/i.test(x.thumbnail.source) && (!re || re.test(x.title)));
+  return p ? { url: p.thumbnail.source, matched: p.title + " (Wikipedia " + lang + ", busca)" } : null;
+};
 const tryAll = async (fns) => { for (const f of fns) { try { const r = await f(); if (r) return r; } catch (e) { console.log("   fonte falhou:", String(e.message).slice(0, 120)); } } return null; };
 
 export async function achar(it) {
   const q = it.q || it.t;
   if (it.tp === "anime") return tryAll([() => fAnilist(q), () => fKitsu(q), () => fTvmaze(q)]);
   if (it.tp === "serie") return tryAll([() => fTvmaze(q), () => fWiki(q + " série", "pt"), () => fWiki(q + " TV series", "en")]);
+  if (it.wb) return tryAll([].concat(it.wb).map((q) => () => fWikiBusca(q, it.wl || "pt", it.wm)));
   if (it.wp) return tryAll([].concat(it.wp).map((t) => () => fWikiTitulo(t, it.wl || "pt")));
   return tryAll([() => fWiki(q + " filme", "pt"), () => fWiki(q + " film", "pt")]);
 }
