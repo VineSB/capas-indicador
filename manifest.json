@@ -22,5 +22,17 @@
  "o-contador": {
   "titulo": "O Contador",
   "achou": "The Accountant (Wikipedia pt, busca)"
+ },
+ "anonimo": {
+  "titulo": "Anônimo",
+  "achou": "Nobody (2021) (IMDb)"
+ },
+ "anonimo-2": {
+  "titulo": "Anônimo 2",
+  "achou": "Nobody 2 (2025) (IMDb)"
+ },
+ "no-limite-do-amanha": {
+  "titulo": "No Limite do Amanhã",
+  "achou": "Edge of Tomorrow (2014) (IMDb)"
  }
 }
