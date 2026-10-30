@@ -1,28 +1,14 @@
-   wiki pt "Nobody (filme)" -> sem imagem
-   wiki pt "Anônimo (filme)" -> sem imagem
-   wiki pt "Nobody (filme de 2021)" -> sem imagem
+   busca pt "Nobody filme 2021 Bob Odenkirk" -> Nobody (filme) | Nobody 2 | Janeane Garofalo[img] | Michael Shannon[img] | Anna Kendrick[img] | Lista de filmes afetados pela pandemia da COVID-19 | Critics' Choice Super Awards 2022 | Fergie[img] | Critics Choice Award de melhor ator em filme de ação
+   busca pt "Anônimo filme Bob Odenkirk" -> Bob Odenkirk[img] | Nobody (filme) | Nobody 2 | Breaking Bad[svg] | Jonathan Banks[img] | Charles Manson[img] | Lista de filmes afetados pela pandemia da COVID-19 | Lista de personagens de How I Met Your Mother[svg]
 não achei: Anônimo
-   wiki pt "Nobody 2" -> sem imagem
-   wiki pt "Anônimo 2" -> sem imagem
-não achei: Anônimo 2
-   wiki pt "Kate (filme)" -> sem imagem
-   wiki pt "Kate (filme de 2021)" -> sem imagem
-   wiki pt "Kate (2021)" -> sem imagem
-não achei: Kate
-   wiki pt "No Limite do Amanhã" -> sem imagem
-   wiki pt "Edge of Tomorrow (filme)" -> sem imagem
+   busca pt "Nobody 2 filme 2025" -> Nobody (filme) | Nobody Wants This[img] | Nobody 2 | Mr. Nobody Against Putin | Thunderbolts*[img] | Oscar 2026[img] | Prémios Globo de Ouro de 2025[img] | Lista de filmes da A24[img] | Homem-Aranha: Um Novo Dia[img] | John Wick (franquia)[img]
+ok: Anônimo 2 -> Nobody Wants This (Wikipedia pt, busca)
+   busca pt "Kate filme 2021 Mary Elizabeth Winstead" -> Mary Elizabeth Winstead[img] | Kate (filme) | Fargo (série de televisão)[img] | Topher Grace[img] | Rainha do grito[img] | Gal Gadot[img] | Linda Hamilton[img] | Téa Leoni[img] | Jessica Alba[img] | Andie MacDowell[img]
+   busca pt "Kate filme Netflix 2021" -> Kate (filme) | Kate Siegel[img] | Kate Hudson[img] | Don't Look Up[img] | Army of the Dead | Midnight Mass[img] | Reptile (filme)[img] | Christian Convery[img] | Hush (filme de 2016)[img] | Christian Malheiros[img]
+ok: Kate -> Kate Siegel (Wikipedia pt, busca)
+   busca pt "No Limite do Amanhã filme Tom Cruise" -> Tom Cruise[img] | No Limite do Amanhã | Filmografia de Tom Cruise[img] | Ricardo Schnetzer[img] | Emily Blunt[img] | All You Need Is Kill | Doug Liman[img] | Titanic (filme de 1997)[img] | Groundhog Day[img] | Disneyland[img]
+   busca pt "Edge of Tomorrow filme" -> No Limite do Amanhã | Legends of Tomorrow[img] | Bridget Jones: The Edge of Reason[img] | Filmografia de Tom Cruise[img] | Lista de personagens de Legends of Tomorrow | Brendan Gleeson[img] | October (álbum)[img] | Emily Blunt[img] | Tom Cruise[img] | Blade Runner[img]
 não achei: No Limite do Amanhã
-   wiki pt "O Contador (filme)" -> sem imagem
-   wiki pt "The Accountant (filme)" -> sem imagem
-   wiki pt "The Accountant (2016)" -> sem imagem
-não achei: O Contador
-   wiki pt "Os Vingadores (filme)" -> sem imagem
-   wiki pt "The Avengers (filme)" -> sem imagem
-   wiki pt "Os Vingadores (filme de 2012)" -> The Avengers (2012) | https://upload.wikimedia.org/wikipedia/pt/6/69/The_Avengers_Cartaz.jpg?utm_source=pt.wikip
-ok: Os Vingadores -> The Avengers (2012) (Wikipedia pt, página exata)
-   wiki pt "Red Sparrow (filme)" -> sem imagem
-   wiki pt "Operação Red Sparrow" -> Red Sparrow | https://upload.wikimedia.org/wikipedia/pt/5/5a/Red_Sparrow.png?utm_source=pt.wikipedia.org
-ok: Red Sparrow -> Red Sparrow (Wikipedia pt, página exata)
-   wiki pt "Wind River (filme)" -> Wind River (filme) | https://upload.wikimedia.org/wikipedia/pt/a/aa/Wind_River_2017.jpg?utm_source=pt.wikipedia
-ok: Terra Selvagem -> Wind River (filme) (Wikipedia pt, página exata)
-Pronto. Com capa: 3. Sem capa: 5 (Anônimo, Anônimo 2, Kate, No Limite do Amanhã, O Contador)
+   busca pt "The Accountant filme Ben Affleck" -> Ben Affleck[img] | Filmografia de Ben Affleck[img] | The Accountant[img] | The Accountant 2[img] | Acerto de Contas | Steve Carell[img]
+ok: O Contador -> The Accountant (Wikipedia pt, busca)
+Pronto. Com capa: 3. Sem capa: 2 (Anônimo, No Limite do Amanhã)
