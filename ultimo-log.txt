@@ -1,14 +1,9 @@
-   busca pt "Nobody filme 2021 Bob Odenkirk" -> Nobody (filme) | Nobody 2 | Janeane Garofalo[img] | Michael Shannon[img] | Anna Kendrick[img] | Lista de filmes afetados pela pandemia da COVID-19 | Critics' Choice Super Awards 2022 | Fergie[img] | Critics Choice Award de melhor ator em filme de ação
-   busca pt "Anônimo filme Bob Odenkirk" -> Bob Odenkirk[img] | Nobody (filme) | Nobody 2 | Breaking Bad[svg] | Jonathan Banks[img] | Charles Manson[img] | Lista de filmes afetados pela pandemia da COVID-19 | Lista de personagens de How I Met Your Mother[svg]
+   imagens pt "Nobody (filme)" -> nenhuma
 não achei: Anônimo
-   busca pt "Nobody 2 filme 2025" -> Nobody (filme) | Nobody Wants This[img] | Nobody 2 | Mr. Nobody Against Putin | Thunderbolts*[img] | Oscar 2026[img] | Prémios Globo de Ouro de 2025[img] | Lista de filmes da A24[img] | Homem-Aranha: Um Novo Dia[img] | John Wick (franquia)[img]
-ok: Anônimo 2 -> Nobody Wants This (Wikipedia pt, busca)
-   busca pt "Kate filme 2021 Mary Elizabeth Winstead" -> Mary Elizabeth Winstead[img] | Kate (filme) | Fargo (série de televisão)[img] | Topher Grace[img] | Rainha do grito[img] | Gal Gadot[img] | Linda Hamilton[img] | Téa Leoni[img] | Jessica Alba[img] | Andie MacDowell[img]
-   busca pt "Kate filme Netflix 2021" -> Kate (filme) | Kate Siegel[img] | Kate Hudson[img] | Don't Look Up[img] | Army of the Dead | Midnight Mass[img] | Reptile (filme)[img] | Christian Convery[img] | Hush (filme de 2016)[img] | Christian Malheiros[img]
-ok: Kate -> Kate Siegel (Wikipedia pt, busca)
-   busca pt "No Limite do Amanhã filme Tom Cruise" -> Tom Cruise[img] | No Limite do Amanhã | Filmografia de Tom Cruise[img] | Ricardo Schnetzer[img] | Emily Blunt[img] | All You Need Is Kill | Doug Liman[img] | Titanic (filme de 1997)[img] | Groundhog Day[img] | Disneyland[img]
-   busca pt "Edge of Tomorrow filme" -> No Limite do Amanhã | Legends of Tomorrow[img] | Bridget Jones: The Edge of Reason[img] | Filmografia de Tom Cruise[img] | Lista de personagens de Legends of Tomorrow | Brendan Gleeson[img] | October (álbum)[img] | Emily Blunt[img] | Tom Cruise[img] | Blade Runner[img]
+   imagens pt "Nobody 2" -> nenhuma
+não achei: Anônimo 2
+   imagens pt "Kate (filme)" -> nenhuma
+não achei: Kate
+   imagens pt "No Limite do Amanhã" -> Ficheiro:Edge of Tomorrow Logo.jpg
 não achei: No Limite do Amanhã
-   busca pt "The Accountant filme Ben Affleck" -> Ben Affleck[img] | Filmografia de Ben Affleck[img] | The Accountant[img] | The Accountant 2[img] | Acerto de Contas | Steve Carell[img]
-ok: O Contador -> The Accountant (Wikipedia pt, busca)
-Pronto. Com capa: 3. Sem capa: 2 (Anônimo, No Limite do Amanhã)
+Pronto. Com capa: 0. Sem capa: 4 (Anônimo, Anônimo 2, Kate, No Limite do Amanhã)
