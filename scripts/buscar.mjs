@@ -39,6 +39,11 @@ const fItunes = async (q) => {
   const d = bons.length ? bons.sort((x, y) => String(x.releaseDate).localeCompare(String(y.releaseDate)))[0] : rs[0];
   return d ? { url: d.artworkUrl100.replace("100x100bb", "400x600bb"), matched: d.trackName + " (iTunes)" } : null;
 };
+const fItunesExato = async (q, pais) => {
+  const j = await getJson("https://itunes.apple.com/search?term=" + encodeURIComponent(q) + "&country=" + pais + "&media=movie&entity=movie&limit=15");
+  const nq = nz(q), d = (j.results || []).filter((x) => x.artworkUrl100 && nz(x.trackName) === nq).sort((x, y) => String(x.releaseDate).localeCompare(String(y.releaseDate)))[0];
+  return d ? { url: d.artworkUrl100.replace("100x100bb", "600x900bb"), matched: d.trackName + " (iTunes " + pais + ", nome exato)" } : null;
+};
 const fWiki = async (q, lang) => {
   const j = await getJson("https://" + lang + ".wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=" + encodeURIComponent(q) + "&gsrlimit=6&prop=pageimages&piprop=thumbnail&pithumbsize=500&format=json&formatversion=2");
   const ps = ((j.query && j.query.pages) || []).filter((x) => x.thumbnail).sort((a, b) => a.index - b.index);
@@ -56,6 +61,7 @@ export async function achar(it) {
   const q = it.q || it.t;
   if (it.tp === "anime") return tryAll([() => fAnilist(q), () => fKitsu(q), () => fTvmaze(q)]);
   if (it.tp === "serie") return tryAll([() => fTvmaze(q), () => fWiki(q + " série", "pt"), () => fWiki(q + " TV series", "en")]);
+  if (it.itq) return tryAll([() => fItunesExato(it.itq, it.ic || "us"), () => fItunesExato(it.itq, "br"), ...(it.wp ? [() => fWikiTitulo(it.wp, it.wl || "en")] : [])]);
   if (it.wp) return tryAll([() => fWikiTitulo(it.wp, it.wl || "en"), () => fWikiTitulo(it.wp, "pt")]);
   return tryAll([() => fItunes(q), () => fWiki(q + " filme", "pt"), () => fWiki(q + " film", "en")]);
 }
