@@ -202,5 +202,13 @@
  "divergente": {
   "titulo": "Divergente",
   "achou": "Divergent (2014) (IMDb)"
+ },
+ "a-serie-divergente-insurgente": {
+  "titulo": "A Série Divergente: Insurgente",
+  "achou": "The Divergent Series: Insurgent (2015) (IMDb)"
+ },
+ "a-serie-divergente-convergente": {
+  "titulo": "A Série Divergente: Convergente",
+  "achou": "The Divergent Series: Allegiant (2016) (IMDb)"
  }
 }
