@@ -230,5 +230,17 @@
  "jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes": {
   "titulo": "Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes",
   "achou": "The Hunger Games: The Ballad of Songbirds & Snakes (2023) (IMDb)"
+ },
+ "maze-runner-correr-ou-morrer": {
+  "titulo": "Maze Runner: Correr ou Morrer",
+  "achou": "The Maze Runner (2014) (IMDb)"
+ },
+ "maze-runner-prova-de-fogo": {
+  "titulo": "Maze Runner: Prova de Fogo",
+  "achou": "Maze Runner: The Scorch Trials (2015) (IMDb)"
+ },
+ "maze-runner-a-cura-mortal": {
+  "titulo": "Maze Runner: A Cura Mortal",
+  "achou": "Maze Runner: The Death Cure (2018) (IMDb)"
  }
 }
