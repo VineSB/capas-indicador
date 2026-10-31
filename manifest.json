@@ -210,5 +210,25 @@
  "a-serie-divergente-convergente": {
   "titulo": "A Série Divergente: Convergente",
   "achou": "The Divergent Series: Allegiant (2016) (IMDb)"
+ },
+ "jogos-vorazes": {
+  "titulo": "Jogos Vorazes",
+  "achou": "The Hunger Games (2012) (IMDb)"
+ },
+ "jogos-vorazes-em-chamas": {
+  "titulo": "Jogos Vorazes: Em Chamas",
+  "achou": "The Hunger Games: Catching Fire (2013) (IMDb)"
+ },
+ "jogos-vorazes-a-esperanca-parte-1": {
+  "titulo": "Jogos Vorazes: A Esperança - Parte 1",
+  "achou": "The Hunger Games: Mockingjay - Part 1 (2014) (IMDb)"
+ },
+ "jogos-vorazes-a-esperanca-o-final": {
+  "titulo": "Jogos Vorazes: A Esperança - O Final",
+  "achou": "The Hunger Games: Mockingjay - Part 2 (2015) (IMDb)"
+ },
+ "jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes": {
+  "titulo": "Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes",
+  "achou": "The Hunger Games: The Ballad of Songbirds & Snakes (2023) (IMDb)"
  }
 }
