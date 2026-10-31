@@ -146,5 +146,9 @@
  "bleach-thousand-year-blood-war": {
   "titulo": "Bleach: Thousand-Year Blood War",
   "achou": "BLEACH: Thousand-Year Blood War (AniList)"
+ },
+ "django-livre": {
+  "titulo": "Django Livre",
+  "achou": "Django Unchained (2012) (IMDb)"
  }
 }
