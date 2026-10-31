@@ -150,5 +150,9 @@
  "django-livre": {
   "titulo": "Django Livre",
   "achou": "Django Unchained (2012) (IMDb)"
+ },
+ "mato-seihei-no-slave": {
+  "titulo": "Mato Seihei no Slave",
+  "achou": "Chained Soldier (AniList)"
  }
 }
