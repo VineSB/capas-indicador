@@ -1,5 +1,2 @@
-ok: Lupin -> Lupin (TVmaze)
-ok: Kekkai Sensen -> Blood Blockade Battlefront (AniList)
-   fonte falhou: HTTP 404 https://graphql.anilist.co
-ok: Uncle from Another World -> Uncle from Another World (Kitsu)
-Pronto. Com capa: 3. Sem capa: 0
+ok: Hitman Reborn! -> REBORN! (AniList)
+Pronto. Com capa: 1. Sem capa: 0
