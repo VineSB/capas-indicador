@@ -1,7 +1,3 @@
-   imdb "The Maze Runner" 2014 -> The Maze Runner (2014, feature) | Maze Runner: The Death Cure (2018, feature) | Maze Runner: The Scorch Trials (2015, feature) | The Maze Runner (2009, video) | The Maze Runner: The Kill Order (2022, short) [sem img] | The Maze Runner: Finding the Gang (2014, video)
-ok: Maze Runner: Correr ou Morrer -> The Maze Runner (2014) (IMDb)
-   imdb "Maze Runner: The Scorch Trials" 2015 -> Maze Runner: The Scorch Trials (2015, feature) | The Maze Runner (2014, feature) | Maze Runner: The Death Cure (2018, feature) | The Maze Runner (2009, video) | The Maze Runner: The Kill Order (2022, short) [sem img] | The Maze Runner: Finding the Gang (2014, video)
-ok: Maze Runner: Prova de Fogo -> Maze Runner: The Scorch Trials (2015) (IMDb)
-   imdb "Maze Runner: The Death Cure" 2018 -> Maze Runner: The Death Cure (2018, feature) | Maze Runner: The Death Cure - Gag Reel (?, video) | The Maze Runner (2014, feature) | Maze Runner: The Scorch Trials (2015, feature) | The Maze Runner (2009, video) | The Maze Runner: The Kill Order (2022, short) [sem img]
-ok: Maze Runner: A Cura Mortal -> Maze Runner: The Death Cure (2018) (IMDb)
-Pronto. Com capa: 3. Sem capa: 0
+   fonte falhou: HTTP 404 https://graphql.anilist.co
+ok: Hell Mode: Gamer Who Likes Hardcore Game Becomes Master in a Parallel World -> HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2 (Kitsu)
+Pronto. Com capa: 1. Sem capa: 0
