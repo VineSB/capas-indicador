@@ -1,5 +1,4 @@
 [
-{"t":"Divergente","tp":"filme","s":"divergente","imdb":"Divergent","ano":2014},
-{"t":"A Série Divergente: Insurgente","tp":"filme","s":"a-serie-divergente-insurgente","imdb":"Insurgent","ano":2015},
-{"t":"A Série Divergente: Convergente","tp":"filme","s":"a-serie-divergente-convergente","imdb":"Allegiant","ano":2016}
+{"t":"A Série Divergente: Insurgente","tp":"filme","s":"a-serie-divergente-insurgente","imdb":"The Divergent Series: Insurgent","ano":2015,"refazer":true},
+{"t":"A Série Divergente: Convergente","tp":"filme","s":"a-serie-divergente-convergente","imdb":"The Divergent Series: Allegiant","ano":2016,"refazer":true}
 ]
