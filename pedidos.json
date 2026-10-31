@@ -1,7 +1,5 @@
 [
-{"t":"Jogos Vorazes","tp":"filme","s":"jogos-vorazes","imdb":"The Hunger Games","ano":2012},
-{"t":"Jogos Vorazes: Em Chamas","tp":"filme","s":"jogos-vorazes-em-chamas","imdb":"The Hunger Games: Catching Fire","ano":2013},
-{"t":"Jogos Vorazes: A Esperança - Parte 1","tp":"filme","s":"jogos-vorazes-a-esperanca-parte-1","imdb":"The Hunger Games: Mockingjay - Part 1","ano":2014},
-{"t":"Jogos Vorazes: A Esperança - O Final","tp":"filme","s":"jogos-vorazes-a-esperanca-o-final","imdb":"The Hunger Games: Mockingjay - Part 2","ano":2015},
-{"t":"Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes","tp":"filme","s":"jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes","imdb":"The Hunger Games: The Ballad of Songbirds & Snakes","ano":2023}
+{"t":"Maze Runner: Correr ou Morrer","tp":"filme","s":"maze-runner-correr-ou-morrer","imdb":"The Maze Runner","ano":2014},
+{"t":"Maze Runner: Prova de Fogo","tp":"filme","s":"maze-runner-prova-de-fogo","imdb":"Maze Runner: The Scorch Trials","ano":2015},
+{"t":"Maze Runner: A Cura Mortal","tp":"filme","s":"maze-runner-a-cura-mortal","imdb":"Maze Runner: The Death Cure","ano":2018}
 ]
