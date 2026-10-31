@@ -134,5 +134,13 @@
  "a-lista-terminal-dark-wolf": {
   "titulo": "A Lista Terminal: Dark Wolf",
   "achou": "The Terminal List: Dark Wolf (TVmaze)"
+ },
+ "boruto-naruto-next-generations": {
+  "titulo": "Boruto: Naruto Next Generations",
+  "achou": "Boruto: Naruto Next Generations (AniList)"
+ },
+ "naruto-shippuden": {
+  "titulo": "Naruto Shippuden",
+  "achou": "Naruto: Shippuden (AniList)"
  }
 }

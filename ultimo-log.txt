@@ -1,2 +1,3 @@
-ok: A Lista Terminal: Dark Wolf -> The Terminal List: Dark Wolf (TVmaze)
-Pronto. Com capa: 1. Sem capa: 0
+ok: Boruto: Naruto Next Generations -> Boruto: Naruto Next Generations (AniList)
+ok: Naruto Shippuden -> Naruto: Shippuden (AniList)
+Pronto. Com capa: 2. Sem capa: 0
