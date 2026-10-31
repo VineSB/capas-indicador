@@ -166,5 +166,13 @@
  "rosario-vampire": {
   "titulo": "Rosario + Vampire",
   "achou": "Rosario + Vampire (AniList)"
+ },
+ "kanojo-okarishimasu-rent-a-girlfriend": {
+  "titulo": "Kanojo, Okarishimasu (Rent-a-Girlfriend)",
+  "achou": "Rent-a-Girlfriend (AniList)"
+ },
+ "shuumatsu-no-harem-world-s-end-harem": {
+  "titulo": "Shuumatsu no Harem (World's End Harem)",
+  "achou": "World's End Harem (AniList)"
  }
 }
