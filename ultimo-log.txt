@@ -1,7 +1,2 @@
-   imdb "Dune" 2021 -> Dune (2021, feature) | Dune: Part Three (2026, feature) | Dune: Part Two (2024, feature) | Dune (1984, feature) | Dune: Prophecy (2024, TV series) | Dune (?, ?)
-ok: Duna -> Dune (2021) (IMDb)
-   imdb "Edge of Tomorrow" 2014 -> Edge of Tomorrow (2014, feature) | Edge of Tomorrow 2 (?, feature) [sem img] | Edge of Tomorrow (?, ?) [sem img] | Edge of Tomorrow: Weapons of the Future (2014, video) | Edge of Tomorrow Special (2014, TV movie) | The Absolutely, Amazing, Wonderful, Frightening, Threatening Edge of Tomorrow (2024, feature)
-ok: Edge of Tomorrow -> Edge of Tomorrow (2014) (IMDb)
-ok: Pantheon -> Science SARU × MBS Original Short Anime Daisakusen! (AniList)
-ok: Pluribus -> Pluribus (TVmaze)
-Pronto. Com capa: 4. Sem capa: 0
+ok: Pantheon -> Pantheon (TVmaze)
+Pronto. Com capa: 1. Sem capa: 0
