@@ -418,5 +418,25 @@
  "um-maluco-no-golfe": {
   "titulo": "Um Maluco no Golfe",
   "achou": "Happy Gilmore (1996) (IMDb)"
+ },
+ "ataque-dos-caes": {
+  "titulo": "Ataque dos Cães",
+  "achou": "The Power of the Dog (2021) (IMDb)"
+ },
+ "barry": {
+  "titulo": "Barry",
+  "achou": "Barry (TVmaze)"
+ },
+ "ouran-high-school-host-club": {
+  "titulo": "Ouran High School Host Club",
+  "achou": "Ouran High School Host Club (AniList)"
+ },
+ "pacific-rim-tempestade-descontrolada": {
+  "titulo": "Pacific Rim: Tempestade Descontrolada",
+  "achou": "Pacific Rim: Uprising (2018) (IMDb)"
+ },
+ "shogun": {
+  "titulo": "Shōgun",
+  "achou": "Shōgun (TVmaze)"
  }
 }

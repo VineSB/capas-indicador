@@ -1,11 +1,8 @@
-   imdb "Pokémon Detective Pikachu" 2019 -> Pokémon: Detective Pikachu (2019, feature) | Pokémon Detective Pikachu Sequel (?, feature) [sem img]
-ok: Detetive Pikachu -> Pokémon: Detective Pikachu (2019) (IMDb)
-   imdb "Knives Out" 2019 -> Knives Out (2019, feature) | Knives Out (2016, feature) | Knives Out (?, ?) [sem img] | Murder Mystery: Knives Out (2021, TV mini-series) | Wake Up Dead Man (2025, feature) | Cutthroat Kitchen: Knives Out (2025, TV series)
-ok: Entre Facas e Segredos -> Knives Out (2019) (IMDb)
-ok: Nichijou -> Nichijou - My Ordinary Life (AniList)
-   imdb "Ghostbusters" 1984 -> Ghostbusters (1984, feature) | Ghostbusters (2016, feature) | Ghostbusters II (1989, feature) | Ghostbusters: Afterlife (2021, feature) | Ghostbusters: Frozen Empire (2024, feature) | Ghostbusters (1986, TV series)
-ok: Os Caça-Fantasmas -> Ghostbusters (1984) (IMDb)
-ok: Saiki K. -> The Disastrous Life of Saiki K.: Reawakened (AniList)
-   imdb "Happy Gilmore" 1996 -> Happy Gilmore (1996, feature) | Happy Gilmore 2 (2025, feature) | Happy Gilmore: Cast & Crew Biographies (1998, video) | Happy Gilmore: Outtakes (2005, video) | The Making of 'Happy Gilmore' (1996, video) | Happy Gilmore: Deleted Scenes (2005, video)
-ok: Um Maluco no Golfe -> Happy Gilmore (1996) (IMDb)
-Pronto. Com capa: 6. Sem capa: 0
+   imdb "The Power of the Dog" 2021 -> Jemaine Clement (?, ?) | Iain Armitage (?, ?) | Reece Shearsmith (?, ?) | Mark Salling (?, ?) | The Power of the Dog (2021, feature) | Steve Pemberton (?, ?)
+ok: Ataque dos Cães -> The Power of the Dog (2021) (IMDb)
+ok: Barry -> Barry (TVmaze)
+ok: Ouran High School Host Club -> Ouran High School Host Club (AniList)
+   imdb "Pacific Rim: Uprising" 2018 -> Pacific Rim: Uprising (2018, feature) | Pacific Rim Uprising: The Underworld of Uprising (2018, video) | Pacific Rim Uprising: Going Mega (2018, video) [sem img] | Pacific Rim Uprising: Unexpected Villain (2018, video) [sem img] | Pacific Rim Uprising: Hall of Heroes (2018, video) [sem img] | Pacific Rim Uprising: Secrets of Shao (2018, video) [sem img]
+ok: Pacific Rim: Tempestade Descontrolada -> Pacific Rim: Uprising (2018) (IMDb)
+ok: Shōgun -> Shōgun (TVmaze)
+Pronto. Com capa: 5. Sem capa: 0
