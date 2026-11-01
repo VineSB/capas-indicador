@@ -1,7 +1,3 @@
-   imdb "Kingsman: The Secret Service" 2014 -> Kingsman: The Secret Service (2014, feature) | Kingsman: The Secret Service Revealed (2015, video) | Tonny Lindberg (?, ?) [sem img] | Ola Håkansson (?, ?) | Leif Johansson (?, ?) [sem img] | The Secret Service (1969, TV series)
-ok: Kingsman: Serviço Secreto -> Kingsman: The Secret Service (2014) (IMDb)
-   imdb "Kingsman: The Golden Circle" 2017 -> Kingsman: The Golden Circle (2017, feature) | Kingsman: Inside the Golden Circle (2017, video) | The Making of Kingsman: The Golden Circle (2017, video) [sem img] | Black Cab Chaos: Anatomy of a Killer Chase (2017, video) | The Golden Circle (1959, TV special) [sem img] | Knights of the Golden Circle (2008, video) [sem img]
-ok: Kingsman: O Círculo Dourado -> Kingsman: The Golden Circle (2017) (IMDb)
-   imdb "The King's Man" 2021 -> Sam Peckinpah (?, ?) | Vincent Price (?, ?) | Randy Savage (?, ?) | Stan Lee (?, ?) | Robert Taylor (?, ?) | Tip 'T.I.' Harris (?, ?)
-não achei: The King's Man: A Origem
-Pronto. Com capa: 2. Sem capa: 1 (The King's Man: A Origem)
+   imdb "The Kings Man" 2021 -> Ye Wen: Jiulong Cheng Zhai (2019, feature) | The King's Man (2021, feature) | The Philosopher Kings: I Am the Man (1997, musicVideo) [sem img] | Adam and the Ants: Kings of the Wild Frontier (Live in Manchester) (1980, musicVideo) [sem img] | The Manhattan Rhythm Kings (?, ?) [sem img] | The King's Man: The Traitor King (?, feature)
+ok: The King's Man: A Origem -> The King's Man (2021) (IMDb)
+Pronto. Com capa: 1. Sem capa: 0
