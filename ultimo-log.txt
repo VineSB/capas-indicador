@@ -1,2 +1,8 @@
-ok: So What's Wrong with Getting Reborn as a Goblin? -> So What's Wrong with Getting Reborn as a Goblin? (AniList)
-Pronto. Com capa: 1. Sem capa: 0
+ok: Chernobyl -> Chernobyl (TVmaze)
+   imdb "Fight Club" 1999 -> Fight Club (1999, feature) | Fight Club (2023, feature) | Superhero Fight Club (2015, TV short) | Zombie Fight Club (2014, feature) | Female Fight Squad (2016, feature) | Superhero Fight Club 2.0 (2016, video)
+ok: Clube da Luta -> Fight Club (1999) (IMDb)
+ok: Monster -> Monster (AniList)
+   imdb "Catch Me If You Can" 2002 -> Catch Me If You Can (2002, feature) | Catch Me If You Can (1989, feature) | Catch Me If You Can (2025, TV mini-series) | Catch Me If You Can (1998, TV movie) | Catch Me If You Can (1959, feature) | Catch Me If You Can (2015, short)
+ok: Prenda-me Se For Capaz -> Catch Me If You Can (2002) (IMDb)
+ok: Succession -> Succession (TVmaze)
+Pronto. Com capa: 5. Sem capa: 0
