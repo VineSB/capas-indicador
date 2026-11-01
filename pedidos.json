@@ -1,8 +1,7 @@
 [
-{"t":"Detetive Pikachu","tp":"filme","s":"detetive-pikachu","imdb":"Pokémon Detective Pikachu","ano":2019},
-{"t":"Entre Facas e Segredos","tp":"filme","s":"entre-facas-e-segredos","imdb":"Knives Out","ano":2019},
-{"t":"Nichijou","tp":"anime","s":"nichijou","q":"Nichijou"},
-{"t":"Os Caça-Fantasmas","tp":"filme","s":"os-caca-fantasmas","imdb":"Ghostbusters","ano":1984},
-{"t":"Saiki K.","tp":"anime","s":"saiki-k","q":"The Disastrous Life of Saiki K."},
-{"t":"Um Maluco no Golfe","tp":"filme","s":"um-maluco-no-golfe","imdb":"Happy Gilmore","ano":1996}
+{"t":"Ataque dos Cães","tp":"filme","s":"ataque-dos-caes","imdb":"The Power of the Dog","ano":2021},
+{"t":"Barry","tp":"serie","s":"barry","q":"Barry"},
+{"t":"Ouran High School Host Club","tp":"anime","s":"ouran-high-school-host-club","q":"Ouran High School Host Club"},
+{"t":"Pacific Rim: Tempestade Descontrolada","tp":"filme","s":"pacific-rim-tempestade-descontrolada","imdb":"Pacific Rim: Uprising","ano":2018},
+{"t":"Shōgun","tp":"serie","s":"shogun","q":"Shōgun"}
 ]
