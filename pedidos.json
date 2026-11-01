@@ -1,7 +1,3 @@
 [
-{"t":"Dark Matter","tp":"serie","s":"dark-matter","q":"Dark Matter 2024"},
-{"t":"Elysium","tp":"filme","s":"elysium","imdb":"Elysium","ano":2013},
-{"t":"Ghost in the Shell: O Fantasma do Futuro","tp":"anime","s":"ghost-in-the-shell-o-fantasma-do-futuro","q":"Ghost in the Shell 1995"},
-{"t":"Oblivion","tp":"filme","s":"oblivion","imdb":"Oblivion","ano":2013},
-{"t":"Star Wars: Andor","tp":"serie","s":"star-wars-andor","q":"Andor"}
+{"t":"Dark Matter","tp":"filme","s":"dark-matter","imdb":"Dark Matter","ano":2024,"refazer":true}
 ]
