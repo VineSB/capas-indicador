@@ -1,3 +1,4 @@
-   imdb "King Arthur: Legend of the Sword" 2017 -> King Arthur: Legend of the Sword (2017, feature) | The Legend of King Arthur (1979, TV series) | The Legend of King Arthur (2015, video) | King Arthur: Sword from the Stone (2017, video) | Mick Foley (?, ?) | Chris Jericho (?, ?)
-ok: Rei Arthur: A Lenda da Espada -> King Arthur: Legend of the Sword (2017) (IMDb)
-Pronto. Com capa: 1. Sem capa: 0
+ok: Sombra e Ossos -> Shadow and Bone (TVmaze)
+ok: Terra de Ninguém (Warrior) -> Warrior (TVmaze)
+ok: Vikings: Valhalla -> Vikings: Valhalla (TVmaze)
+Pronto. Com capa: 3. Sem capa: 0
