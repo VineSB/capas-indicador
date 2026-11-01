@@ -438,5 +438,81 @@
  "shogun": {
   "titulo": "Shōgun",
   "achou": "Shōgun (TVmaze)"
+ },
+ "akame-ga-kill": {
+  "titulo": "Akame ga Kill!",
+  "achou": "Akame ga Kill! (AniList)"
+ },
+ "assassination-classroom": {
+  "titulo": "Assassination Classroom",
+  "achou": "Assassination Classroom (AniList)"
+ },
+ "blue-exorcist": {
+  "titulo": "Blue Exorcist",
+  "achou": "Blue Exorcist (AniList)"
+ },
+ "cavaleiros-do-zodiaco": {
+  "titulo": "Cavaleiros do Zodíaco",
+  "achou": "Saint Seiya: Knights of the Zodiac (AniList)"
+ },
+ "edens-zero": {
+  "titulo": "Edens Zero",
+  "achou": "EDENS ZERO (AniList)"
+ },
+ "food-wars": {
+  "titulo": "Food Wars!",
+  "achou": "Food Wars! (AniList)"
+ },
+ "fullmetal-alchemist": {
+  "titulo": "Fullmetal Alchemist",
+  "achou": "Fullmetal Alchemist (AniList)"
+ },
+ "jojo-s-bizarre-adventure": {
+  "titulo": "JoJo's Bizarre Adventure",
+  "achou": "JoJo's Bizarre Adventure (AniList)"
+ },
+ "jujutsu-kaisen-0": {
+  "titulo": "Jujutsu Kaisen 0",
+  "achou": "Jujutsu Kaisen 0 (filme) (Wikipedia pt)"
+ },
+ "magi-the-labyrinth-of-magic": {
+  "titulo": "Magi: The Labyrinth of Magic",
+  "achou": "Magi: The Labyrinth of Magic (AniList)"
+ },
+ "noragami": {
+  "titulo": "Noragami",
+  "achou": "Noragami (AniList)"
+ },
+ "samurai-x": {
+  "titulo": "Samurai X",
+  "achou": "Rurouni Kenshin (AniList)"
+ },
+ "seven-deadly-sins": {
+  "titulo": "Seven Deadly Sins",
+  "achou": "Hawk no Onayami Soudanshitsu Special (AniList)"
+ },
+ "sword-art-online": {
+  "titulo": "Sword Art Online",
+  "achou": "Sword Art Online (AniList)"
+ },
+ "the-promised-neverland": {
+  "titulo": "The Promised Neverland",
+  "achou": "The Promised Neverland (AniList)"
+ },
+ "tokyo-revengers": {
+  "titulo": "Tokyo Revengers",
+  "achou": "Tokyo Revengers (AniList)"
+ },
+ "toriko": {
+  "titulo": "Toriko",
+  "achou": "Toriko (AniList)"
+ },
+ "undead-unluck": {
+  "titulo": "Undead Unluck",
+  "achou": "Undead Unluck (AniList)"
+ },
+ "yu-yu-hakusho-os-cavaleiros-do-zodiaco": {
+  "titulo": "Yu Yu Hakusho: Os Cavaleiros do Zodíaco",
+  "achou": "Yu Yu Hakusho: Ghostfiles (AniList)"
  }
 }
