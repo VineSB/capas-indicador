@@ -1,3 +1,3 @@
-   imdb "The Kings Man" 2021 -> Ye Wen: Jiulong Cheng Zhai (2019, feature) | The King's Man (2021, feature) | The Philosopher Kings: I Am the Man (1997, musicVideo) [sem img] | Adam and the Ants: Kings of the Wild Frontier (Live in Manchester) (1980, musicVideo) [sem img] | The Manhattan Rhythm Kings (?, ?) [sem img] | The King's Man: The Traitor King (?, feature)
-ok: The King's Man: A Origem -> The King's Man (2021) (IMDb)
+   imdb "King Arthur: Legend of the Sword" 2017 -> King Arthur: Legend of the Sword (2017, feature) | The Legend of King Arthur (1979, TV series) | The Legend of King Arthur (2015, video) | King Arthur: Sword from the Stone (2017, video) | Mick Foley (?, ?) | Chris Jericho (?, ?)
+ok: Rei Arthur: A Lenda da Espada -> King Arthur: Legend of the Sword (2017) (IMDb)
 Pronto. Com capa: 1. Sem capa: 0
