@@ -1,7 +1,7 @@
 [
-{"t":"Asobi Asobase","tp":"anime","s":"asobi-asobase","q":"Asobi Asobase"},
-{"t":"Daily Lives of High School Boys","tp":"anime","s":"daily-lives-of-high-school-boys","q":"Danshi Koukousei no Nichijou"},
-{"t":"Great Teacher Onizuka","tp":"anime","s":"great-teacher-onizuka","q":"Great Teacher Onizuka"},
-{"t":"Os Dias de Folga de Jesus e Buda","tp":"anime","s":"os-dias-de-folga-de-jesus-e-buda","q":"Saint Young Men"},
-{"t":"The Disastrous Life of Saiki K.","tp":"anime","s":"the-disastrous-life-of-saiki-k","q":"Saiki Kusuo no Psi-nan"}
+{"t":"Dark Matter","tp":"serie","s":"dark-matter","q":"Dark Matter 2024"},
+{"t":"Elysium","tp":"filme","s":"elysium","imdb":"Elysium","ano":2013},
+{"t":"Ghost in the Shell: O Fantasma do Futuro","tp":"anime","s":"ghost-in-the-shell-o-fantasma-do-futuro","q":"Ghost in the Shell 1995"},
+{"t":"Oblivion","tp":"filme","s":"oblivion","imdb":"Oblivion","ano":2013},
+{"t":"Star Wars: Andor","tp":"serie","s":"star-wars-andor","q":"Andor"}
 ]
