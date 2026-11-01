@@ -346,5 +346,21 @@
  "ex-machina": {
   "titulo": "Ex Machina",
   "achou": "Ex Machina (2014) (IMDb)"
+ },
+ "duna": {
+  "titulo": "Duna",
+  "achou": "Dune (2021) (IMDb)"
+ },
+ "edge-of-tomorrow": {
+  "titulo": "Edge of Tomorrow",
+  "achou": "Edge of Tomorrow (2014) (IMDb)"
+ },
+ "pantheon": {
+  "titulo": "Pantheon",
+  "achou": "Science SARU × MBS Original Short Anime Daisakusen! (AniList)"
+ },
+ "pluribus": {
+  "titulo": "Pluribus",
+  "achou": "Pluribus (TVmaze)"
  }
 }
