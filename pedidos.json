@@ -1,7 +1,7 @@
 [
-{"t":"Chernobyl","tp":"serie","s":"chernobyl","q":"Chernobyl"},
-{"t":"Clube da Luta","tp":"filme","s":"clube-da-luta","imdb":"Fight Club","ano":1999},
-{"t":"Monster","tp":"anime","s":"monster","q":"Monster"},
-{"t":"Prenda-me Se For Capaz","tp":"filme","s":"prenda-me-se-for-capaz","imdb":"Catch Me If You Can","ano":2002},
-{"t":"Succession","tp":"serie","s":"succession","q":"Succession"}
+{"t":"Asobi Asobase","tp":"anime","s":"asobi-asobase","q":"Asobi Asobase"},
+{"t":"Daily Lives of High School Boys","tp":"anime","s":"daily-lives-of-high-school-boys","q":"Danshi Koukousei no Nichijou"},
+{"t":"Great Teacher Onizuka","tp":"anime","s":"great-teacher-onizuka","q":"Great Teacher Onizuka"},
+{"t":"Os Dias de Folga de Jesus e Buda","tp":"anime","s":"os-dias-de-folga-de-jesus-e-buda","q":"Saint Young Men"},
+{"t":"The Disastrous Life of Saiki K.","tp":"anime","s":"the-disastrous-life-of-saiki-k","q":"Saiki Kusuo no Psi-nan"}
 ]
