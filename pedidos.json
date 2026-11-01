@@ -1,9 +1,8 @@
 [
-{"t":"Brincando com Fogo","tp":"filme","s":"brincando-com-fogo","imdb":"Playing with Fire","ano":2019},
-{"t":"Brooklyn Nine-Nine","tp":"serie","s":"brooklyn-nine-nine","q":"Brooklyn Nine-Nine"},
-{"t":"Gente Grande","tp":"filme","s":"gente-grande","imdb":"Grown Ups","ano":2010},
-{"t":"Os Delírios de Consumo de Becky Bloom","tp":"filme","s":"os-delirios-de-consumo-de-becky-bloom","imdb":"Confessions of a Shopaholic","ano":2009},
-{"t":"Rapidinho: The Disastrous Life of Saiki K.","tp":"anime","s":"rapidinho-the-disastrous-life-of-saiki-k","q":"The Disastrous Life of Saiki K."},
-{"t":"Todo Mundo em Pânico","tp":"filme","s":"todo-mundo-em-panico","imdb":"Scary Movie","ano":2000},
-{"t":"Todo Mundo Odeia o Chris","tp":"serie","s":"todo-mundo-odeia-o-chris","q":"Everybody Hates Chris"}
+{"t":"Detetive Pikachu","tp":"filme","s":"detetive-pikachu","imdb":"Pokémon Detective Pikachu","ano":2019},
+{"t":"Entre Facas e Segredos","tp":"filme","s":"entre-facas-e-segredos","imdb":"Knives Out","ano":2019},
+{"t":"Nichijou","tp":"anime","s":"nichijou","q":"Nichijou"},
+{"t":"Os Caça-Fantasmas","tp":"filme","s":"os-caca-fantasmas","imdb":"Ghostbusters","ano":1984},
+{"t":"Saiki K.","tp":"anime","s":"saiki-k","q":"The Disastrous Life of Saiki K."},
+{"t":"Um Maluco no Golfe","tp":"filme","s":"um-maluco-no-golfe","imdb":"Happy Gilmore","ano":1996}
 ]
