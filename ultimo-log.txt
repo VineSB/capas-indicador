@@ -1,2 +1,12 @@
-não achei: Orphan Black
-Pronto. Com capa: 0. Sem capa: 1 (Orphan Black)
+   imdb "Playing with Fire" 2019 -> Playing with Fire (2019, feature) | Playing with Fire (2019, TV series) | They're Playing with Fire (1984, feature) | Playing with Fire (1975, feature) | Playing with Fire (2008, feature) | Playing with Fire (2025, TV movie)
+ok: Brincando com Fogo -> Playing with Fire (2019) (IMDb)
+ok: Brooklyn Nine-Nine -> Brooklyn Nine-Nine (TVmaze)
+   imdb "Grown Ups" 2010 -> Grown Ups (2010, feature) | Grown Ups 2 (2013, feature) | Grown Ups 3 (2027, feature) [sem img] | Toxic (2026, feature) | Grown Ups (?, TV series) [sem img] | Grown Ups (2022, TV series)
+ok: Gente Grande -> Grown Ups (2010) (IMDb)
+   imdb "Confessions of a Shopaholic" 2009 -> Confessions of a Shopaholic (2009, feature) | Confessions of a Dangerous Mind (2002, feature) | Confessions of a Teenage Drama Queen (2004, feature) | Confessions of a Young American Housewife (1974, feature) | Confessions of a Window Cleaner (1974, feature) | Intimate Confessions of a Chinese Courtesan (1972, feature)
+ok: Os Delírios de Consumo de Becky Bloom -> Confessions of a Shopaholic (2009) (IMDb)
+ok: Rapidinho: The Disastrous Life of Saiki K. -> The Disastrous Life of Saiki K.: Reawakened (AniList)
+   imdb "Scary Movie" 2000 -> Scary Movie (2026, feature) | Scary Movie (2000, feature) | Scary Movie 2 (2001, feature) | Scary Movie 3 (2003, feature) | Scary Movie 5 (2013, feature) | Scary Movie 4 (2006, feature)
+ok: Todo Mundo em Pânico -> Scary Movie (2000) (IMDb)
+ok: Todo Mundo Odeia o Chris -> Everybody Hates Chris (TVmaze)
+Pronto. Com capa: 7. Sem capa: 0

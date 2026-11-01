@@ -366,5 +366,33 @@
  "orphan-black": {
   "titulo": "Orphan Black",
   "achou": "Orphan Black (TVmaze)"
+ },
+ "brincando-com-fogo": {
+  "titulo": "Brincando com Fogo",
+  "achou": "Playing with Fire (2019) (IMDb)"
+ },
+ "brooklyn-nine-nine": {
+  "titulo": "Brooklyn Nine-Nine",
+  "achou": "Brooklyn Nine-Nine (TVmaze)"
+ },
+ "gente-grande": {
+  "titulo": "Gente Grande",
+  "achou": "Grown Ups (2010) (IMDb)"
+ },
+ "os-delirios-de-consumo-de-becky-bloom": {
+  "titulo": "Os Delírios de Consumo de Becky Bloom",
+  "achou": "Confessions of a Shopaholic (2009) (IMDb)"
+ },
+ "rapidinho-the-disastrous-life-of-saiki-k": {
+  "titulo": "Rapidinho: The Disastrous Life of Saiki K.",
+  "achou": "The Disastrous Life of Saiki K.: Reawakened (AniList)"
+ },
+ "todo-mundo-em-panico": {
+  "titulo": "Todo Mundo em Pânico",
+  "achou": "Scary Movie (2000) (IMDb)"
+ },
+ "todo-mundo-odeia-o-chris": {
+  "titulo": "Todo Mundo Odeia o Chris",
+  "achou": "Everybody Hates Chris (TVmaze)"
  }
 }
