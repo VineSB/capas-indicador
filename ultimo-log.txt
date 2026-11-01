@@ -1,9 +1,3 @@
-ok: Dark Matter -> Dark Matter (2024 TV series) (Wikipedia en)
-   imdb "Elysium" 2013 -> Elysium (2013, feature) | Elysium (2003, feature) | Disco Elysium (2019, video game) | Elysium (1987, feature) | Elysium (?, TV series) [sem img] | Elysium (?, short)
-ok: Elysium -> Elysium (2013) (IMDb)
-   fonte falhou: HTTP 404 https://graphql.anilist.co
-ok: Ghost in the Shell: O Fantasma do Futuro -> Ghost in the Shell (Kitsu)
-   imdb "Oblivion" 2013 -> Oblivion (2013, feature) | Living in Oblivion (1995, feature) | Oblivion (1994, feature) | Phantasm IV: Oblivion (1998, feature) | Mark Arden (?, ?) [sem img] | Stephen Frost (?, ?)
-ok: Oblivion -> Oblivion (2013) (IMDb)
-ok: Star Wars: Andor -> Andor (TVmaze)
-Pronto. Com capa: 5. Sem capa: 0
+   imdb "Dark Matter" 2024 -> Dark Matter (2024, TV series) | Dark Matter (2015, TV series) | Dark Matter (2007, feature) | Dark Matter (2023, feature) | Dark Matter: After Dark (2017, TV movie) | Dark Matter (2014, feature)
+não achei: Dark Matter
+Pronto. Com capa: 0. Sem capa: 1 (Dark Matter)
