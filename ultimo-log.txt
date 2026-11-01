@@ -1,4 +1,3 @@
-ok: Sombra e Ossos -> Shadow and Bone (TVmaze)
-ok: Terra de Ninguém (Warrior) -> Warrior (TVmaze)
-ok: Vikings: Valhalla -> Vikings: Valhalla (TVmaze)
-Pronto. Com capa: 3. Sem capa: 0
+   imdb "Jack Reacher: Never Go Back" 2016 -> Jack Reacher: Never Go Back (2016, feature) | We Can Never Go Back (2026, short) | Never Go Back (2017, feature) | Never Go Back (2012, short) | Never Go Back (2020, feature) [sem img] | Dennis Lloyd: Never Go Back (2019, musicVideo)
+ok: Reacher: Jack Reacher - Dia de Matar -> Jack Reacher: Never Go Back (2016) (IMDb)
+Pronto. Com capa: 1. Sem capa: 0
