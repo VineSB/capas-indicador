@@ -1,1 +1,9 @@
-[{"t":"Orphan Black","tp":"serie","q":"Orphan Black 2013","s":"orphan-black","refazer":true}]
+[
+{"t":"Brincando com Fogo","tp":"filme","s":"brincando-com-fogo","imdb":"Playing with Fire","ano":2019},
+{"t":"Brooklyn Nine-Nine","tp":"serie","s":"brooklyn-nine-nine","q":"Brooklyn Nine-Nine"},
+{"t":"Gente Grande","tp":"filme","s":"gente-grande","imdb":"Grown Ups","ano":2010},
+{"t":"Os Delírios de Consumo de Becky Bloom","tp":"filme","s":"os-delirios-de-consumo-de-becky-bloom","imdb":"Confessions of a Shopaholic","ano":2009},
+{"t":"Rapidinho: The Disastrous Life of Saiki K.","tp":"anime","s":"rapidinho-the-disastrous-life-of-saiki-k","q":"The Disastrous Life of Saiki K."},
+{"t":"Todo Mundo em Pânico","tp":"filme","s":"todo-mundo-em-panico","imdb":"Scary Movie","ano":2000},
+{"t":"Todo Mundo Odeia o Chris","tp":"serie","s":"todo-mundo-odeia-o-chris","q":"Everybody Hates Chris"}
+]
