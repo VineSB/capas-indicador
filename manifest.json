@@ -314,5 +314,25 @@
  "reacher-jack-reacher-dia-de-matar": {
   "titulo": "Reacher: Jack Reacher - Dia de Matar",
   "achou": "Jack Reacher: Never Go Back (2016) (IMDb)"
+ },
+ "devs": {
+  "titulo": "Devs",
+  "achou": "Devs (TVmaze)"
+ },
+ "edge-of-tomorrow-ja-visto-substituido-a-chegada": {
+  "titulo": "Edge of Tomorrow (já visto) substituído: A Chegada",
+  "achou": "Arrival (2016) (IMDb)"
+ },
+ "gattaca-experiencia-genetica": {
+  "titulo": "Gattaca: Experiência Genética",
+  "achou": "Gattaca (1997) (IMDb)"
+ },
+ "pluto": {
+  "titulo": "Pluto",
+  "achou": "PLUTO (AniList)"
+ },
+ "steins-gate": {
+  "titulo": "Steins;Gate",
+  "achou": "Steins;Gate (AniList)"
  }
 }

@@ -1,3 +1,10 @@
-   imdb "Jack Reacher: Never Go Back" 2016 -> Jack Reacher: Never Go Back (2016, feature) | We Can Never Go Back (2026, short) | Never Go Back (2017, feature) | Never Go Back (2012, short) | Never Go Back (2020, feature) [sem img] | Dennis Lloyd: Never Go Back (2019, musicVideo)
-ok: Reacher: Jack Reacher - Dia de Matar -> Jack Reacher: Never Go Back (2016) (IMDb)
-Pronto. Com capa: 1. Sem capa: 0
+ok: Devs -> Devs (TVmaze)
+   imdb "Arrival" 2016 -> Arrival (2016, feature) | The Arrival (1996, feature) | Arrival (?, feature) | Arrival II (1998, video) | Dad on Arrival (2026, TV special) | The Arrival (?, feature) [sem img]
+ok: Edge of Tomorrow (já visto) substituído: A Chegada -> Arrival (2016) (IMDb)
+   imdb "Ex Machina" 2015 -> Ex Machina (2014, feature) | Appleseed: Ex Machina (2007, feature) | Deus Ex Machina (2016, feature) | Jeffrey Katzenberg (?, ?) | Phasma Ex Machina (2010, feature) | Deus ex Machina (2015, feature)
+não achei: Ex Machina: Instinto Artificial
+   imdb "Gattaca" 1997 -> Gattaca (1997, feature) | Gattaca (?, TV series) [sem img] | Welcome to Gattaca (2008, video) | The Making of 'Gattaca' (1998, video) | Attack on Titan (2013, TV series) | Attack on Titan: The Last Attack (2024, feature)
+ok: Gattaca: Experiência Genética -> Gattaca (1997) (IMDb)
+ok: Pluto -> PLUTO (AniList)
+ok: Steins;Gate -> Steins;Gate (AniList)
+Pronto. Com capa: 5. Sem capa: 1 (Ex Machina: Instinto Artificial)
