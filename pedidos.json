@@ -1,21 +1,4 @@
 [
-{"t":"Akame ga Kill!","tp":"anime","s":"akame-ga-kill","q":"Akame ga Kill!"},
-{"t":"Assassination Classroom","tp":"anime","s":"assassination-classroom","q":"Ansatsu Kyoushitsu"},
-{"t":"Blue Exorcist","tp":"anime","s":"blue-exorcist","q":"Ao no Exorcist"},
-{"t":"Cavaleiros do Zodíaco","tp":"anime","s":"cavaleiros-do-zodiaco","q":"Saint Seiya"},
-{"t":"Edens Zero","tp":"anime","s":"edens-zero","q":"Edens Zero"},
-{"t":"Food Wars!","tp":"anime","s":"food-wars","q":"Shokugeki no Souma"},
-{"t":"Fullmetal Alchemist","tp":"anime","s":"fullmetal-alchemist","q":"Hagane no Renkinjutsushi"},
-{"t":"JoJo's Bizarre Adventure","tp":"anime","s":"jojo-s-bizarre-adventure","q":"JoJo no Kimyou na Bouken"},
-{"t":"Jujutsu Kaisen 0","tp":"filme","s":"jujutsu-kaisen-0","q":"Jujutsu Kaisen 0"},
-{"t":"Magi: The Labyrinth of Magic","tp":"anime","s":"magi-the-labyrinth-of-magic","q":"Magi: The Labyrinth of Magic"},
-{"t":"Noragami","tp":"anime","s":"noragami","q":"Noragami"},
-{"t":"Samurai X","tp":"anime","s":"samurai-x","q":"Rurouni Kenshin"},
-{"t":"Seven Deadly Sins","tp":"anime","s":"seven-deadly-sins","q":"Nanatsu no Taizai"},
-{"t":"Sword Art Online","tp":"anime","s":"sword-art-online","q":"Sword Art Online"},
-{"t":"The Promised Neverland","tp":"anime","s":"the-promised-neverland","q":"Yakusoku no Neverland"},
-{"t":"Tokyo Revengers","tp":"anime","s":"tokyo-revengers","q":"Tokyo Revengers"},
-{"t":"Toriko","tp":"anime","s":"toriko","q":"Toriko"},
-{"t":"Undead Unluck","tp":"anime","s":"undead-unluck","q":"Undead Unluck"},
-{"t":"Yu Yu Hakusho: Os Cavaleiros do Zodíaco","tp":"anime","s":"yu-yu-hakusho-os-cavaleiros-do-zodiaco","q":"Yu Yu Hakusho"}
+{"t":"Seven Deadly Sins","tp":"anime","s":"seven-deadly-sins","q":"The Seven Deadly Sins","refazer":true},
+{"t":"Yu Yu Hakusho: Os Cavaleiros do Zodíaco","tp":"anime","s":"yu-yu-hakusho-os-cavaleiros-do-zodiaco","q":"YuYu Hakusho: Ghost Files","refazer":true}
 ]
