@@ -394,5 +394,29 @@
  "todo-mundo-odeia-o-chris": {
   "titulo": "Todo Mundo Odeia o Chris",
   "achou": "Everybody Hates Chris (TVmaze)"
+ },
+ "detetive-pikachu": {
+  "titulo": "Detetive Pikachu",
+  "achou": "Pokémon: Detective Pikachu (2019) (IMDb)"
+ },
+ "entre-facas-e-segredos": {
+  "titulo": "Entre Facas e Segredos",
+  "achou": "Knives Out (2019) (IMDb)"
+ },
+ "nichijou": {
+  "titulo": "Nichijou",
+  "achou": "Nichijou - My Ordinary Life (AniList)"
+ },
+ "os-caca-fantasmas": {
+  "titulo": "Os Caça-Fantasmas",
+  "achou": "Ghostbusters (1984) (IMDb)"
+ },
+ "saiki-k": {
+  "titulo": "Saiki K.",
+  "achou": "The Disastrous Life of Saiki K.: Reawakened (AniList)"
+ },
+ "um-maluco-no-golfe": {
+  "titulo": "Um Maluco no Golfe",
+  "achou": "Happy Gilmore (1996) (IMDb)"
  }
 }

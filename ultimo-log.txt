@@ -1,12 +1,11 @@
-   imdb "Playing with Fire" 2019 -> Playing with Fire (2019, feature) | Playing with Fire (2019, TV series) | They're Playing with Fire (1984, feature) | Playing with Fire (1975, feature) | Playing with Fire (2008, feature) | Playing with Fire (2025, TV movie)
-ok: Brincando com Fogo -> Playing with Fire (2019) (IMDb)
-ok: Brooklyn Nine-Nine -> Brooklyn Nine-Nine (TVmaze)
-   imdb "Grown Ups" 2010 -> Grown Ups (2010, feature) | Grown Ups 2 (2013, feature) | Grown Ups 3 (2027, feature) [sem img] | Toxic (2026, feature) | Grown Ups (?, TV series) [sem img] | Grown Ups (2022, TV series)
-ok: Gente Grande -> Grown Ups (2010) (IMDb)
-   imdb "Confessions of a Shopaholic" 2009 -> Confessions of a Shopaholic (2009, feature) | Confessions of a Dangerous Mind (2002, feature) | Confessions of a Teenage Drama Queen (2004, feature) | Confessions of a Young American Housewife (1974, feature) | Confessions of a Window Cleaner (1974, feature) | Intimate Confessions of a Chinese Courtesan (1972, feature)
-ok: Os Delírios de Consumo de Becky Bloom -> Confessions of a Shopaholic (2009) (IMDb)
-ok: Rapidinho: The Disastrous Life of Saiki K. -> The Disastrous Life of Saiki K.: Reawakened (AniList)
-   imdb "Scary Movie" 2000 -> Scary Movie (2026, feature) | Scary Movie (2000, feature) | Scary Movie 2 (2001, feature) | Scary Movie 3 (2003, feature) | Scary Movie 5 (2013, feature) | Scary Movie 4 (2006, feature)
-ok: Todo Mundo em Pânico -> Scary Movie (2000) (IMDb)
-ok: Todo Mundo Odeia o Chris -> Everybody Hates Chris (TVmaze)
-Pronto. Com capa: 7. Sem capa: 0
+   imdb "Pokémon Detective Pikachu" 2019 -> Pokémon: Detective Pikachu (2019, feature) | Pokémon Detective Pikachu Sequel (?, feature) [sem img]
+ok: Detetive Pikachu -> Pokémon: Detective Pikachu (2019) (IMDb)
+   imdb "Knives Out" 2019 -> Knives Out (2019, feature) | Knives Out (2016, feature) | Knives Out (?, ?) [sem img] | Murder Mystery: Knives Out (2021, TV mini-series) | Wake Up Dead Man (2025, feature) | Cutthroat Kitchen: Knives Out (2025, TV series)
+ok: Entre Facas e Segredos -> Knives Out (2019) (IMDb)
+ok: Nichijou -> Nichijou - My Ordinary Life (AniList)
+   imdb "Ghostbusters" 1984 -> Ghostbusters (1984, feature) | Ghostbusters (2016, feature) | Ghostbusters II (1989, feature) | Ghostbusters: Afterlife (2021, feature) | Ghostbusters: Frozen Empire (2024, feature) | Ghostbusters (1986, TV series)
+ok: Os Caça-Fantasmas -> Ghostbusters (1984) (IMDb)
+ok: Saiki K. -> The Disastrous Life of Saiki K.: Reawakened (AniList)
+   imdb "Happy Gilmore" 1996 -> Happy Gilmore (1996, feature) | Happy Gilmore 2 (2025, feature) | Happy Gilmore: Cast & Crew Biographies (1998, video) | Happy Gilmore: Outtakes (2005, video) | The Making of 'Happy Gilmore' (1996, video) | Happy Gilmore: Deleted Scenes (2005, video)
+ok: Um Maluco no Golfe -> Happy Gilmore (1996) (IMDb)
+Pronto. Com capa: 6. Sem capa: 0
