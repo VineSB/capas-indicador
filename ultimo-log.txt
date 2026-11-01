@@ -1,4 +1,8 @@
-ok: Seven Deadly Sins -> The Seven Deadly Sins (AniList)
-   fonte falhou: HTTP 404 https://graphql.anilist.co
-ok: Yu Yu Hakusho: Os Cavaleiros do Zodíaco -> Yu Yu Hakusho: Ghost Files (Kitsu)
-Pronto. Com capa: 2. Sem capa: 0
+ok: Arifureta: Da Classe Média ao Mais Forte do Mundo -> Arifureta: From Commonplace to World's Strongest (AniList)
+ok: Ascensão do Herói do Escudo -> The Rising of the Shield Hero (AniList)
+ok: Isekai Quartet -> Isekai Quartet (AniList)
+ok: Log Horizon -> Log Horizon (AniList)
+ok: No Game No Life -> No Game, No Life (AniList)
+ok: Re:Monster -> Re:Monster (AniList)
+ok: Sword Art Online: Alicization -> Sword Art Online: Alicization (AniList)
+Pronto. Com capa: 7. Sem capa: 0
