@@ -1,5 +1,3 @@
 [
-{"t":"Kingsman: Serviço Secreto","tp":"filme","s":"kingsman-servico-secreto","imdb":"Kingsman: The Secret Service","ano":2014},
-{"t":"Kingsman: O Círculo Dourado","tp":"filme","s":"kingsman-o-circulo-dourado","imdb":"Kingsman: The Golden Circle","ano":2017},
-{"t":"The King's Man: A Origem","tp":"filme","s":"the-king-s-man-a-origem","imdb":"The King's Man","ano":2021}
+{"t":"The King's Man: A Origem","tp":"filme","s":"the-king-s-man-a-origem","imdb":"The Kings Man","imdbl":"The King's Man","ano":2021,"refazer":true}
 ]
