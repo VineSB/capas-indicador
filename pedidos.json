@@ -1,3 +1,8 @@
 [
-{"t":"Reacher: Jack Reacher - Dia de Matar","tp":"filme","s":"reacher-jack-reacher-dia-de-matar","imdb":"Jack Reacher: Never Go Back","ano":2016}
+{"t":"Devs","tp":"serie","s":"devs","q":"Devs"},
+{"t":"Edge of Tomorrow (já visto) substituído: A Chegada","tp":"filme","s":"edge-of-tomorrow-ja-visto-substituido-a-chegada","imdb":"Arrival","ano":2016},
+{"t":"Ex Machina: Instinto Artificial","tp":"filme","s":"ex-machina-instinto-artificial","imdb":"Ex Machina","ano":2015},
+{"t":"Gattaca: Experiência Genética","tp":"filme","s":"gattaca-experiencia-genetica","imdb":"Gattaca","ano":1997},
+{"t":"Pluto","tp":"anime","s":"pluto","q":"Pluto"},
+{"t":"Steins;Gate","tp":"anime","s":"steins-gate","q":"Steins;Gate"}
 ]
