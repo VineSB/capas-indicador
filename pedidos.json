@@ -1,7 +1,21 @@
 [
-{"t":"Ataque dos Cães","tp":"filme","s":"ataque-dos-caes","imdb":"The Power of the Dog","ano":2021},
-{"t":"Barry","tp":"serie","s":"barry","q":"Barry"},
-{"t":"Ouran High School Host Club","tp":"anime","s":"ouran-high-school-host-club","q":"Ouran High School Host Club"},
-{"t":"Pacific Rim: Tempestade Descontrolada","tp":"filme","s":"pacific-rim-tempestade-descontrolada","imdb":"Pacific Rim: Uprising","ano":2018},
-{"t":"Shōgun","tp":"serie","s":"shogun","q":"Shōgun"}
+{"t":"Akame ga Kill!","tp":"anime","s":"akame-ga-kill","q":"Akame ga Kill!"},
+{"t":"Assassination Classroom","tp":"anime","s":"assassination-classroom","q":"Ansatsu Kyoushitsu"},
+{"t":"Blue Exorcist","tp":"anime","s":"blue-exorcist","q":"Ao no Exorcist"},
+{"t":"Cavaleiros do Zodíaco","tp":"anime","s":"cavaleiros-do-zodiaco","q":"Saint Seiya"},
+{"t":"Edens Zero","tp":"anime","s":"edens-zero","q":"Edens Zero"},
+{"t":"Food Wars!","tp":"anime","s":"food-wars","q":"Shokugeki no Souma"},
+{"t":"Fullmetal Alchemist","tp":"anime","s":"fullmetal-alchemist","q":"Hagane no Renkinjutsushi"},
+{"t":"JoJo's Bizarre Adventure","tp":"anime","s":"jojo-s-bizarre-adventure","q":"JoJo no Kimyou na Bouken"},
+{"t":"Jujutsu Kaisen 0","tp":"filme","s":"jujutsu-kaisen-0","q":"Jujutsu Kaisen 0"},
+{"t":"Magi: The Labyrinth of Magic","tp":"anime","s":"magi-the-labyrinth-of-magic","q":"Magi: The Labyrinth of Magic"},
+{"t":"Noragami","tp":"anime","s":"noragami","q":"Noragami"},
+{"t":"Samurai X","tp":"anime","s":"samurai-x","q":"Rurouni Kenshin"},
+{"t":"Seven Deadly Sins","tp":"anime","s":"seven-deadly-sins","q":"Nanatsu no Taizai"},
+{"t":"Sword Art Online","tp":"anime","s":"sword-art-online","q":"Sword Art Online"},
+{"t":"The Promised Neverland","tp":"anime","s":"the-promised-neverland","q":"Yakusoku no Neverland"},
+{"t":"Tokyo Revengers","tp":"anime","s":"tokyo-revengers","q":"Tokyo Revengers"},
+{"t":"Toriko","tp":"anime","s":"toriko","q":"Toriko"},
+{"t":"Undead Unluck","tp":"anime","s":"undead-unluck","q":"Undead Unluck"},
+{"t":"Yu Yu Hakusho: Os Cavaleiros do Zodíaco","tp":"anime","s":"yu-yu-hakusho-os-cavaleiros-do-zodiaco","q":"Yu Yu Hakusho"}
 ]
