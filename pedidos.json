@@ -1,6 +1,3 @@
 [
-{"t":"Duna","tp":"filme","s":"duna","imdb":"Dune","ano":2021},
-{"t":"Edge of Tomorrow","tp":"filme","s":"edge-of-tomorrow","imdb":"Edge of Tomorrow","ano":2014},
-{"t":"Pantheon","tp":"anime","s":"pantheon","q":"Pantheon"},
-{"t":"Pluribus","tp":"serie","s":"pluribus","q":"Pluribus"}
+{"t":"Pantheon","tp":"serie","s":"pantheon","q":"Pantheon","refazer":true}
 ]
