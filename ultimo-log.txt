@@ -1,3 +1,4 @@
+ok: Altered Carbon -> Altered Carbon (TVmaze)
    imdb "Ex Machina" 2014 -> Ex Machina (2014, feature) | Appleseed: Ex Machina (2007, feature) | Deus Ex Machina (2016, feature) | Jeffrey Katzenberg (?, ?) | Phasma Ex Machina (2010, feature) | Deus ex Machina (2015, feature)
-ok: Ex Machina: Instinto Artificial -> Ex Machina (2014) (IMDb)
-Pronto. Com capa: 1. Sem capa: 0
+ok: Ex Machina -> Ex Machina (2014) (IMDb)
+Pronto. Com capa: 2. Sem capa: 0
