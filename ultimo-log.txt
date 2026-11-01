@@ -1,3 +1,5 @@
-   imdb "Nobody" 2021 -> Nobody Wants This (2024, TV series) | Nobody (2021, feature) | Nobody 2 (2025, feature) | Mr. Nobody (2009, feature) | Nobody Knows (2004, feature) | Nobody (2025, feature)
-ok: Nobody: Ninguém -> Nobody (2021) (IMDb)
-Pronto. Com capa: 1. Sem capa: 0
+   imdb "Need for Speed" 2014 -> Need for Speed (2014, feature) | Need for Speed: Most Wanted (2005, video game) | Need for Speed: Payback (2017, video game) | Need for Speed: Heat (2019, video game) | Need for Speed: Day of Final Reckoning (2026, feature) | Need for Speed: Underground 2 (2004, video game)
+ok: Need for Speed: O Filme -> Need for Speed (2014) (IMDb)
+   imdb "Gran Turismo" 2023 -> Gran Turismo (2023, feature) | Gran Turismo 7 (2022, video game) | El turismo es un gran invento (1968, feature) | Gran Turismo (1997, video game) | Gran Turismo 2 (1999, video game) | Gran Turismo 4 (2004, video game)
+ok: Gran Turismo: De Jogador a Corredor -> Gran Turismo (2023) (IMDb)
+Pronto. Com capa: 2. Sem capa: 0
