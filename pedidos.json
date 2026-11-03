@@ -1,8 +1,10 @@
 [
-{"t":"24 Horas","tp":"serie","s":"24-horas","q":"24"},
-{"t":"Banshee","tp":"serie","s":"banshee","q":"Banshee"},
-{"t":"Demolidor","tp":"serie","s":"demolidor","q":"Marvel's Daredevil"},
-{"t":"Gangs of London","tp":"serie","s":"gangs-of-london","q":"Gangs of London"},
-{"t":"The Mandalorian","tp":"serie","s":"the-mandalorian","q":"The Mandalorian"},
-{"t":"The Night Agent","tp":"serie","s":"the-night-agent","q":"The Night Agent"}
+{"t":"Away","tp":"serie","s":"away","q":"Away"},
+{"t":"Constelação","tp":"serie","s":"constelacao","q":"Constellation"},
+{"t":"Mars","tp":"serie","s":"mars","q":"Mars"},
+{"t":"O Problema dos 3 Corpos","tp":"serie","s":"o-problema-dos-3-corpos","q":"3 Body Problem"},
+{"t":"Para Toda a Humanidade","tp":"serie","s":"para-toda-a-humanidade","q":"For All Mankind"},
+{"t":"Perdidos no Espaço","tp":"serie","s":"perdidos-no-espaco","q":"Lost in Space"},
+{"t":"Star Trek: Strange New Worlds","tp":"serie","s":"star-trek-strange-new-worlds","q":"Star Trek: Strange New Worlds"},
+{"t":"The Expanse","tp":"serie","s":"the-expanse","q":"The Expanse"}
 ]
