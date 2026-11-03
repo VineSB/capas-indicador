@@ -666,5 +666,29 @@
  "wu-assassins": {
   "titulo": "Wu Assassins",
   "achou": "Wu Assassins (TVmaze)"
+ },
+ "24-horas": {
+  "titulo": "24 Horas",
+  "achou": "24 (TVmaze)"
+ },
+ "banshee": {
+  "titulo": "Banshee",
+  "achou": "Banshee (TVmaze)"
+ },
+ "demolidor": {
+  "titulo": "Demolidor",
+  "achou": "Marvel's Daredevil (TVmaze)"
+ },
+ "gangs-of-london": {
+  "titulo": "Gangs of London",
+  "achou": "Gangs of London (TVmaze)"
+ },
+ "the-mandalorian": {
+  "titulo": "The Mandalorian",
+  "achou": "The Mandalorian (TVmaze)"
+ },
+ "the-night-agent": {
+  "titulo": "The Night Agent",
+  "achou": "The Night Agent (TVmaze)"
  }
 }

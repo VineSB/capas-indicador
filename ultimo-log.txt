@@ -1,7 +1,7 @@
-ok: Ahsoka -> Ahsoka (TVmaze)
-ok: Cobra Kai -> Cobra Kai (TVmaze)
-ok: Gen V -> Gen V (TVmaze)
-ok: Slow Horses -> Slow Horses (TVmaze)
-ok: Warrior Nun -> Warrior Nun (TVmaze)
-ok: Wu Assassins -> Wu Assassins (TVmaze)
+ok: 24 Horas -> 24 (TVmaze)
+ok: Banshee -> Banshee (TVmaze)
+ok: Demolidor -> Marvel's Daredevil (TVmaze)
+ok: Gangs of London -> Gangs of London (TVmaze)
+ok: The Mandalorian -> The Mandalorian (TVmaze)
+ok: The Night Agent -> The Night Agent (TVmaze)
 Pronto. Com capa: 6. Sem capa: 0
