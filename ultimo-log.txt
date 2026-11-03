@@ -1,5 +1,7 @@
-   imdb "Overlord" 2018 -> Overlord (2018, feature) | Overlord (2015, TV series) | Overlord: The Sacred Kingdom (2024, feature) | Overlord (1975, feature) | SCP: Overlord (2020, short) | Nazi Overlord (2018, feature)
-ok: Operação Overlord -> Overlord (2018) (IMDb)
-   imdb "The Expendables 2" 2012 -> The Expendables 2 (2012, feature) | The Expendables 2: Deleted Scenes (2012, video) | The Expendables 2: Gag Reel (2012, video) | The Expendables 2 Videogame (2012, video game) | On the Assault: The Real-Life Weaponry of the Expendables 2 (2012, video) [sem img] | The Expendables 2: Audio Commentary with Director Simon West (2012, video)
-ok: Os Mercenários 2 -> The Expendables 2 (2012) (IMDb)
-Pronto. Com capa: 2. Sem capa: 0
+ok: Ahsoka -> Ahsoka (TVmaze)
+ok: Cobra Kai -> Cobra Kai (TVmaze)
+ok: Gen V -> Gen V (TVmaze)
+ok: Slow Horses -> Slow Horses (TVmaze)
+ok: Warrior Nun -> Warrior Nun (TVmaze)
+ok: Wu Assassins -> Wu Assassins (TVmaze)
+Pronto. Com capa: 6. Sem capa: 0

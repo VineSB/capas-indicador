@@ -642,5 +642,29 @@
  "os-mercenarios-2": {
   "titulo": "Os Mercenários 2",
   "achou": "The Expendables 2 (2012) (IMDb)"
+ },
+ "ahsoka": {
+  "titulo": "Ahsoka",
+  "achou": "Ahsoka (TVmaze)"
+ },
+ "cobra-kai": {
+  "titulo": "Cobra Kai",
+  "achou": "Cobra Kai (TVmaze)"
+ },
+ "gen-v": {
+  "titulo": "Gen V",
+  "achou": "Gen V (TVmaze)"
+ },
+ "slow-horses": {
+  "titulo": "Slow Horses",
+  "achou": "Slow Horses (TVmaze)"
+ },
+ "warrior-nun": {
+  "titulo": "Warrior Nun",
+  "achou": "Warrior Nun (TVmaze)"
+ },
+ "wu-assassins": {
+  "titulo": "Wu Assassins",
+  "achou": "Wu Assassins (TVmaze)"
  }
 }
