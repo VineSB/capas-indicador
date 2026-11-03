@@ -1,4 +1,8 @@
 [
-{"t":"Operação Overlord","tp":"filme","s":"operacao-overlord","imdb":"Overlord","ano":2018},
-{"t":"Os Mercenários 2","tp":"filme","s":"os-mercenarios-2","imdb":"The Expendables 2","ano":2012}
+{"t":"Ahsoka","tp":"serie","s":"ahsoka","q":"Ahsoka"},
+{"t":"Cobra Kai","tp":"serie","s":"cobra-kai","q":"Cobra Kai"},
+{"t":"Gen V","tp":"serie","s":"gen-v","q":"Gen V"},
+{"t":"Slow Horses","tp":"serie","s":"slow-horses","q":"Slow Horses"},
+{"t":"Warrior Nun","tp":"serie","s":"warrior-nun","q":"Warrior Nun"},
+{"t":"Wu Assassins","tp":"serie","s":"wu-assassins","q":"Wu Assassins"}
 ]
