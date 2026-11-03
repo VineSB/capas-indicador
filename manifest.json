@@ -690,5 +690,37 @@
  "the-night-agent": {
   "titulo": "The Night Agent",
   "achou": "The Night Agent (TVmaze)"
+ },
+ "away": {
+  "titulo": "Away",
+  "achou": "Away (TVmaze)"
+ },
+ "constelacao": {
+  "titulo": "Constelação",
+  "achou": "Constellation (TVmaze)"
+ },
+ "mars": {
+  "titulo": "Mars",
+  "achou": "Mars (TVmaze)"
+ },
+ "o-problema-dos-3-corpos": {
+  "titulo": "O Problema dos 3 Corpos",
+  "achou": "3 Body Problem (TVmaze)"
+ },
+ "para-toda-a-humanidade": {
+  "titulo": "Para Toda a Humanidade",
+  "achou": "For All Mankind (TVmaze)"
+ },
+ "perdidos-no-espaco": {
+  "titulo": "Perdidos no Espaço",
+  "achou": "Lost in Space (TVmaze)"
+ },
+ "star-trek-strange-new-worlds": {
+  "titulo": "Star Trek: Strange New Worlds",
+  "achou": "Star Trek: Strange New Worlds (TVmaze)"
+ },
+ "the-expanse": {
+  "titulo": "The Expanse",
+  "achou": "The Expanse (TVmaze)"
  }
 }
