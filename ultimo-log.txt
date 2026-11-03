@@ -1,3 +1,3 @@
-   imdb "Dark Matter" 2024 -> Dark Matter (2024, TV series) | Dark Matter (2015, TV series) | Dark Matter (2007, feature) | Dark Matter (2023, feature) | Dark Matter: After Dark (2017, TV movie) | Dark Matter (2014, feature)
-não achei: Dark Matter
-Pronto. Com capa: 0. Sem capa: 1 (Dark Matter)
+   imdb "Sicario" 2015 -> Sicario (2015, feature) | Sicario: Day of the Soldado (2018, feature) | Sicario 3 (?, feature) [sem img] | Sicario (1994, feature) | American Sicario (2021, feature) | Night of the Sicario (2021, feature)
+ok: Sicario: Terra de Ninguém -> Sicario (2015) (IMDb)
+Pronto. Com capa: 1. Sem capa: 0
