@@ -722,5 +722,17 @@
  "the-expanse": {
   "titulo": "The Expanse",
   "achou": "The Expanse (TVmaze)"
+ },
+ "foundation": {
+  "titulo": "Foundation",
+  "achou": "Foundation (TVmaze)"
+ },
+ "raised-by-wolves": {
+  "titulo": "Raised by Wolves",
+  "achou": "Raised by Wolves (TVmaze)"
+ },
+ "serie-silo": {
+  "titulo": "Série Silo",
+  "achou": "Silo (TVmaze)"
  }
 }

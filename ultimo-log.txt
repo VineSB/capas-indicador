@@ -1,9 +1,4 @@
-ok: Away -> Away (TVmaze)
-ok: Constelação -> Constellation (TVmaze)
-ok: Mars -> Mars (TVmaze)
-ok: O Problema dos 3 Corpos -> 3 Body Problem (TVmaze)
-ok: Para Toda a Humanidade -> For All Mankind (TVmaze)
-ok: Perdidos no Espaço -> Lost in Space (TVmaze)
-ok: Star Trek: Strange New Worlds -> Star Trek: Strange New Worlds (TVmaze)
-ok: The Expanse -> The Expanse (TVmaze)
-Pronto. Com capa: 8. Sem capa: 0
+ok: Foundation -> Foundation (TVmaze)
+ok: Raised by Wolves -> Raised by Wolves (TVmaze)
+ok: Série Silo -> Silo (TVmaze)
+Pronto. Com capa: 3. Sem capa: 0
