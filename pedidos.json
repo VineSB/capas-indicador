@@ -1,10 +1,5 @@
 [
-{"t":"Away","tp":"serie","s":"away","q":"Away"},
-{"t":"Constelação","tp":"serie","s":"constelacao","q":"Constellation"},
-{"t":"Mars","tp":"serie","s":"mars","q":"Mars"},
-{"t":"O Problema dos 3 Corpos","tp":"serie","s":"o-problema-dos-3-corpos","q":"3 Body Problem"},
-{"t":"Para Toda a Humanidade","tp":"serie","s":"para-toda-a-humanidade","q":"For All Mankind"},
-{"t":"Perdidos no Espaço","tp":"serie","s":"perdidos-no-espaco","q":"Lost in Space"},
-{"t":"Star Trek: Strange New Worlds","tp":"serie","s":"star-trek-strange-new-worlds","q":"Star Trek: Strange New Worlds"},
-{"t":"The Expanse","tp":"serie","s":"the-expanse","q":"The Expanse"}
+{"t":"Foundation","tp":"serie","s":"foundation","q":"Foundation"},
+{"t":"Raised by Wolves","tp":"serie","s":"raised-by-wolves","q":"Raised by Wolves"},
+{"t":"Série Silo","tp":"serie","s":"serie-silo","q":"Silo"}
 ]
