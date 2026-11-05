@@ -1,2 +1,3 @@
-ok: Devil May Cry -> Devil May Cry (AniList)
+   fonte falhou: HTTP 404 https://graphql.anilist.co
+ok: Devil May Cry -> Devil May Cry: The Animated Series (Kitsu)
 Pronto. Com capa: 1. Sem capa: 0
