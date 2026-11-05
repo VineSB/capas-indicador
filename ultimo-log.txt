@@ -1,7 +1,3 @@
-ok: Lazarus -> LAZARUS (AniList)
-ok: Mission: Yozakura Family -> Mission: Yozakura Family (AniList)
-ok: Ranma ½ -> Ranma1/2 (2024) (AniList)
-ok: Rooster Fighter -> Rooster Fighter (AniList)
-ok: The Beginning After the End -> The Beginning After the End (AniList)
-ok: Wistoria: Wand and Sword -> Wistoria: Wand and Sword (AniList)
-Pronto. Com capa: 6. Sem capa: 0
+ok: Little Witch Academia -> Little Witch Academia (AniList)
+ok: Magi: O Labirinto da Magia -> Magi: The Labyrinth of Magic (AniList)
+Pronto. Com capa: 2. Sem capa: 0
