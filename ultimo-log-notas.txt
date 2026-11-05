@@ -1,11 +1,5 @@
-   jikan falhou: fetch failed ETIMEDOUT
-anime: Lazarus -> LAZARUS (2025) (AniList) | AniList 7 | MAL null | Kitsu 7.2
 serie: Away -> null
 serie: Mars -> null
    jikan falhou: fetch failed ETIMEDOUT
-anime: The Villager of Level 999 -> The Villager of Level 999 (2026) (AniList) | AniList 6.1 | MAL null | Kitsu 6.6
-   jikan falhou: fetch failed ETIMEDOUT
-anime: Tsukimichi -> TSUKIMICHI -Moonlit Fantasy- (2021) (AniList) | AniList 7.7 | MAL null | Kitsu 7.8
-anime: Fate/strange Fake -> Fate/strange Fake (2026) (AniList) | AniList 8.2 | MAL null | Kitsu 8.2
 anime: Devil May Cry -> Devil May Cry (2007) (AniList) | AniList 6.7 | MAL null | Kitsu 6.7
 Pronto. Com nota: 253 de 257
