@@ -850,7 +850,16 @@
  "lazarus": {
   "t": "Lazarus",
   "tp": "anime",
-  "achou": "LAZARUS (2025) (AniList)"
+  "achou": "LAZARUS (2025) (AniList)",
+  "anilist": {
+   "nota": 7
+  },
+  "mal": null,
+  "kitsu": {
+   "nota": 7.2,
+   "votos": 3965,
+   "achou": "Lazarus"
+  }
  },
  "shuumatsu-no-harem-world-s-end-harem": {
   "t": "Shuumatsu no Harem (World's End Harem)",
@@ -1422,7 +1431,16 @@
  "the-villager-of-level-999": {
   "t": "The Villager of Level 999",
   "tp": "anime",
-  "achou": "The Villager of Level 999 (2026) (AniList)"
+  "achou": "The Villager of Level 999 (2026) (AniList)",
+  "anilist": {
+   "nota": 6.1
+  },
+  "mal": null,
+  "kitsu": {
+   "nota": 6.6,
+   "votos": 881,
+   "achou": "LV999 no Murabito"
+  }
  },
  "trapped-in-a-dating-sim-2": {
   "t": "Trapped in a Dating Sim 2",
@@ -1819,12 +1837,30 @@
  "tsukimichi": {
   "t": "Tsukimichi",
   "tp": "anime",
-  "achou": "TSUKIMICHI -Moonlit Fantasy- (2021) (AniList)"
+  "achou": "TSUKIMICHI -Moonlit Fantasy- (2021) (AniList)",
+  "anilist": {
+   "nota": 7.7
+  },
+  "mal": null,
+  "kitsu": {
+   "nota": 7.8,
+   "votos": 13315,
+   "achou": "Tsuki ga Michibiku Isekai Douchuu"
+  }
  },
  "fate-strange-fake": {
   "t": "Fate/strange Fake",
   "tp": "anime",
-  "achou": "Fate/strange Fake (2026) (AniList)"
+  "achou": "Fate/strange Fake (2026) (AniList)",
+  "anilist": {
+   "nota": 8.2
+  },
+  "mal": null,
+  "kitsu": {
+   "nota": 8.2,
+   "votos": 2532,
+   "achou": "Fate/strange Fake"
+  }
  },
  "gachiakuta": {
   "t": "Gachiakuta",
@@ -3059,5 +3095,19 @@
    "votos": 657105
   },
   "achou": "Limitless (2011) (IMDb)"
+ },
+ "devil-may-cry": {
+  "t": "Devil May Cry",
+  "tp": "anime",
+  "achou": "Devil May Cry (2007) (AniList)",
+  "anilist": {
+   "nota": 6.7
+  },
+  "mal": null,
+  "kitsu": {
+   "nota": 6.7,
+   "votos": 21545,
+   "achou": "Devil May Cry"
+  }
  }
 }
