@@ -36,6 +36,7 @@ async function imdbId(it) {
     const exatos = ds.filter((x) => nz(x.l) === nq && (!it.ano || Math.abs(Number(x.y) - Number(it.ano)) <= 1));
     const d = exatos[0] || ds.find((x) => nz(x.l) === nq);
     if (d) return { id: d.id, achou: d.l + " (" + (d.y || "?") + ")", exato: true };
+    if (it.strict) continue;
     if (ds[0]) { console.log("   aprox:", it.t, "->", ds[0].l, ds[0].y); return { id: ds[0].id, achou: ds[0].l + " (" + (ds[0].y || "?") + ")", exato: false }; }
   }
   return null;
@@ -59,11 +60,19 @@ async function jikan(idMal) {
   const j = await getJson("https://api.jikan.moe/v4/anime/" + idMal);
   const d = j && j.data; return d && d.score ? { nota: d.score, votos: d.scored_by || 0 } : null;
 }
+async function kitsu(romaji, ingles) {
+  const q = romaji || ingles;
+  const j = await getJson("https://kitsu.io/api/edge/anime?filter%5Btext%5D=" + encodeURIComponent(q) + "&page%5Blimit%5D=5", { headers: { Accept: "application/vnd.api+json" } });
+  const ds = (j && j.data) || [], nq = nz(q), nq2 = nz(ingles);
+  const d = ds.find((x) => { const t = x.attributes.titles || {}; return [t.en, t.en_jp, x.attributes.canonicalTitle].some((n) => n && (nz(n) === nq || nz(n) === nq2)); }) || ds[0];
+  const a = d && d.attributes; return a && a.averageRating ? { nota: Math.round(Number(a.averageRating)) / 10, votos: a.userCount || 0, achou: a.canonicalTitle } : null;
+}
 async function tvmaze(q) {
   const j = await getJson("https://api.tvmaze.com/singlesearch/shows?q=" + encodeURIComponent(q));
   return j && j.rating && j.rating.average ? { nota: j.rating.average } : null;
 }
 
+let jikanOk = 0;
 async function main() {
   const titulos = JSON.parse(fs.readFileSync(path.join(ROOT, "titulos.json"), "utf8"));
   const file = path.join(ROOT, "notas.json");
@@ -74,16 +83,17 @@ async function main() {
     n.t = it.t; n.tp = it.tp;
     try {
       if (it.tp === "anime") {
-        if (n.anilist && n.mal !== undefined) continue;
+        if (n.kitsu !== undefined) continue;
         const nomes = [...new Set([it.q, it.alt, base(it.t)].filter(Boolean))];
         let m = null;
         for (const nome of nomes) { m = await anilist(nome); if (m) break; await sleep(700); }
         if (m) {
           n.achou = (m.title.english || m.title.romaji) + (m.seasonYear ? " (" + m.seasonYear + ")" : "") + " (AniList)";
           n.anilist = m.averageScore ? { nota: Math.round(m.averageScore) / 10 } : null;
-          if (m.idMal) { await sleep(1100); try { n.mal = await jikan(m.idMal); if (n.mal) n.mal.id = m.idMal; } catch (e) { n.mal = null; console.log("   jikan falhou:", String(e.message).slice(0, 80)); } } else n.mal = null;
-        } else { n.anilist = null; n.mal = null; n.achou = null; }
-        console.log("anime:", it.t, "->", n.achou, "| AniList", n.anilist && n.anilist.nota, "| MAL", n.mal && n.mal.nota);
+          if (m.idMal && jikanOk > -3) { await sleep(1100); try { n.mal = await jikan(m.idMal); if (n.mal) n.mal.id = m.idMal; jikanOk = 0; } catch (e) { n.mal = null; jikanOk--; console.log("   jikan falhou:", String(e.message).slice(0, 80), e.cause ? String(e.cause.code || e.cause.message).slice(0, 80) : ""); } } else n.mal = null;
+          try { n.kitsu = await kitsu(m.title.romaji, m.title.english); } catch (e) { n.kitsu = null; console.log("   kitsu falhou:", String(e.message).slice(0, 80)); }
+        } else { n.anilist = null; n.mal = null; n.kitsu = null; n.achou = null; }
+        console.log("anime:", it.t, "->", n.achou, "| AniList", n.anilist && n.anilist.nota, "| MAL", n.mal && n.mal.nota, "| Kitsu", n.kitsu && n.kitsu.nota);
         await sleep(800);
       } else {
         if (n.imdb !== undefined && n.imdb !== null) continue;
@@ -101,7 +111,7 @@ async function main() {
   for (const n of Object.values(notas)) if (n.imdb && n.imdb.id) { const x = mapa.get(n.imdb.id); if (x) { n.imdb.nota = x.nota; n.imdb.votos = x.votos; } }
   for (const [s, n] of Object.entries(notas)) { if (!titulos.some((t) => t.s === s)) delete notas[s]; }
   fs.writeFileSync(file, JSON.stringify(notas, null, 1));
-  const com = Object.values(notas).filter((n) => (n.imdb && n.imdb.nota) || (n.mal && n.mal.nota) || (n.anilist && n.anilist.nota) || n.tvmaze).length;
+  const com = Object.values(notas).filter((n) => (n.imdb && n.imdb.nota) || (n.mal && n.mal.nota) || (n.kitsu && n.kitsu.nota) || (n.anilist && n.anilist.nota) || n.tvmaze).length;
   console.log(`Pronto. Com nota: ${com} de ${Object.keys(notas).length}`);
 }
 main();

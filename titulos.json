@@ -18,7 +18,8 @@
 {
 "t": "Lv999 no Amor (Lv999 no Murabito)",
 "tp": "anime",
-"s": "lv999-no-amor-lv999-no-murabito"
+"s": "lv999-no-amor-lv999-no-murabito",
+"q": "Lv999 no Murabito to Koi wo Shita"
 },
 {
 "t": "Sword Art Online",
@@ -305,7 +306,7 @@
 "t": "Katainaka no Ossan, Kenshi ni Naru",
 "tp": "anime",
 "s": "katainaka-no-ossan-kenshi-ni-naru",
-"q": "Katainaka no Ossan, Kenshi ni Naru"
+"q": "Katainaka no Ossan, Kensei ni Naru"
 },
 {
 "t": "Todo Mundo Odeia o Chris",
@@ -444,7 +445,7 @@
 "t": "Hell Mode: Gamer Who Likes Hardcore Game Becomes Master in a Parallel World",
 "tp": "anime",
 "s": "hell-mode-gamer-who-likes-hardcore-game-becomes-master-in-a-parallel-world",
-"q": "Hell Mode: Yarikomi Zuki no Gamer wa Hai Settei no Isekai de Musou Suru"
+"q": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru"
 },
 {
 "t": "Rei Arthur: A Lenda da Espada",
@@ -487,7 +488,10 @@
 "t": "Away",
 "tp": "serie",
 "s": "away",
-"q": "Away"
+"q": "Away",
+"imdb": "Away",
+"ano": 2020,
+"strict": true
 },
 {
 "t": "Little Witch Academia",
@@ -499,7 +503,10 @@
 "t": "Mars",
 "tp": "serie",
 "s": "mars",
-"q": "Mars"
+"q": "Mars",
+"imdb": "Mars",
+"ano": 2016,
+"strict": true
 },
 {
 "t": "Para Toda a Humanidade",
@@ -702,7 +709,8 @@
 {
 "t": "Boruto",
 "tp": "anime",
-"s": "boruto"
+"s": "boruto",
+"q": "Boruto: Naruto Next Generations"
 },
 {
 "t": "Re:Zero",
@@ -923,7 +931,8 @@
 {
 "t": "Demon Slayer",
 "tp": "anime",
-"s": "demon-slayer"
+"s": "demon-slayer",
+"q": "Kimetsu no Yaiba"
 },
 {
 "t": "Hunter x Hunter",
@@ -1110,12 +1119,16 @@
 {
 "t": "Jumanji (os novos)",
 "tp": "filme",
-"s": "jumanji-os-novos"
+"s": "jumanji-os-novos",
+"imdb": "Jumanji: Welcome to the Jungle",
+"ano": 2017
 },
 {
 "t": "Capitão América",
 "tp": "filme",
-"s": "capitao-america"
+"s": "capitao-america",
+"imdb": "Captain America: The First Avenger",
+"ano": 2011
 },
 {
 "t": "Homem-Formiga",
@@ -1169,7 +1182,10 @@
 {
 "t": "Operação Fúria",
 "tp": "filme",
-"s": "operacao-furia"
+"s": "operacao-furia",
+"imdb": "Fury",
+"ano": 2014,
+"strict": true
 },
 {
 "t": "O Protetor",
@@ -1202,7 +1218,9 @@
 {
 "t": "Jurassic Park/World",
 "tp": "filme",
-"s": "jurassic-park-world"
+"s": "jurassic-park-world",
+"imdb": "Jurassic Park",
+"ano": 1993
 },
 {
 "t": "Piratas do Caribe",
@@ -1224,7 +1242,9 @@
 {
 "t": "Pantera Negra",
 "tp": "filme",
-"s": "pantera-negra"
+"s": "pantera-negra",
+"imdb": "Black Panther",
+"ano": 2018
 },
 {
 "t": "Shang-Chi",
@@ -1251,7 +1271,10 @@
 {
 "t": "Sem Limites",
 "tp": "filme",
-"s": "sem-limites"
+"s": "sem-limites",
+"imdb": "Limitless",
+"ano": 2011,
+"strict": true
 },
 {
 "t": "Matrix",

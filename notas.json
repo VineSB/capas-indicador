@@ -24,27 +24,12 @@
  "naruto": {
   "t": "Naruto",
   "tp": "anime",
-  "achou": "Naruto (2002) (AniList)",
-  "anilist": {
-   "nota": 8
-  },
-  "mal": null
- },
- "lv999-no-amor-lv999-no-murabito": {
-  "t": "Lv999 no Amor (Lv999 no Murabito)",
-  "tp": "anime",
-  "anilist": null,
-  "mal": null,
-  "achou": null
+  "achou": "Naruto (2002) (AniList)"
  },
  "sword-art-online": {
   "t": "Sword Art Online",
   "tp": "anime",
-  "achou": "Sword Art Online (2012) (AniList)",
-  "anilist": {
-   "nota": 7
-  },
-  "mal": null
+  "achou": "Sword Art Online (2012) (AniList)"
  },
  "the-100": {
   "t": "The 100",
@@ -60,20 +45,12 @@
  "fire-force": {
   "t": "Fire Force",
   "tp": "anime",
-  "achou": "Fire Force (2019) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null
+  "achou": "Fire Force (2019) (AniList)"
  },
  "akame-ga-kill": {
   "t": "Akame ga Kill!",
   "tp": "anime",
-  "achou": "Akame ga Kill! (2014) (AniList)",
-  "anilist": {
-   "nota": 7.3
-  },
-  "mal": null
+  "achou": "Akame ga Kill! (2014) (AniList)"
  },
  "jogos-vorazes-a-esperanca-parte-1": {
   "t": "Jogos Vorazes: A Esperança - Parte 1",
@@ -111,11 +88,7 @@
  "hitman-reborn": {
   "t": "Hitman Reborn!",
   "tp": "anime",
-  "achou": "REBORN! (2006) (AniList)",
-  "anilist": {
-   "nota": 7.7
-  },
-  "mal": null
+  "achou": "REBORN! (2006) (AniList)"
  },
  "cobra-kai": {
   "t": "Cobra Kai",
@@ -131,11 +104,7 @@
  "re-monster": {
   "t": "Re:Monster",
   "tp": "anime",
-  "achou": "Re:Monster (2024) (AniList)",
-  "anilist": {
-   "nota": 6.5
-  },
-  "mal": null
+  "achou": "Re:Monster (2024) (AniList)"
  },
  "jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes": {
   "t": "Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes",
@@ -151,11 +120,7 @@
  "ascensao-do-heroi-do-escudo": {
   "t": "Ascensão do Herói do Escudo",
   "tp": "anime",
-  "achou": "The Rising of the Shield Hero (2019) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null
+  "achou": "The Rising of the Shield Hero (2019) (AniList)"
  },
  "o-problema-dos-3-corpos": {
   "t": "O Problema dos 3 Corpos",
@@ -171,11 +136,7 @@
  "the-beginning-after-the-end": {
   "t": "The Beginning After the End",
   "tp": "anime",
-  "achou": "The Beginning After the End (2025) (AniList)",
-  "anilist": {
-   "nota": 6
-  },
-  "mal": null
+  "achou": "The Beginning After the End (2025) (AniList)"
  },
  "need-for-speed-o-filme": {
   "t": "Need for Speed: O Filme",
@@ -202,11 +163,7 @@
  "assassination-classroom": {
   "t": "Assassination Classroom",
   "tp": "anime",
-  "achou": "Assassination Classroom (2015) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null
+  "achou": "Assassination Classroom (2015) (AniList)"
  },
  "a-lista-terminal-dark-wolf": {
   "t": "A Lista Terminal: Dark Wolf",
@@ -222,11 +179,7 @@
  "sword-art-online-alicization": {
   "t": "Sword Art Online: Alicization",
   "tp": "anime",
-  "achou": "Sword Art Online: Alicization (2018) (AniList)",
-  "anilist": {
-   "nota": 7.5
-  },
-  "mal": null
+  "achou": "Sword Art Online: Alicization (2018) (AniList)"
  },
  "a-serie-divergente-insurgente": {
   "t": "A Série Divergente: Insurgente",
@@ -308,11 +261,7 @@
  "wind-breaker": {
   "t": "Wind Breaker",
   "tp": "anime",
-  "achou": "WIND BREAKER (2024) (AniList)",
-  "anilist": {
-   "nota": 7.7
-  },
-  "mal": null
+  "achou": "WIND BREAKER (2024) (AniList)"
  },
  "gran-turismo-de-jogador-a-corredor": {
   "t": "Gran Turismo: De Jogador a Corredor",
@@ -372,29 +321,17 @@
  "boruto-naruto-next-generations": {
   "t": "Boruto: Naruto Next Generations",
   "tp": "anime",
-  "achou": "Boruto: Naruto Next Generations (2017) (AniList)",
-  "anilist": {
-   "nota": 5.6
-  },
-  "mal": null
+  "achou": "Boruto: Naruto Next Generations (2017) (AniList)"
  },
  "chainsaw-man": {
   "t": "Chainsaw Man",
   "tp": "anime",
-  "achou": "Chainsaw Man (2022) (AniList)",
-  "anilist": {
-   "nota": 8.3
-  },
-  "mal": null
+  "achou": "Chainsaw Man (2022) (AniList)"
  },
  "mato-seihei-no-slave": {
   "t": "Mato Seihei no Slave",
   "tp": "anime",
-  "achou": "Chained Soldier (2024) (AniList)",
-  "anilist": {
-   "nota": 6.8
-  },
-  "mal": null
+  "achou": "Chained Soldier (2024) (AniList)"
  },
  "a-serie-divergente-convergente": {
   "t": "A Série Divergente: Convergente",
@@ -454,11 +391,7 @@
  "arifureta-da-classe-media-ao-mais-forte-do-mundo": {
   "t": "Arifureta: Da Classe Média ao Mais Forte do Mundo",
   "tp": "anime",
-  "achou": "Arifureta: From Commonplace to World's Strongest (2019) (AniList)",
-  "anilist": {
-   "nota": 6.5
-  },
-  "mal": null
+  "achou": "Arifureta: From Commonplace to World's Strongest (2019) (AniList)"
  },
  "lupin": {
   "t": "Lupin",
@@ -485,27 +418,12 @@
  "blue-exorcist": {
   "t": "Blue Exorcist",
   "tp": "anime",
-  "achou": "Blue Exorcist (2011) (AniList)",
-  "anilist": {
-   "nota": 7.2
-  },
-  "mal": null
+  "achou": "Blue Exorcist (2011) (AniList)"
  },
  "undead-unluck": {
   "t": "Undead Unluck",
   "tp": "anime",
-  "achou": "Undead Unluck (2023) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null
- },
- "katainaka-no-ossan-kenshi-ni-naru": {
-  "t": "Katainaka no Ossan, Kenshi ni Naru",
-  "tp": "anime",
-  "anilist": null,
-  "mal": null,
-  "achou": null
+  "achou": "Undead Unluck (2023) (AniList)"
  },
  "todo-mundo-odeia-o-chris": {
   "t": "Todo Mundo Odeia o Chris",
@@ -521,20 +439,12 @@
  "shangri-la-frontier": {
   "t": "Shangri-La Frontier",
   "tp": "anime",
-  "achou": "Shangri-La Frontier (2023) (AniList)",
-  "anilist": {
-   "nota": 8
-  },
-  "mal": null
+  "achou": "Shangri-La Frontier (2023) (AniList)"
  },
  "fairy-tail": {
   "t": "Fairy Tail",
   "tp": "anime",
-  "achou": "Fairy Tail (2009) (AniList)",
-  "anilist": {
-   "nota": 7.2
-  },
-  "mal": null
+  "achou": "Fairy Tail (2009) (AniList)"
  },
  "maze-runner-correr-ou-morrer": {
   "t": "Maze Runner: Correr ou Morrer",
@@ -583,11 +493,7 @@
  "fullmetal-alchemist": {
   "t": "Fullmetal Alchemist",
   "tp": "anime",
-  "achou": "Fullmetal Alchemist (2003) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null
+  "achou": "Fullmetal Alchemist (2003) (AniList)"
  },
  "agentes-muito-especiais": {
   "t": "Agentes Muito Especiais",
@@ -614,38 +520,22 @@
  "seven-deadly-sins": {
   "t": "Seven Deadly Sins",
   "tp": "anime",
-  "achou": "The Seven Deadly Sins (2014) (AniList)",
-  "anilist": {
-   "nota": 7.2
-  },
-  "mal": null
+  "achou": "The Seven Deadly Sins (2014) (AniList)"
  },
  "bleach-thousand-year-blood-war": {
   "t": "Bleach: Thousand-Year Blood War",
   "tp": "anime",
-  "achou": "BLEACH: Thousand-Year Blood War (2022) (AniList)",
-  "anilist": {
-   "nota": 8.8
-  },
-  "mal": null
+  "achou": "BLEACH: Thousand-Year Blood War (2022) (AniList)"
  },
  "wistoria-wand-and-sword": {
   "t": "Wistoria: Wand and Sword",
   "tp": "anime",
-  "achou": "Wistoria: Wand and Sword (2024) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null
+  "achou": "Wistoria: Wand and Sword (2024) (AniList)"
  },
  "log-horizon": {
   "t": "Log Horizon",
   "tp": "anime",
-  "achou": "Log Horizon (2013) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null
+  "achou": "Log Horizon (2013) (AniList)"
  },
  "kingsman-servico-secreto": {
   "t": "Kingsman: Serviço Secreto",
@@ -694,11 +584,7 @@
  "naruto-shippuden": {
   "t": "Naruto Shippuden",
   "tp": "anime",
-  "achou": "Naruto: Shippuden (2007) (AniList)",
-  "anilist": {
-   "nota": 8.2
-  },
-  "mal": null
+  "achou": "Naruto: Shippuden (2007) (AniList)"
  },
  "jogos-vorazes-a-esperanca-o-final": {
   "t": "Jogos Vorazes: A Esperança - O Final",
@@ -714,18 +600,7 @@
  "prison-school": {
   "t": "Prison School",
   "tp": "anime",
-  "achou": "Prison School (2015) (AniList)",
-  "anilist": {
-   "nota": 7.3
-  },
-  "mal": null
- },
- "hell-mode-gamer-who-likes-hardcore-game-becomes-master-in-a-parallel-world": {
-  "t": "Hell Mode: Gamer Who Likes Hardcore Game Becomes Master in a Parallel World",
-  "tp": "anime",
-  "anilist": null,
-  "mal": null,
-  "achou": null
+  "achou": "Prison School (2015) (AniList)"
  },
  "rei-arthur-a-lenda-da-espada": {
   "t": "Rei Arthur: A Lenda da Espada",
@@ -741,20 +616,12 @@
  "lazarus": {
   "t": "Lazarus",
   "tp": "anime",
-  "achou": "LAZARUS (2025) (AniList)",
-  "anilist": {
-   "nota": 7
-  },
-  "mal": null
+  "achou": "LAZARUS (2025) (AniList)"
  },
  "shuumatsu-no-harem-world-s-end-harem": {
   "t": "Shuumatsu no Harem (World's End Harem)",
   "tp": "anime",
-  "achou": "World's End Harem (2022) (AniList)",
-  "anilist": {
-   "nota": 5.5
-  },
-  "mal": null
+  "achou": "World's End Harem (2022) (AniList)"
  },
  "sombra-e-ossos": {
   "t": "Sombra e Ossos",
@@ -789,36 +656,10 @@
   },
   "achou": "Altered Carbon (2018) (IMDb)"
  },
- "away": {
-  "t": "Away",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt9169516",
-   "exato": false,
-   "nota": 6.9,
-   "votos": 28573
-  },
-  "achou": "Run Away (2026) (IMDb)"
- },
  "little-witch-academia": {
   "t": "Little Witch Academia",
   "tp": "anime",
-  "achou": "Little Witch Academia (2013) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null
- },
- "mars": {
-  "t": "Mars",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt0412253",
-   "exato": false,
-   "nota": 8.3,
-   "votos": 84479
-  },
-  "achou": "Veronica Mars (2004) (IMDb)"
+  "achou": "Little Witch Academia (2013) (AniList)"
  },
  "para-toda-a-humanidade": {
   "t": "Para Toda a Humanidade",
@@ -867,20 +708,12 @@
  "magi-o-labirinto-da-magia": {
   "t": "Magi: O Labirinto da Magia",
   "tp": "anime",
-  "achou": "Magi: The Labyrinth of Magic (2012) (AniList)",
-  "anilist": {
-   "nota": 7.8
-  },
-  "mal": null
+  "achou": "Magi: The Labyrinth of Magic (2012) (AniList)"
  },
  "rosario-vampire": {
   "t": "Rosario + Vampire",
   "tp": "anime",
-  "achou": "Rosario + Vampire (2008) (AniList)",
-  "anilist": {
-   "nota": 6.3
-  },
-  "mal": null
+  "achou": "Rosario + Vampire (2008) (AniList)"
  },
  "constelacao": {
   "t": "Constelação",
@@ -907,47 +740,27 @@
  "kekkai-sensen": {
   "t": "Kekkai Sensen",
   "tp": "anime",
-  "achou": "Blood Blockade Battlefront (2015) (AniList)",
-  "anilist": {
-   "nota": 7.4
-  },
-  "mal": null
+  "achou": "Blood Blockade Battlefront (2015) (AniList)"
  },
  "kanojo-okarishimasu-rent-a-girlfriend": {
   "t": "Kanojo, Okarishimasu (Rent-a-Girlfriend)",
   "tp": "anime",
-  "achou": "Rent-a-Girlfriend (2020) (AniList)",
-  "anilist": {
-   "nota": 6.5
-  },
-  "mal": null
+  "achou": "Rent-a-Girlfriend (2020) (AniList)"
  },
  "high-school-dxd": {
   "t": "High School DxD",
   "tp": "anime",
-  "achou": "High School DxD (2012) (AniList)",
-  "anilist": {
-   "nota": 6.9
-  },
-  "mal": null
+  "achou": "High School DxD (2012) (AniList)"
  },
  "ranma": {
   "t": "Ranma ½",
   "tp": "anime",
-  "achou": "Ranma1/2 (2024) (2024) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null
+  "achou": "Ranma1/2 (2024) (2024) (AniList)"
  },
  "kaguya-sama-love-is-war": {
   "t": "Kaguya-sama: Love is War",
   "tp": "anime",
-  "achou": "Kaguya-sama: Love is War (2019) (AniList)",
-  "anilist": {
-   "nota": 8.3
-  },
-  "mal": null
+  "achou": "Kaguya-sama: Love is War (2019) (AniList)"
  },
  "terra-de-ninguem-warrior": {
   "t": "Terra de Ninguém (Warrior)",
@@ -963,20 +776,12 @@
  "uncle-from-another-world": {
   "t": "Uncle from Another World",
   "tp": "anime",
-  "achou": "Uncle from Another World (2022) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null
+  "achou": "Uncle from Another World (2022) (AniList)"
  },
  "grand-blue-dreaming": {
   "t": "Grand BLUE dreaming",
   "tp": "anime",
-  "achou": "Grand Blue Dreaming (2018) (AniList)",
-  "anilist": {
-   "nota": 8.2
-  },
-  "mal": null
+  "achou": "Grand Blue Dreaming (2018) (AniList)"
  },
  "duna-parte-dois": {
   "t": "Duna: Parte Dois",
@@ -1014,29 +819,17 @@
  "cowboy-bebop": {
   "t": "Cowboy Bebop",
   "tp": "anime",
-  "achou": "Cowboy Bebop (1998) (AniList)",
-  "anilist": {
-   "nota": 8.6
-  },
-  "mal": null
+  "achou": "Cowboy Bebop (1998) (AniList)"
  },
  "hajime-no-ippo": {
   "t": "Hajime no Ippo",
   "tp": "anime",
-  "achou": "Hajime No Ippo: The Fighting! - Rising - (2013) (AniList)",
-  "anilist": {
-   "nota": 8.5
-  },
-  "mal": null
+  "achou": "Hajime No Ippo: The Fighting! - Rising - (2013) (AniList)"
  },
  "slam-dunk": {
   "t": "Slam Dunk",
   "tp": "anime",
-  "achou": "Slam Dunk (1993) (AniList)",
-  "anilist": {
-   "nota": 8.3
-  },
-  "mal": null
+  "achou": "Slam Dunk (1993) (AniList)"
  },
  "black-doves-s2": {
   "t": "Black Doves S2",
@@ -1081,569 +874,307 @@
  "returner-s-magic-should-be-special-s2": {
   "t": "Returner's Magic Should Be Special S2",
   "tp": "anime",
-  "achou": "A Returner's Magic Should Be Special (2023) (AniList)",
-  "anilist": {
-   "nota": 6.9
-  },
-  "mal": null
+  "achou": "A Returner's Magic Should Be Special (2023) (AniList)"
  },
  "iceblade-sorcerer-shall-rule-the-world-ii": {
   "t": "Iceblade Sorcerer Shall Rule the World II",
   "tp": "anime",
-  "achou": "The Iceblade Sorcerer Shall Rule the World II (2026) (AniList)",
-  "anilist": {
-   "nota": 6.6
-  },
-  "mal": null
+  "achou": "The Iceblade Sorcerer Shall Rule the World II (2026) (AniList)"
  },
  "mashle": {
   "t": "Mashle",
   "tp": "anime",
-  "achou": "MASHLE: MAGIC AND MUSCLES (2023) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null
+  "achou": "MASHLE: MAGIC AND MUSCLES (2023) (AniList)"
  },
  "dan-da-dan": {
   "t": "Dan Da Dan",
   "tp": "anime",
-  "achou": "DAN DA DAN (2024) (AniList)",
-  "anilist": {
-   "nota": 8.3
-  },
-  "mal": null
+  "achou": "DAN DA DAN (2024) (AniList)"
  },
  "mushoku-tensei": {
   "t": "Mushoku Tensei",
   "tp": "anime",
-  "achou": "Mushoku Tensei: Jobless Reincarnation (2021) (AniList)",
-  "anilist": {
-   "nota": 8.1
-  },
-  "mal": null
+  "achou": "Mushoku Tensei: Jobless Reincarnation (2021) (AniList)"
  },
  "solo-leveling": {
   "t": "Solo Leveling",
   "tp": "anime",
-  "achou": "Solo Leveling (2024) (AniList)",
-  "anilist": {
-   "nota": 8
-  },
-  "mal": null
+  "achou": "Solo Leveling (2024) (AniList)"
  },
  "tomb-raider-king": {
   "t": "Tomb Raider King",
   "tp": "anime",
-  "achou": "Tomb Raider King (AniList)",
-  "anilist": {
-   "nota": 6.8
-  },
-  "mal": null
+  "achou": "Tomb Raider King (AniList)"
  },
  "my-dress-up-darling": {
   "t": "My Dress-Up Darling",
   "tp": "anime",
-  "achou": "My Dress-Up Darling (2022) (AniList)",
-  "anilist": {
-   "nota": 8
-  },
-  "mal": null
+  "achou": "My Dress-Up Darling (2022) (AniList)"
  },
  "mf-ghost": {
   "t": "MF Ghost",
   "tp": "anime",
-  "achou": "MF GHOST (2023) (AniList)",
-  "anilist": {
-   "nota": 7.4
-  },
-  "mal": null
+  "achou": "MF GHOST (2023) (AniList)"
  },
  "the-water-magician": {
   "t": "The Water Magician",
   "tp": "anime",
-  "achou": "The Water Magician (2025) (AniList)",
-  "anilist": {
-   "nota": 7
-  },
-  "mal": null
- },
- "boruto": {
-  "t": "Boruto",
-  "tp": "anime",
-  "achou": "Boruto: Naruto the Movie (2015) (AniList)",
-  "anilist": {
-   "nota": 7
-  },
-  "mal": null
+  "achou": "The Water Magician (2025) (AniList)"
  },
  "re-zero": {
   "t": "Re:Zero",
   "tp": "anime",
-  "achou": "Re:ZERO -Starting Life in Another World- (2016) (AniList)",
-  "anilist": {
-   "nota": 8.1
-  },
-  "mal": null
+  "achou": "Re:ZERO -Starting Life in Another World- (2016) (AniList)"
  },
  "overlord": {
   "t": "Overlord",
   "tp": "anime",
-  "achou": "Overlord (2015) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null
+  "achou": "Overlord (2015) (AniList)"
  },
  "dr-stone": {
   "t": "Dr. Stone",
   "tp": "anime",
-  "achou": "Dr. STONE (2019) (AniList)",
-  "anilist": {
-   "nota": 8.1
-  },
-  "mal": null
+  "achou": "Dr. STONE (2019) (AniList)"
  },
  "i-became-a-legend-after-my-10-year-long-last-stand": {
   "t": "I Became a Legend after My 10 Year-Long Last Stand",
   "tp": "anime",
-  "achou": "I Became a Legend After My 10 Year-Long Last Stand (2026) (AniList)",
-  "anilist": {
-   "nota": 6.2
-  },
-  "mal": null
+  "achou": "I Became a Legend After My 10 Year-Long Last Stand (2026) (AniList)"
  },
  "the-villager-of-level-999": {
   "t": "The Villager of Level 999",
   "tp": "anime",
-  "achou": "The Villager of Level 999 (2026) (AniList)",
-  "anilist": {
-   "nota": 6.1
-  },
-  "mal": null
+  "achou": "The Villager of Level 999 (2026) (AniList)"
  },
  "trapped-in-a-dating-sim-2": {
   "t": "Trapped in a Dating Sim 2",
   "tp": "anime",
-  "achou": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 (2026) (AniList)",
-  "anilist": {
-   "nota": 7
-  },
-  "mal": null
+  "achou": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 (2026) (AniList)"
  },
  "one-piece": {
   "t": "One Piece",
   "tp": "anime",
-  "achou": "ONE PIECE (1999) (AniList)",
-  "anilist": {
-   "nota": 8.7
-  },
-  "mal": null
+  "achou": "ONE PIECE (1999) (AniList)"
  },
  "black-clover": {
   "t": "Black Clover",
   "tp": "anime",
-  "achou": "Black Clover (2017) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null
+  "achou": "Black Clover (2017) (AniList)"
  },
  "kuroko-no-basket": {
   "t": "Kuroko no Basket",
   "tp": "anime",
-  "achou": "Kuroko's Basketball (2012) (AniList)",
-  "anilist": {
-   "nota": 7.8
-  },
-  "mal": null
+  "achou": "Kuroko's Basketball (2012) (AniList)"
  },
  "blue-lock": {
   "t": "Blue Lock",
   "tp": "anime",
-  "achou": "BLUE LOCK (2022) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null
+  "achou": "BLUE LOCK (2022) (AniList)"
  },
  "attack-on-titan": {
   "t": "Attack on Titan",
   "tp": "anime",
-  "achou": "Attack on Titan (2013) (AniList)",
-  "anilist": {
-   "nota": 8.5
-  },
-  "mal": null
+  "achou": "Attack on Titan (2013) (AniList)"
  },
  "fullmetal-alchemist-brotherhood": {
   "t": "Fullmetal Alchemist: Brotherhood",
   "tp": "anime",
-  "achou": "Fullmetal Alchemist: Brotherhood (2009) (AniList)",
-  "anilist": {
-   "nota": 9
-  },
-  "mal": null
+  "achou": "Fullmetal Alchemist: Brotherhood (2009) (AniList)"
  },
  "my-hero-academia": {
   "t": "My Hero Academia",
   "tp": "anime",
-  "achou": "My Hero Academia (2016) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null
+  "achou": "My Hero Academia (2016) (AniList)"
  },
  "sakamoto-days": {
   "t": "Sakamoto Days",
   "tp": "anime",
-  "achou": "SAKAMOTO DAYS (2025) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null
+  "achou": "SAKAMOTO DAYS (2025) (AniList)"
  },
  "spy-x-family": {
   "t": "Spy x Family",
   "tp": "anime",
-  "achou": "SPY x FAMILY (2022) (AniList)",
-  "anilist": {
-   "nota": 8.3
-  },
-  "mal": null
+  "achou": "SPY x FAMILY (2022) (AniList)"
  },
  "mob-psycho-100": {
   "t": "Mob Psycho 100",
   "tp": "anime",
-  "achou": "Mob Psycho 100 (2016) (AniList)",
-  "anilist": {
-   "nota": 8.4
-  },
-  "mal": null
+  "achou": "Mob Psycho 100 (2016) (AniList)"
  },
  "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill": {
   "t": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill",
   "tp": "anime",
-  "achou": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (2024) (AniList)",
-  "anilist": {
-   "nota": 7.1
-  },
-  "mal": null
+  "achou": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (2024) (AniList)"
  },
  "aoashi": {
   "t": "Aoashi",
   "tp": "anime",
-  "achou": "Aoashi (2022) (AniList)",
-  "anilist": {
-   "nota": 8.1
-  },
-  "mal": null
+  "achou": "Aoashi (2022) (AniList)"
  },
  "smoking-behind-the-supermarket-with-you": {
   "t": "Smoking Behind the Supermarket with You",
   "tp": "anime",
-  "achou": "Smoking Behind the Supermarket with You (2026) (AniList)",
-  "anilist": {
-   "nota": 8.1
-  },
-  "mal": null
+  "achou": "Smoking Behind the Supermarket with You (2026) (AniList)"
  },
  "soul-eater": {
   "t": "Soul Eater",
   "tp": "anime",
-  "achou": "Soul Eater (2008) (AniList)",
-  "anilist": {
-   "nota": 7.7
-  },
-  "mal": null
+  "achou": "Soul Eater (2008) (AniList)"
  },
  "clevatess": {
   "t": "Clevatess",
   "tp": "anime",
-  "achou": "Clevatess (2025) (AniList)",
-  "anilist": {
-   "nota": 7.7
-  },
-  "mal": null
+  "achou": "Clevatess (2025) (AniList)"
  },
  "yomi-no-tsugai": {
   "t": "Yomi no Tsugai",
   "tp": "anime",
-  "achou": "Daemons of the Shadow Realm (2026) (AniList)",
-  "anilist": {
-   "nota": 7.8
-  },
-  "mal": null
+  "achou": "Daemons of the Shadow Realm (2026) (AniList)"
  },
  "the-world-s-strongest-rearguard": {
   "t": "The World's Strongest Rearguard",
   "tp": "anime",
-  "achou": "The World's Strongest Rearguard (2026) (AniList)",
-  "anilist": {
-   "nota": 5.7
-  },
-  "mal": null
+  "achou": "The World's Strongest Rearguard (2026) (AniList)"
  },
  "black-torch": {
   "t": "Black Torch",
   "tp": "anime",
-  "achou": "BLACK TORCH (2026) (AniList)",
-  "anilist": {
-   "nota": 6.9
-  },
-  "mal": null
+  "achou": "BLACK TORCH (2026) (AniList)"
  },
  "the-frontier-lord-begins-with-zero-subjects": {
   "t": "The Frontier Lord Begins with Zero Subjects",
   "tp": "anime",
-  "achou": "The Frontier Lord Begins with Zero Subjects (2026) (AniList)",
-  "anilist": {
-   "nota": 6.8
-  },
-  "mal": null
+  "achou": "The Frontier Lord Begins with Zero Subjects (2026) (AniList)"
  },
  "the-great-cleric": {
   "t": "The Great Cleric",
   "tp": "anime",
-  "achou": "The Great Cleric (2023) (AniList)",
-  "anilist": {
-   "nota": 7
-  },
-  "mal": null
+  "achou": "The Great Cleric (2023) (AniList)"
  },
  "from-overshadowed-to-overpowered": {
   "t": "From Overshadowed to Overpowered",
   "tp": "anime",
-  "achou": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage (2026) (AniList)",
-  "anilist": {
-   "nota": 6.2
-  },
-  "mal": null
+  "achou": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage (2026) (AniList)"
  },
  "hell-s-paradise": {
   "t": "Hell's Paradise",
   "tp": "anime",
-  "achou": "Hell’s Paradise (2023) (AniList)",
-  "anilist": {
-   "nota": 8
-  },
-  "mal": null
+  "achou": "Hell’s Paradise (2023) (AniList)"
  },
  "one-punch-man": {
   "t": "One Punch Man",
   "tp": "anime",
-  "achou": "One-Punch Man (2015) (AniList)",
-  "anilist": {
-   "nota": 8.2
-  },
-  "mal": null
+  "achou": "One-Punch Man (2015) (AniList)"
  },
  "vinland-saga": {
   "t": "Vinland Saga",
   "tp": "anime",
-  "achou": "Vinland Saga (2019) (AniList)",
-  "anilist": {
-   "nota": 8.7
-  },
-  "mal": null
+  "achou": "Vinland Saga (2019) (AniList)"
  },
  "cyberpunk-edgerunners": {
   "t": "Cyberpunk: Edgerunners",
   "tp": "anime",
-  "achou": "Cyberpunk: Edgerunners (2022) (AniList)",
-  "anilist": {
-   "nota": 8.5
-  },
-  "mal": null
+  "achou": "Cyberpunk: Edgerunners (2022) (AniList)"
  },
  "kaiju-no-8": {
   "t": "Kaiju No. 8",
   "tp": "anime",
-  "achou": "Kaiju No. 8 (2024) (AniList)",
-  "anilist": {
-   "nota": 8.1
-  },
-  "mal": null
+  "achou": "Kaiju No. 8 (2024) (AniList)"
  },
  "the-exiled-heavy-knight-knows-how-to-game-the-system": {
   "t": "The Exiled Heavy Knight Knows How to Game the System",
   "tp": "anime",
-  "achou": "The Exiled Heavy Knight Knows How to Game the System (2026) (AniList)",
-  "anilist": {
-   "nota": 6.7
-  },
-  "mal": null
+  "achou": "The Exiled Heavy Knight Knows How to Game the System (2026) (AniList)"
  },
  "tsukimichi": {
   "t": "Tsukimichi",
   "tp": "anime",
-  "achou": "TSUKIMICHI -Moonlit Fantasy- (2021) (AniList)",
-  "anilist": {
-   "nota": 7.7
-  },
-  "mal": null
+  "achou": "TSUKIMICHI -Moonlit Fantasy- (2021) (AniList)"
  },
  "fate-strange-fake": {
   "t": "Fate/strange Fake",
   "tp": "anime",
-  "achou": "Fate/strange Fake (2026) (AniList)",
-  "anilist": {
-   "nota": 8.2
-  },
-  "mal": null
+  "achou": "Fate/strange Fake (2026) (AniList)"
  },
  "gachiakuta": {
   "t": "Gachiakuta",
   "tp": "anime",
-  "achou": "Gachiakuta (2025) (AniList)",
-  "anilist": {
-   "nota": 8.2
-  },
-  "mal": null
+  "achou": "Gachiakuta (2025) (AniList)"
  },
  "blood-lad": {
   "t": "Blood Lad",
   "tp": "anime",
-  "achou": "Blood Lad (2013) (AniList)",
-  "anilist": {
-   "nota": 6.9
-  },
-  "mal": null
+  "achou": "Blood Lad (2013) (AniList)"
  },
  "so-what-s-wrong-with-getting-reborn-as-a-goblin": {
   "t": "So What's Wrong with Getting Reborn as a Goblin?",
   "tp": "anime",
-  "achou": "So What's Wrong with Getting Reborn as a Goblin? (2026) (AniList)",
-  "anilist": {
-   "nota": 6.5
-  },
-  "mal": null
+  "achou": "So What's Wrong with Getting Reborn as a Goblin? (2026) (AniList)"
  },
  "overgeared": {
   "t": "Overgeared",
   "tp": "anime",
-  "achou": "Overgeared (2026) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null
+  "achou": "Overgeared (2026) (AniList)"
  },
  "magical-explorer": {
   "t": "Magical Explorer",
   "tp": "anime",
-  "achou": "Magical Explorer (2026) (AniList)",
-  "anilist": {
-   "nota": 6.9
-  },
-  "mal": null
+  "achou": "Magical Explorer (2026) (AniList)"
  },
  "magic-repo-man": {
   "t": "Magic Repo Man",
   "tp": "anime",
-  "achou": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest! (2026) (AniList)",
-  "anilist": {
-   "nota": 6.1
-  },
-  "mal": null
+  "achou": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest! (2026) (AniList)"
  },
  "the-laid-off-cheat-granting-mage": {
   "t": "The Laid-Off Cheat-Granting Mage",
   "tp": "anime",
-  "achou": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life (2026) (AniList)",
-  "anilist": {
-   "nota": 7.3
-  },
-  "mal": null
+  "achou": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life (2026) (AniList)"
  },
  "jujutsu-kaisen": {
   "t": "Jujutsu Kaisen",
   "tp": "anime",
-  "achou": "JUJUTSU KAISEN (2020) (AniList)",
-  "anilist": {
-   "nota": 8.4
-  },
-  "mal": null
- },
- "demon-slayer": {
-  "t": "Demon Slayer",
-  "tp": "anime",
-  "achou": "Onigiri (2016) (AniList)",
-  "anilist": {
-   "nota": 4.8
-  },
-  "mal": null
+  "achou": "JUJUTSU KAISEN (2020) (AniList)"
  },
  "hunter-x-hunter": {
   "t": "Hunter x Hunter",
   "tp": "anime",
-  "achou": "Hunter x Hunter (1999) (AniList)",
-  "anilist": {
-   "nota": 8.3
-  },
-  "mal": null
+  "achou": "Hunter x Hunter (1999) (AniList)"
  },
  "konosuba": {
   "t": "Konosuba",
   "tp": "anime",
-  "achou": "KONOSUBA -God's blessing on this wonderful world! (2016) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null
+  "achou": "KONOSUBA -God's blessing on this wonderful world! (2016) (AniList)"
  },
  "gintama": {
   "t": "Gintama",
   "tp": "anime",
-  "achou": "Gintama (2006) (AniList)",
-  "anilist": {
-   "nota": 8.5
-  },
-  "mal": null
+  "achou": "Gintama (2006) (AniList)"
  },
  "bleach": {
   "t": "Bleach",
   "tp": "anime",
-  "achou": "Bleach (2004) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null
+  "achou": "Bleach (2004) (AniList)"
  },
  "that-time-i-got-reincarnated-as-a-slime": {
   "t": "That Time I Got Reincarnated as a Slime",
   "tp": "anime",
-  "achou": "That Time I Got Reincarnated as a Slime (2018) (AniList)",
-  "anilist": {
-   "nota": 8
-  },
-  "mal": null
+  "achou": "That Time I Got Reincarnated as a Slime (2018) (AniList)"
  },
  "haikyu": {
   "t": "Haikyu",
   "tp": "anime",
-  "achou": "HAIKYU!! (2014) (AniList)",
-  "anilist": {
-   "nota": 8.3
-  },
-  "mal": null
+  "achou": "HAIKYU!! (2014) (AniList)"
  },
  "i-was-reincarnated-as-the-7th-prince": {
   "t": "I Was Reincarnated as the 7th Prince",
   "tp": "anime",
-  "achou": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (2024) (AniList)",
-  "anilist": {
-   "nota": 7.3
-  },
-  "mal": null
+  "achou": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (2024) (AniList)"
  },
  "frieren": {
   "t": "Frieren",
   "tp": "anime",
-  "achou": "Frieren: Beyond Journey’s End (2023) (AniList)",
-  "anilist": {
-   "nota": 9.1
-  },
-  "mal": null
+  "achou": "Frieren: Beyond Journey’s End (2023) (AniList)"
  },
  "better-call-saul": {
   "t": "Better Call Saul",
@@ -1953,23 +1484,6 @@
   },
   "achou": "Uncharted (2022) (IMDb)"
  },
- "jumanji-os-novos": {
-  "t": "Jumanji (os novos)",
-  "tp": "filme",
-  "imdb": null,
-  "achou": null
- },
- "capitao-america": {
-  "t": "Capitão América",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt3498820",
-   "exato": false,
-   "nota": 7.8,
-   "votos": 956014
-  },
-  "achou": "Captain America: Civil War (2016) (IMDb)"
- },
  "homem-formiga": {
   "t": "Homem-Formiga",
   "tp": "filme",
@@ -2058,17 +1572,6 @@
   },
   "achou": "Extraction II (2023) (IMDb)"
  },
- "operacao-furia": {
-  "t": "Operação Fúria",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0118969",
-   "exato": false,
-   "nota": 6.3,
-   "votos": 713
-  },
-  "achou": "Detention: The Siege at Johnson High (1997) (IMDb)"
- },
  "o-protetor": {
   "t": "O Protetor",
   "tp": "filme",
@@ -2113,17 +1616,6 @@
   },
   "achou": "Ballerina (2025) (IMDb)"
  },
- "jurassic-park-world": {
-  "t": "Jurassic Park/World",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0119567",
-   "exato": false,
-   "nota": 6.6,
-   "votos": 485336
-  },
-  "achou": "The Lost World: Jurassic Park (1997) (IMDb)"
- },
  "piratas-do-caribe": {
   "t": "Piratas do Caribe",
   "tp": "filme",
@@ -2156,15 +1648,6 @@
    "votos": 903391
   },
   "achou": "Doctor Strange (2016) (IMDb)"
- },
- "pantera-negra": {
-  "t": "Pantera Negra",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0326619",
-   "exato": true
-  },
-  "achou": "Pantera negra (1993) (IMDb)"
  },
  "shang-chi": {
   "t": "Shang-Chi",
@@ -2209,17 +1692,6 @@
    "votos": 429634
   },
   "achou": "Bird Box (2018) (IMDb)"
- },
- "sem-limites": {
-  "t": "Sem Limites",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt32357218",
-   "exato": false,
-   "nota": 6.1,
-   "votos": 51058
-  },
-  "achou": "Shelter (2026) (IMDb)"
  },
  "matrix": {
   "t": "Matrix",
