@@ -738,5 +738,29 @@
  "ministerio-do-espaco": {
   "titulo": "Ministério do Espaço",
   "achou": "Space Force (TVmaze)"
+ },
+ "lazarus": {
+  "titulo": "Lazarus",
+  "achou": "LAZARUS (AniList)"
+ },
+ "mission-yozakura-family": {
+  "titulo": "Mission: Yozakura Family",
+  "achou": "Mission: Yozakura Family (AniList)"
+ },
+ "ranma": {
+  "titulo": "Ranma ½",
+  "achou": "Ranma1/2 (2024) (AniList)"
+ },
+ "rooster-fighter": {
+  "titulo": "Rooster Fighter",
+  "achou": "Rooster Fighter (AniList)"
+ },
+ "the-beginning-after-the-end": {
+  "titulo": "The Beginning After the End",
+  "achou": "The Beginning After the End (AniList)"
+ },
+ "wistoria-wand-and-sword": {
+  "titulo": "Wistoria: Wand and Sword",
+  "achou": "Wistoria: Wand and Sword (AniList)"
  }
 }
