@@ -1,3113 +1,3099 @@
 {
- "rush": {
-  "t": "Rush",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1979320",
-   "exato": true,
-   "nota": 8.1,
-   "votos": 569428
-  },
-  "achou": "Rush (2013) (IMDb)"
- },
- "perdidos-no-espaco": {
-  "t": "Perdidos no Espaço",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt5232792",
-   "exato": true,
-   "nota": 7.3,
-   "votos": 115171
-  },
-  "achou": "Lost in Space (2018) (IMDb)"
- },
- "naruto": {
-  "t": "Naruto",
-  "tp": "anime",
-  "achou": "Naruto (2002) (AniList)",
-  "anilist": {
-   "nota": 8
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8,
-   "votos": 165826,
-   "achou": "Naruto"
-  }
- },
- "sword-art-online": {
-  "t": "Sword Art Online",
-  "tp": "anime",
-  "achou": "Sword Art Online (2012) (AniList)",
-  "anilist": {
-   "nota": 7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.4,
-   "votos": 194253,
-   "achou": "Sword Art Online"
-  }
- },
- "the-100": {
-  "t": "The 100",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt2661044",
-   "exato": true,
-   "nota": 7.5,
-   "votos": 309460
-  },
-  "achou": "The 100 (2014) (IMDb)"
- },
- "fire-force": {
-  "t": "Fire Force",
-  "tp": "anime",
-  "achou": "Fire Force (2019) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.9,
-   "votos": 56991,
-   "achou": "Enen no Shouboutai"
-  }
- },
- "akame-ga-kill": {
-  "t": "Akame ga Kill!",
-  "tp": "anime",
-  "achou": "Akame ga Kill! (2014) (AniList)",
-  "anilist": {
-   "nota": 7.3
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.5,
-   "votos": 111502,
-   "achou": "Akame ga Kill!"
-  }
- },
- "jogos-vorazes-a-esperanca-parte-1": {
-  "t": "Jogos Vorazes: A Esperança - Parte 1",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1951265",
-   "exato": true,
-   "nota": 6.6,
-   "votos": 557177
-  },
-  "achou": "The Hunger Games: Mockingjay - Part 1 (2014) (IMDb)"
- },
- "the-walking-dead": {
-  "t": "The Walking Dead",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt1520211",
-   "exato": true,
-   "nota": 8.1,
-   "votos": 1221413
-  },
-  "achou": "The Walking Dead (2010) (IMDb)"
- },
- "gente-grande": {
-  "t": "Gente Grande",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1375670",
-   "exato": true,
-   "nota": 6,
-   "votos": 321123
-  },
-  "achou": "Grown Ups (2010) (IMDb)"
- },
- "hitman-reborn": {
-  "t": "Hitman Reborn!",
-  "tp": "anime",
-  "achou": "REBORN! (2006) (AniList)",
-  "anilist": {
-   "nota": 7.7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8,
-   "votos": 40335,
-   "achou": "Katekyo Hitman Reborn!"
-  }
- },
- "cobra-kai": {
-  "t": "Cobra Kai",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt7221388",
-   "exato": true,
-   "nota": 8.4,
-   "votos": 248049
-  },
-  "achou": "Cobra Kai (2018) (IMDb)"
- },
- "re-monster": {
-  "t": "Re:Monster",
-  "tp": "anime",
-  "achou": "Re:Monster (2024) (AniList)",
-  "anilist": {
-   "nota": 6.5
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 6.7,
-   "votos": 3674,
-   "achou": "Re:Monster"
-  }
- },
- "jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes": {
-  "t": "Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt10545296",
-   "exato": true,
-   "nota": 6.6,
-   "votos": 193054
-  },
-  "achou": "The Hunger Games: The Ballad of Songbirds & Snakes (2023) (IMDb)"
- },
- "ascensao-do-heroi-do-escudo": {
-  "t": "Ascensão do Herói do Escudo",
-  "tp": "anime",
-  "achou": "The Rising of the Shield Hero (2019) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.1,
-   "votos": 90151,
-   "achou": "Tate no Yuusha no Nariagari"
-  }
- },
- "o-problema-dos-3-corpos": {
-  "t": "O Problema dos 3 Corpos",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt13016388",
-   "exato": true,
-   "nota": 7.5,
-   "votos": 186869
-  },
-  "achou": "3 Body Problem (2024) (IMDb)"
- },
- "the-beginning-after-the-end": {
-  "t": "The Beginning After the End",
-  "tp": "anime",
-  "achou": "The Beginning After the End (2025) (AniList)",
-  "anilist": {
-   "nota": 6
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 6.3,
-   "votos": 3175,
-   "achou": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?"
-  }
- },
- "need-for-speed-o-filme": {
-  "t": "Need for Speed: O Filme",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt2369135",
-   "exato": true,
-   "nota": 6.4,
-   "votos": 189040
-  },
-  "achou": "Need for Speed (2014) (IMDb)"
- },
- "animais-fantasticos-os-crimes-de-grindelwald": {
-  "t": "Animais Fantásticos: Os Crimes de Grindelwald",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt4123430",
-   "exato": true,
-   "nota": 6.5,
-   "votos": 336630
-  },
-  "achou": "Fantastic Beasts: The Crimes of Grindelwald (2018) (IMDb)"
- },
- "assassination-classroom": {
-  "t": "Assassination Classroom",
-  "tp": "anime",
-  "achou": "Assassination Classroom (2015) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.3,
-   "votos": 259969,
-   "achou": "Ansatsu Kyoushitsu"
-  }
- },
- "a-lista-terminal-dark-wolf": {
-  "t": "A Lista Terminal: Dark Wolf",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt26576161",
-   "exato": true,
-   "nota": 7.5,
-   "votos": 32639
-  },
-  "achou": "The Terminal List: Dark Wolf (2025) (IMDb)"
- },
- "sword-art-online-alicization": {
-  "t": "Sword Art Online: Alicization",
-  "tp": "anime",
-  "achou": "Sword Art Online: Alicization (2018) (AniList)",
-  "anilist": {
-   "nota": 7.5
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.7,
-   "votos": 54375,
-   "achou": "Sword Art Online: Alicization"
-  }
- },
- "a-serie-divergente-insurgente": {
-  "t": "A Série Divergente: Insurgente",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt2908446",
-   "exato": true,
-   "nota": 6.2,
-   "votos": 275356
-  },
-  "achou": "The Divergent Series: Insurgent (2015) (IMDb)"
- },
- "jack-ryan": {
-  "t": "Jack Ryan",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt5057054",
-   "exato": true,
-   "nota": 8,
-   "votos": 198119
-  },
-  "achou": "Jack Ryan (2018) (IMDb)"
- },
- "maze-runner-a-cura-mortal": {
-  "t": "Maze Runner: A Cura Mortal",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt4500922",
-   "exato": true,
-   "nota": 6.3,
-   "votos": 198085
-  },
-  "achou": "Maze Runner: The Death Cure (2018) (IMDb)"
- },
- "see": {
-  "t": "See",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt7949218",
-   "exato": true,
-   "nota": 7.6,
-   "votos": 113276
-  },
-  "achou": "See (2019) (IMDb)"
- },
- "ford-vs-ferrari": {
-  "t": "Ford vs Ferrari",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1950186",
-   "exato": false,
-   "nota": 8.1,
-   "votos": 591575
-  },
-  "achou": "Ford v Ferrari (2019) (IMDb)"
- },
- "nobody-ninguem": {
-  "t": "Nobody: Ninguém",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt7888964",
-   "exato": true,
-   "nota": 7.4,
-   "votos": 408514
-  },
-  "achou": "Nobody (2021) (IMDb)"
- },
- "agente-stone": {
-  "t": "Agente Stone",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt13603966",
-   "exato": true,
-   "nota": 5.7,
-   "votos": 69953
-  },
-  "achou": "Heart of Stone (2023) (IMDb)"
- },
- "wind-breaker": {
-  "t": "Wind Breaker",
-  "tp": "anime",
-  "achou": "WIND BREAKER (2024) (AniList)",
-  "anilist": {
-   "nota": 7.7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.8,
-   "votos": 6892,
-   "achou": "WIND BREAKER"
-  }
- },
- "gran-turismo-de-jogador-a-corredor": {
-  "t": "Gran Turismo: De Jogador a Corredor",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt4495098",
-   "exato": true,
-   "nota": 7.1,
-   "votos": 140283
-  },
-  "achou": "Gran Turismo (2023) (IMDb)"
- },
- "dark": {
-  "t": "Dark",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt5753856",
-   "exato": true,
-   "nota": 8.7,
-   "votos": 567570
-  },
-  "achou": "Dark (2017) (IMDb)"
- },
- "jogos-vorazes": {
-  "t": "Jogos Vorazes",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1392170",
-   "exato": true,
-   "nota": 7.2,
-   "votos": 1100794
-  },
-  "achou": "The Hunger Games (2012) (IMDb)"
- },
- "animais-fantasticos-e-onde-habitam": {
-  "t": "Animais Fantásticos e Onde Habitam",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt3183660",
-   "exato": true,
-   "nota": 7.2,
-   "votos": 547611
-  },
-  "achou": "Fantastic Beasts and Where to Find Them (2016) (IMDb)"
- },
- "the-night-agent": {
-  "t": "The Night Agent",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt13918776",
-   "exato": true,
-   "nota": 7.4,
-   "votos": 166377
-  },
-  "achou": "The Night Agent (2023) (IMDb)"
- },
- "boruto-naruto-next-generations": {
-  "t": "Boruto: Naruto Next Generations",
-  "tp": "anime",
-  "achou": "Boruto: Naruto Next Generations (2017) (AniList)",
-  "anilist": {
-   "nota": 5.6
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 6.4,
-   "votos": 64980,
-   "achou": "Boruto: Naruto Next Generations"
-  }
- },
- "chainsaw-man": {
-  "t": "Chainsaw Man",
-  "tp": "anime",
-  "achou": "Chainsaw Man (2022) (AniList)",
-  "anilist": {
-   "nota": 8.3
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.4,
-   "votos": 54465,
-   "achou": "Chainsaw Man"
-  }
- },
- "mato-seihei-no-slave": {
-  "t": "Mato Seihei no Slave",
-  "tp": "anime",
-  "achou": "Chained Soldier (2024) (AniList)",
-  "anilist": {
-   "nota": 6.8
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 6.9,
-   "votos": 5332,
-   "achou": "Mato Seihei no Slave"
-  }
- },
- "a-serie-divergente-convergente": {
-  "t": "A Série Divergente: Convergente",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt3410834",
-   "exato": true,
-   "nota": 5.7,
-   "votos": 149768
-  },
-  "achou": "The Divergent Series: Allegiant (2016) (IMDb)"
- },
- "detetive-pikachu": {
-  "t": "Detetive Pikachu",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt5884052",
-   "exato": true,
-   "nota": 6.5,
-   "votos": 200818
-  },
-  "achou": "Pokémon: Detective Pikachu (2019) (IMDb)"
- },
- "jogos-vorazes-em-chamas": {
-  "t": "Jogos Vorazes: Em Chamas",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1951264",
-   "exato": true,
-   "nota": 7.5,
-   "votos": 787074
-  },
-  "achou": "The Hunger Games: Catching Fire (2013) (IMDb)"
- },
- "maze-runner-prova-de-fogo": {
-  "t": "Maze Runner: Prova de Fogo",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt4046784",
-   "exato": true,
-   "nota": 6.3,
-   "votos": 314712
-  },
-  "achou": "Maze Runner: The Scorch Trials (2015) (IMDb)"
- },
- "jujutsu-kaisen-0": {
-  "t": "Jujutsu Kaisen 0",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt14331144",
-   "exato": true,
-   "nota": 7.8,
-   "votos": 68284
-  },
-  "achou": "Jujutsu Kaisen 0 (2021) (IMDb)"
- },
- "arifureta-da-classe-media-ao-mais-forte-do-mundo": {
-  "t": "Arifureta: Da Classe Média ao Mais Forte do Mundo",
-  "tp": "anime",
-  "achou": "Arifureta: From Commonplace to World's Strongest (2019) (AniList)",
-  "anilist": {
-   "nota": 6.5
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 6.7,
-   "votos": 29151,
-   "achou": "Arifureta Shokugyou de Sekai Saikyou"
-  }
- },
- "lupin": {
-  "t": "Lupin",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt2531336",
-   "exato": true,
-   "nota": 7.5,
-   "votos": 164873
-  },
-  "achou": "Lupin (2021) (IMDb)"
- },
- "kingsman-o-circulo-dourado": {
-  "t": "Kingsman: O Círculo Dourado",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt4649466",
-   "exato": true,
-   "nota": 6.7,
-   "votos": 407793
-  },
-  "achou": "Kingsman: The Golden Circle (2017) (IMDb)"
- },
- "blue-exorcist": {
-  "t": "Blue Exorcist",
-  "tp": "anime",
-  "achou": "Blue Exorcist (2011) (AniList)",
-  "anilist": {
-   "nota": 7.2
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.7,
-   "votos": 123356,
-   "achou": "Ao no Exorcist"
-  }
- },
- "undead-unluck": {
-  "t": "Undead Unluck",
-  "tp": "anime",
-  "achou": "Undead Unluck (2023) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.8,
-   "votos": 6632,
-   "achou": "Undead Unluck"
-  }
- },
- "todo-mundo-odeia-o-chris": {
-  "t": "Todo Mundo Odeia o Chris",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt0460637",
-   "exato": true,
-   "nota": 7.6,
-   "votos": 47085
-  },
-  "achou": "Everybody Hates Chris (2005) (IMDb)"
- },
- "shangri-la-frontier": {
-  "t": "Shangri-La Frontier",
-  "tp": "anime",
-  "achou": "Shangri-La Frontier (2023) (AniList)",
-  "anilist": {
-   "nota": 8
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.1,
-   "votos": 8235,
-   "achou": "Shangri-La Frontier"
-  }
- },
- "fairy-tail": {
-  "t": "Fairy Tail",
-  "tp": "anime",
-  "achou": "Fairy Tail (2009) (AniList)",
-  "anilist": {
-   "nota": 7.2
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.8,
-   "votos": 114582,
-   "achou": "Fairy Tail"
-  }
- },
- "maze-runner-correr-ou-morrer": {
-  "t": "Maze Runner: Correr ou Morrer",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1790864",
-   "exato": true,
-   "nota": 6.8,
-   "votos": 575461
-  },
-  "achou": "The Maze Runner (2014) (IMDb)"
- },
- "django-livre": {
-  "t": "Django Livre",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1853728",
-   "exato": true,
-   "nota": 8.5,
-   "votos": 1924692
-  },
-  "achou": "Django Unchained (2012) (IMDb)"
- },
- "divergente": {
-  "t": "Divergente",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1840309",
-   "exato": true,
-   "nota": 6.6,
-   "votos": 524854
-  },
-  "achou": "Divergent (2014) (IMDb)"
- },
- "atomica": {
-  "t": "Atômica",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt2449638",
-   "exato": true,
-   "nota": 4.2,
-   "votos": 2467
-  },
-  "achou": "Atomica (2017) (IMDb)"
- },
- "fullmetal-alchemist": {
-  "t": "Fullmetal Alchemist",
-  "tp": "anime",
-  "achou": "Fullmetal Alchemist (2003) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 147719,
-   "achou": "Fullmetal Alchemist"
-  }
- },
- "agentes-muito-especiais": {
-  "t": "Agentes Muito Especiais",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt38208306",
-   "exato": true,
-   "nota": 5.4,
-   "votos": 125
-  },
-  "achou": "Agentes Muito Especiais (2025) (IMDb)"
- },
- "gen-v": {
-  "t": "Gen V",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt13159924",
-   "exato": true,
-   "nota": 7.6,
-   "votos": 158303
-  },
-  "achou": "Gen V (2023) (IMDb)"
- },
- "seven-deadly-sins": {
-  "t": "Seven Deadly Sins",
-  "tp": "anime",
-  "achou": "The Seven Deadly Sins (2014) (AniList)",
-  "anilist": {
-   "nota": 7.2
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 355687,
-   "achou": "Nanatsu no Taizai"
-  }
- },
- "bleach-thousand-year-blood-war": {
-  "t": "Bleach: Thousand-Year Blood War",
-  "tp": "anime",
-  "achou": "BLEACH: Thousand-Year Blood War (2022) (AniList)",
-  "anilist": {
-   "nota": 8.8
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.4,
-   "votos": 16987,
-   "achou": "BLEACH: Sennen Kessen-hen"
-  }
- },
- "wistoria-wand-and-sword": {
-  "t": "Wistoria: Wand and Sword",
-  "tp": "anime",
-  "achou": "Wistoria: Wand and Sword (2024) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8,
-   "votos": 5752,
-   "achou": "Tsue to Tsurugi no Wistoria"
-  }
- },
- "log-horizon": {
-  "t": "Log Horizon",
-  "tp": "anime",
-  "achou": "Log Horizon (2013) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8,
-   "votos": 83233,
-   "achou": "Log Horizon"
-  }
- },
- "kingsman-servico-secreto": {
-  "t": "Kingsman: Serviço Secreto",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt2802144",
-   "exato": true,
-   "nota": 7.7,
-   "votos": 787085
-  },
-  "achou": "Kingsman: The Secret Service (2014) (IMDb)"
- },
- "the-mandalorian": {
-  "t": "The Mandalorian",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt8111088",
-   "exato": true,
-   "nota": 8.6,
-   "votos": 669381
-  },
-  "achou": "The Mandalorian (2019) (IMDb)"
- },
- "sicario-terra-de-ninguem": {
-  "t": "Sicario: Terra de Ninguém",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt3397884",
-   "exato": true,
-   "nota": 7.7,
-   "votos": 554097
-  },
-  "achou": "Sicario (2015) (IMDb)"
- },
- "animais-fantasticos-os-segredos-de-dumbledore": {
-  "t": "Animais Fantásticos: Os Segredos de Dumbledore",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt4123432",
-   "exato": true,
-   "nota": 6.2,
-   "votos": 196756
-  },
-  "achou": "Fantastic Beasts: The Secrets of Dumbledore (2022) (IMDb)"
- },
- "naruto-shippuden": {
-  "t": "Naruto Shippuden",
-  "tp": "anime",
-  "achou": "Naruto: Shippuden (2007) (AniList)",
-  "anilist": {
-   "nota": 8.2
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.4,
-   "votos": 215665,
-   "achou": "Naruto: Shippuuden"
-  }
- },
- "jogos-vorazes-a-esperanca-o-final": {
-  "t": "Jogos Vorazes: A Esperança - O Final",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1951266",
-   "exato": true,
-   "nota": 6.6,
-   "votos": 424589
-  },
-  "achou": "The Hunger Games: Mockingjay - Part 2 (2015) (IMDb)"
- },
- "prison-school": {
-  "t": "Prison School",
-  "tp": "anime",
-  "achou": "Prison School (2015) (AniList)",
-  "anilist": {
-   "nota": 7.3
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.6,
-   "votos": 58240,
-   "achou": "Prison School"
-  }
- },
- "rei-arthur-a-lenda-da-espada": {
-  "t": "Rei Arthur: A Lenda da Espada",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1972591",
-   "exato": true,
-   "nota": 6.7,
-   "votos": 251012
-  },
-  "achou": "King Arthur: Legend of the Sword (2017) (IMDb)"
- },
- "lazarus": {
-  "t": "Lazarus",
-  "tp": "anime",
-  "achou": "LAZARUS (2025) (AniList)",
-  "anilist": {
-   "nota": 7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.2,
-   "votos": 3965,
-   "achou": "Lazarus"
-  }
- },
- "shuumatsu-no-harem-world-s-end-harem": {
-  "t": "Shuumatsu no Harem (World's End Harem)",
-  "tp": "anime",
-  "achou": "World's End Harem (2022) (AniList)",
-  "anilist": {
-   "nota": 5.5
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 5.9,
-   "votos": 9033,
-   "achou": "Shuumatsu no Harem"
-  }
- },
- "sombra-e-ossos": {
-  "t": "Sombra e Ossos",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt2403776",
-   "exato": true,
-   "nota": 7.5,
-   "votos": 126674
-  },
-  "achou": "Shadow and Bone (2021) (IMDb)"
- },
- "the-expanse": {
-  "t": "The Expanse",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt3230854",
-   "exato": true,
-   "nota": 8.5,
-   "votos": 196131
-  },
-  "achou": "The Expanse (2015) (IMDb)"
- },
- "altered-carbon": {
-  "t": "Altered Carbon",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt2261227",
-   "exato": true,
-   "nota": 7.9,
-   "votos": 205093
-  },
-  "achou": "Altered Carbon (2018) (IMDb)"
- },
- "little-witch-academia": {
-  "t": "Little Witch Academia",
-  "tp": "anime",
-  "achou": "Little Witch Academia (2013) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8,
-   "votos": 38144,
-   "achou": "Little Witch Academia"
-  }
- },
- "para-toda-a-humanidade": {
-  "t": "Para Toda a Humanidade",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt7772588",
-   "exato": true,
-   "nota": 8.1,
-   "votos": 94673
-  },
-  "achou": "For All Mankind (2019) (IMDb)"
- },
- "reacher-jack-reacher-dia-de-matar": {
-  "t": "Reacher: Jack Reacher - Dia de Matar",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt3393786",
-   "exato": true,
-   "nota": 6.2,
-   "votos": 196760
-  },
-  "achou": "Jack Reacher: Never Go Back (2016) (IMDb)"
- },
- "dark-matter": {
-  "t": "Dark Matter",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt19231492",
-   "exato": true,
-   "nota": 7.6,
-   "votos": 86289
-  },
-  "achou": "Dark Matter (2024) (IMDb)"
- },
- "vikings-valhalla": {
-  "t": "Vikings: Valhalla",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt11311302",
-   "exato": true,
-   "nota": 7.4,
-   "votos": 73036
-  },
-  "achou": "Vikings: Valhalla (2022) (IMDb)"
- },
- "magi-o-labirinto-da-magia": {
-  "t": "Magi: O Labirinto da Magia",
-  "tp": "anime",
-  "achou": "Magi: The Labyrinth of Magic (2012) (AniList)",
-  "anilist": {
-   "nota": 7.8
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.1,
-   "votos": 76345,
-   "achou": "Magi: The Labyrinth of Magic"
-  }
- },
- "rosario-vampire": {
-  "t": "Rosario + Vampire",
-  "tp": "anime",
-  "achou": "Rosario + Vampire (2008) (AniList)",
-  "anilist": {
-   "nota": 6.3
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 6.8,
-   "votos": 46938,
-   "achou": "Rosario to Vampire"
-  }
- },
- "constelacao": {
-  "t": "Constelação",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt19395018",
-   "exato": true,
-   "nota": 6.7,
-   "votos": 22622
-  },
-  "achou": "Constellation (2024) (IMDb)"
- },
- "raised-by-wolves": {
-  "t": "Raised by Wolves",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt9170108",
-   "exato": true,
-   "nota": 7.4,
-   "votos": 94029
-  },
-  "achou": "Raised by Wolves (2020) (IMDb)"
- },
- "kekkai-sensen": {
-  "t": "Kekkai Sensen",
-  "tp": "anime",
-  "achou": "Blood Blockade Battlefront (2015) (AniList)",
-  "anilist": {
-   "nota": 7.4
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.7,
-   "votos": 60550,
-   "achou": "Kekkai Sensen"
-  }
- },
- "kanojo-okarishimasu-rent-a-girlfriend": {
-  "t": "Kanojo, Okarishimasu (Rent-a-Girlfriend)",
-  "tp": "anime",
-  "achou": "Rent-a-Girlfriend (2020) (AniList)",
-  "anilist": {
-   "nota": 6.5
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.1,
-   "votos": 32600,
-   "achou": "Kanojo, Okarishimasu"
-  }
- },
- "high-school-dxd": {
-  "t": "High School DxD",
-  "tp": "anime",
-  "achou": "High School DxD (2012) (AniList)",
-  "anilist": {
-   "nota": 6.9
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.4,
-   "votos": 83843,
-   "achou": "High School DxD"
-  }
- },
- "ranma": {
-  "t": "Ranma ½",
-  "tp": "anime",
-  "achou": "Ranma1/2 (2024) (2024) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8,
-   "votos": 2714,
-   "achou": "Ranma 1/2 (2024)"
-  }
- },
- "kaguya-sama-love-is-war": {
-  "t": "Kaguya-sama: Love is War",
-  "tp": "anime",
-  "achou": "Kaguya-sama: Love is War (2019) (AniList)",
-  "anilist": {
-   "nota": 8.3
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 78354,
-   "achou": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
-  }
- },
- "terra-de-ninguem-warrior": {
-  "t": "Terra de Ninguém (Warrior)",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt5743796",
-   "exato": true,
-   "nota": 8.4,
-   "votos": 54819
-  },
-  "achou": "Warrior (2019) (IMDb)"
- },
- "uncle-from-another-world": {
-  "t": "Uncle from Another World",
-  "tp": "anime",
-  "achou": "Uncle from Another World (2022) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null,
-  "kitsu": null
- },
- "grand-blue-dreaming": {
-  "t": "Grand BLUE dreaming",
-  "tp": "anime",
-  "achou": "Grand Blue Dreaming (2018) (AniList)",
-  "anilist": {
-   "nota": 8.2
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 38827,
-   "achou": "Grand Blue"
-  }
- },
- "duna-parte-dois": {
-  "t": "Duna: Parte Dois",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt15239678",
-   "exato": false,
-   "nota": 8.4,
-   "votos": 803824
-  },
-  "achou": "Dune: Part Two (2024) (IMDb)"
- },
- "jason-bourne": {
-  "t": "Jason Bourne",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt4196776",
-   "exato": true,
-   "nota": 6.6,
-   "votos": 261530
-  },
-  "achou": "Jason Bourne (2016) (IMDb)"
- },
- "sons-of-anarchy": {
-  "t": "Sons of Anarchy",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt1124373",
-   "exato": true,
-   "nota": 8.5,
-   "votos": 362120
-  },
-  "achou": "Sons of Anarchy (2008) (IMDb)"
- },
- "cowboy-bebop": {
-  "t": "Cowboy Bebop",
-  "tp": "anime",
-  "achou": "Cowboy Bebop (1998) (AniList)",
-  "anilist": {
-   "nota": 8.6
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 162561,
-   "achou": "Cowboy Bebop"
-  }
- },
- "hajime-no-ippo": {
-  "t": "Hajime no Ippo",
-  "tp": "anime",
-  "achou": "Hajime No Ippo: The Fighting! - Rising - (2013) (AniList)",
-  "anilist": {
-   "nota": 8.5
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 19063,
-   "achou": "Hajime No Ippo: The Fighting! - Rising -"
-  }
- },
- "slam-dunk": {
-  "t": "Slam Dunk",
-  "tp": "anime",
-  "achou": "Slam Dunk (1993) (AniList)",
-  "anilist": {
-   "nota": 8.3
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.1,
-   "votos": 20575,
-   "achou": "Slam Dunk"
-  }
- },
- "black-doves-s2": {
-  "t": "Black Doves S2",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt27995113",
-   "exato": true,
-   "nota": 7.2,
-   "votos": 77232
-  },
-  "achou": "Black Doves (2024) (IMDb)"
- },
- "godzilla-minus-zero": {
-  "t": "Godzilla Minus Zero",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt34384661",
-   "exato": true,
-   "nota": 8,
-   "votos": 1330
-  },
-  "achou": "Godzilla Minus Zero (2026) (IMDb)"
- },
- "como-roubar-um-banco": {
-  "t": "Como Roubar Um Banco",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt35866986",
-   "exato": false
-  },
-  "achou": "How to Rob a Bank (2026) (IMDb)"
- },
- "vingadores-doutor-destino": {
-  "t": "Vingadores: Doutor Destino",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt21357150",
-   "exato": false
-  },
-  "achou": "Avengers: Doomsday (2026) (IMDb)"
- },
- "returner-s-magic-should-be-special-s2": {
-  "t": "Returner's Magic Should Be Special S2",
-  "tp": "anime",
-  "achou": "A Returner's Magic Should Be Special (2023) (AniList)",
-  "anilist": {
-   "nota": 6.9
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.1,
-   "votos": 3866,
-   "achou": "Kikansha no Mahou wa Tokubetsu desu"
-  }
- },
- "iceblade-sorcerer-shall-rule-the-world-ii": {
-  "t": "Iceblade Sorcerer Shall Rule the World II",
-  "tp": "anime",
-  "achou": "The Iceblade Sorcerer Shall Rule the World II (2026) (AniList)",
-  "anilist": {
-   "nota": 6.6
-  },
-  "mal": null,
-  "kitsu": null
- },
- "mashle": {
-  "t": "Mashle",
-  "tp": "anime",
-  "achou": "MASHLE: MAGIC AND MUSCLES (2023) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.7,
-   "votos": 13788,
-   "achou": "Mashle"
-  }
- },
- "dan-da-dan": {
-  "t": "Dan Da Dan",
-  "tp": "anime",
-  "achou": "DAN DA DAN (2024) (AniList)",
-  "anilist": {
-   "nota": 8.3
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.5,
-   "votos": 12909,
-   "achou": "Dandadan"
-  }
- },
- "mushoku-tensei": {
-  "t": "Mushoku Tensei",
-  "tp": "anime",
-  "achou": "Mushoku Tensei: Jobless Reincarnation (2021) (AniList)",
-  "anilist": {
-   "nota": 8.1
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 49363,
-   "achou": "Mushoku Tensei: Isekai Ittara Honki Dasu"
-  }
- },
- "solo-leveling": {
-  "t": "Solo Leveling",
-  "tp": "anime",
-  "achou": "Solo Leveling (2024) (AniList)",
-  "anilist": {
-   "nota": 8
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.3,
-   "votos": 18854,
-   "achou": "Ore Dake Level Up na Ken"
-  }
- },
- "tomb-raider-king": {
-  "t": "Tomb Raider King",
-  "tp": "anime",
-  "achou": "Tomb Raider King (AniList)",
-  "anilist": {
-   "nota": 6.8
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.1,
-   "votos": 814,
-   "achou": "Dogul Wang"
-  }
- },
- "my-dress-up-darling": {
-  "t": "My Dress-Up Darling",
-  "tp": "anime",
-  "achou": "My Dress-Up Darling (2022) (AniList)",
-  "anilist": {
-   "nota": 8
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 33111,
-   "achou": "Sono Bisque Doll wa Koi wo Suru"
-  }
- },
- "mf-ghost": {
-  "t": "MF Ghost",
-  "tp": "anime",
-  "achou": "MF GHOST (2023) (AniList)",
-  "anilist": {
-   "nota": 7.4
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.6,
-   "votos": 1957,
-   "achou": "MF Ghost"
-  }
- },
- "the-water-magician": {
-  "t": "The Water Magician",
-  "tp": "anime",
-  "achou": "The Water Magician (2025) (AniList)",
-  "anilist": {
-   "nota": 7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.2,
-   "votos": 3183,
-   "achou": "Mizu Zokusei no Mahou Tsukai"
-  }
- },
- "re-zero": {
-  "t": "Re:Zero",
-  "tp": "anime",
-  "achou": "Re:ZERO -Starting Life in Another World- (2016) (AniList)",
-  "anilist": {
-   "nota": 8.1
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 154557,
-   "achou": "Re:Zero kara Hajimeru Isekai Seikatsu"
-  }
- },
- "overlord": {
-  "t": "Overlord",
-  "tp": "anime",
-  "achou": "Overlord (2015) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8,
-   "votos": 82307,
-   "achou": "Overlord"
-  }
- },
- "dr-stone": {
-  "t": "Dr. Stone",
-  "tp": "anime",
-  "achou": "Dr. STONE (2019) (AniList)",
-  "anilist": {
-   "nota": 8.1
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 122056,
-   "achou": "Dr. Stone"
-  }
- },
- "i-became-a-legend-after-my-10-year-long-last-stand": {
-  "t": "I Became a Legend after My 10 Year-Long Last Stand",
-  "tp": "anime",
-  "achou": "I Became a Legend After My 10 Year-Long Last Stand (2026) (AniList)",
-  "anilist": {
-   "nota": 6.2
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 6.7,
-   "votos": 825,
-   "achou": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita."
-  }
- },
- "the-villager-of-level-999": {
-  "t": "The Villager of Level 999",
-  "tp": "anime",
-  "achou": "The Villager of Level 999 (2026) (AniList)",
-  "anilist": {
-   "nota": 6.1
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 6.6,
-   "votos": 881,
-   "achou": "LV999 no Murabito"
-  }
- },
- "trapped-in-a-dating-sim-2": {
-  "t": "Trapped in a Dating Sim 2",
-  "tp": "anime",
-  "achou": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 (2026) (AniList)",
-  "anilist": {
-   "nota": 7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.2,
-   "votos": 2037,
-   "achou": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2nd Season"
-  }
- },
- "one-piece": {
-  "t": "One Piece",
-  "tp": "anime",
-  "achou": "ONE PIECE (1999) (AniList)",
-  "anilist": {
-   "nota": 8.7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.4,
-   "votos": 325195,
-   "achou": "One Piece"
-  }
- },
- "black-clover": {
-  "t": "Black Clover",
-  "tp": "anime",
-  "achou": "Black Clover (2017) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.9,
-   "votos": 87911,
-   "achou": "Black Clover"
-  }
- },
- "kuroko-no-basket": {
-  "t": "Kuroko no Basket",
-  "tp": "anime",
-  "achou": "Kuroko's Basketball (2012) (AniList)",
-  "anilist": {
-   "nota": 7.8
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 92202,
-   "achou": "Kuroko no Basket"
-  }
- },
- "blue-lock": {
-  "t": "Blue Lock",
-  "tp": "anime",
-  "achou": "BLUE LOCK (2022) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.1,
-   "votos": 18841,
-   "achou": "BLUE LOCK"
-  }
- },
- "attack-on-titan": {
-  "t": "Attack on Titan",
-  "tp": "anime",
-  "achou": "Attack on Titan (2013) (AniList)",
-  "anilist": {
-   "nota": 8.5
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.4,
-   "votos": 618965,
-   "achou": "Attack on Titan"
-  }
- },
- "fullmetal-alchemist-brotherhood": {
-  "t": "Fullmetal Alchemist: Brotherhood",
-  "tp": "anime",
-  "achou": "Fullmetal Alchemist: Brotherhood (2009) (AniList)",
-  "anilist": {
-   "nota": 9
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.3,
-   "votos": 422909,
-   "achou": "Fullmetal Alchemist: Brotherhood"
-  }
- },
- "my-hero-academia": {
-  "t": "My Hero Academia",
-  "tp": "anime",
-  "achou": "My Hero Academia (2016) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.3,
-   "votos": 573378,
-   "achou": "Boku no Hero Academia"
-  }
- },
- "sakamoto-days": {
-  "t": "Sakamoto Days",
-  "tp": "anime",
-  "achou": "SAKAMOTO DAYS (2025) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.7,
-   "votos": 6156,
-   "achou": "SAKAMOTO DAYS"
-  }
- },
- "spy-x-family": {
-  "t": "Spy x Family",
-  "tp": "anime",
-  "achou": "SPY x FAMILY (2022) (AniList)",
-  "anilist": {
-   "nota": 8.3
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.5,
-   "votos": 78894,
-   "achou": "SPY×FAMILY"
-  }
- },
- "mob-psycho-100": {
-  "t": "Mob Psycho 100",
-  "tp": "anime",
-  "achou": "Mob Psycho 100 (2016) (AniList)",
-  "anilist": {
-   "nota": 8.4
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 163996,
-   "achou": "Mob Psycho 100"
-  }
- },
- "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill": {
-  "t": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill",
-  "tp": "anime",
-  "achou": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (2024) (AniList)",
-  "anilist": {
-   "nota": 7.1
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.2,
-   "votos": 3809,
-   "achou": "Tensei Kizoku, Kantei Skill de Nariagaru"
-  }
- },
- "aoashi": {
-  "t": "Aoashi",
-  "tp": "anime",
-  "achou": "Aoashi (2022) (AniList)",
-  "anilist": {
-   "nota": 8.1
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.1,
-   "votos": 6135,
-   "achou": "Ao Ashi"
-  }
- },
- "smoking-behind-the-supermarket-with-you": {
-  "t": "Smoking Behind the Supermarket with You",
-  "tp": "anime",
-  "achou": "Smoking Behind the Supermarket with You (2026) (AniList)",
-  "anilist": {
-   "nota": 8.1
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.3,
-   "votos": 2278,
-   "achou": "Super no Ura de Yani Suu Futari"
-  }
- },
- "soul-eater": {
-  "t": "Soul Eater",
-  "tp": "anime",
-  "achou": "Soul Eater (2008) (AniList)",
-  "anilist": {
-   "nota": 7.7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8,
-   "votos": 112673,
-   "achou": "Soul Eater"
-  }
- },
- "clevatess": {
-  "t": "Clevatess",
-  "tp": "anime",
-  "achou": "Clevatess (2025) (AniList)",
-  "anilist": {
-   "nota": 7.7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8,
-   "votos": 3181,
-   "achou": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha"
-  }
- },
- "yomi-no-tsugai": {
-  "t": "Yomi no Tsugai",
-  "tp": "anime",
-  "achou": "Daemons of the Shadow Realm (2026) (AniList)",
-  "anilist": {
-   "nota": 7.8
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.9,
-   "votos": 3095,
-   "achou": "Daemons of the Shadow Realm"
-  }
- },
- "the-world-s-strongest-rearguard": {
-  "t": "The World's Strongest Rearguard",
-  "tp": "anime",
-  "achou": "The World's Strongest Rearguard (2026) (AniList)",
-  "anilist": {
-   "nota": 5.7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 6.4,
-   "votos": 651,
-   "achou": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha"
-  }
- },
- "black-torch": {
-  "t": "Black Torch",
-  "tp": "anime",
-  "achou": "BLACK TORCH (2026) (AniList)",
-  "anilist": {
-   "nota": 6.9
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 6.9,
-   "votos": 1333,
-   "achou": "BLACK TORCH"
-  }
- },
- "the-frontier-lord-begins-with-zero-subjects": {
-  "t": "The Frontier Lord Begins with Zero Subjects",
-  "tp": "anime",
-  "achou": "The Frontier Lord Begins with Zero Subjects (2026) (AniList)",
-  "anilist": {
-   "nota": 6.8
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.2,
-   "votos": 715,
-   "achou": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama"
-  }
- },
- "the-great-cleric": {
-  "t": "The Great Cleric",
-  "tp": "anime",
-  "achou": "The Great Cleric (2023) (AniList)",
-  "anilist": {
-   "nota": 7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.2,
-   "votos": 3488,
-   "achou": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi"
-  }
- },
- "from-overshadowed-to-overpowered": {
-  "t": "From Overshadowed to Overpowered",
-  "tp": "anime",
-  "achou": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage (2026) (AniList)",
-  "anilist": {
-   "nota": 6.2
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 6.5,
-   "votos": 1001,
-   "achou": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku"
-  }
- },
- "hell-s-paradise": {
-  "t": "Hell's Paradise",
-  "tp": "anime",
-  "achou": "Hell’s Paradise (2023) (AniList)",
-  "anilist": {
-   "nota": 8
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.1,
-   "votos": 16877,
-   "achou": "Jigokuraku"
-  }
- },
- "one-punch-man": {
-  "t": "One Punch Man",
-  "tp": "anime",
-  "achou": "One-Punch Man (2015) (AniList)",
-  "anilist": {
-   "nota": 8.2
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.3,
-   "votos": 538658,
-   "achou": "One Punch Man"
-  }
- },
- "vinland-saga": {
-  "t": "Vinland Saga",
-  "tp": "anime",
-  "achou": "Vinland Saga (2019) (AniList)",
-  "anilist": {
-   "nota": 8.7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.3,
-   "votos": 65167,
-   "achou": "Vinland Saga"
-  }
- },
- "cyberpunk-edgerunners": {
-  "t": "Cyberpunk: Edgerunners",
-  "tp": "anime",
-  "achou": "Cyberpunk: Edgerunners (2022) (AniList)",
-  "anilist": {
-   "nota": 8.5
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.3,
-   "votos": 22485,
-   "achou": "Cyberpunk: Edgerunners"
-  }
- },
- "kaiju-no-8": {
-  "t": "Kaiju No. 8",
-  "tp": "anime",
-  "achou": "Kaiju No. 8 (2024) (AniList)",
-  "anilist": {
-   "nota": 8.1
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.4,
-   "votos": 10747,
-   "achou": "Kaijuu 8-gou"
-  }
- },
- "the-exiled-heavy-knight-knows-how-to-game-the-system": {
-  "t": "The Exiled Heavy Knight Knows How to Game the System",
-  "tp": "anime",
-  "achou": "The Exiled Heavy Knight Knows How to Game the System (2026) (AniList)",
-  "anilist": {
-   "nota": 6.7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7,
-   "votos": 1190,
-   "achou": "Tsuihou Sareta Tensei Juukishi wa Game Sashiki de Musou Suru"
-  }
- },
- "tsukimichi": {
-  "t": "Tsukimichi",
-  "tp": "anime",
-  "achou": "TSUKIMICHI -Moonlit Fantasy- (2021) (AniList)",
-  "anilist": {
-   "nota": 7.7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.8,
-   "votos": 13315,
-   "achou": "Tsuki ga Michibiku Isekai Douchuu"
-  }
- },
- "fate-strange-fake": {
-  "t": "Fate/strange Fake",
-  "tp": "anime",
-  "achou": "Fate/strange Fake (2026) (AniList)",
-  "anilist": {
-   "nota": 8.2
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 2532,
-   "achou": "Fate/strange Fake"
-  }
- },
- "gachiakuta": {
-  "t": "Gachiakuta",
-  "tp": "anime",
-  "achou": "Gachiakuta (2025) (AniList)",
-  "anilist": {
-   "nota": 8.2
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.3,
-   "votos": 6229,
-   "achou": "Gachiakuta"
-  }
- },
- "blood-lad": {
-  "t": "Blood Lad",
-  "tp": "anime",
-  "achou": "Blood Lad (2013) (AniList)",
-  "anilist": {
-   "nota": 6.9
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.3,
-   "votos": 50346,
-   "achou": "Blood Lad"
-  }
- },
- "so-what-s-wrong-with-getting-reborn-as-a-goblin": {
-  "t": "So What's Wrong with Getting Reborn as a Goblin?",
-  "tp": "anime",
-  "achou": "So What's Wrong with Getting Reborn as a Goblin? (2026) (AniList)",
-  "anilist": {
-   "nota": 6.5
-  },
-  "mal": null,
-  "kitsu": null
- },
- "overgeared": {
-  "t": "Overgeared",
-  "tp": "anime",
-  "achou": "Overgeared (2026) (AniList)",
-  "anilist": {
-   "nota": 7.6
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.6,
-   "votos": 601,
-   "achou": "Temppal: Item no Chikara"
-  }
- },
- "magical-explorer": {
-  "t": "Magical Explorer",
-  "tp": "anime",
-  "achou": "Magical Explorer (2026) (AniList)",
-  "anilist": {
-   "nota": 6.9
-  },
-  "mal": null,
-  "kitsu": null
- },
- "magic-repo-man": {
-  "t": "Magic Repo Man",
-  "tp": "anime",
-  "achou": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest! (2026) (AniList)",
-  "anilist": {
-   "nota": 6.1
-  },
-  "mal": null,
-  "kitsu": null
- },
- "the-laid-off-cheat-granting-mage": {
-  "t": "The Laid-Off Cheat-Granting Mage",
-  "tp": "anime",
-  "achou": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life (2026) (AniList)",
-  "anilist": {
-   "nota": 7.3
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.7,
-   "votos": 599,
-   "achou": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?"
-  }
- },
- "jujutsu-kaisen": {
-  "t": "Jujutsu Kaisen",
-  "tp": "anime",
-  "achou": "JUJUTSU KAISEN (2020) (AniList)",
-  "anilist": {
-   "nota": 8.4
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.6,
-   "votos": 235898,
-   "achou": "Jujutsu Kaisen"
-  }
- },
- "hunter-x-hunter": {
-  "t": "Hunter x Hunter",
-  "tp": "anime",
-  "achou": "Hunter x Hunter (1999) (AniList)",
-  "anilist": {
-   "nota": 8.3
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 110433,
-   "achou": "Hunter x Hunter"
-  }
- },
- "konosuba": {
-  "t": "Konosuba",
-  "tp": "anime",
-  "achou": "KONOSUBA -God's blessing on this wonderful world! (2016) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 121021,
-   "achou": "Kono Subarashii Sekai ni Shukufuku wo!"
-  }
- },
- "gintama": {
-  "t": "Gintama",
-  "tp": "anime",
-  "achou": "Gintama (2006) (AniList)",
-  "anilist": {
-   "nota": 8.5
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 87653,
-   "achou": "Gintama"
-  }
- },
- "bleach": {
-  "t": "Bleach",
-  "tp": "anime",
-  "achou": "Bleach (2004) (AniList)",
-  "anilist": {
-   "nota": 7.9
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.7,
-   "votos": 105475,
-   "achou": "BLEACH"
-  }
- },
- "that-time-i-got-reincarnated-as-a-slime": {
-  "t": "That Time I Got Reincarnated as a Slime",
-  "tp": "anime",
-  "achou": "That Time I Got Reincarnated as a Slime (2018) (AniList)",
-  "anilist": {
-   "nota": 8
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.2,
-   "votos": 91212,
-   "achou": "Tensei shitara Slime Datta Ken"
-  }
- },
- "haikyu": {
-  "t": "Haikyu",
-  "tp": "anime",
-  "achou": "HAIKYU!! (2014) (AniList)",
-  "anilist": {
-   "nota": 8.3
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.3,
-   "votos": 263822,
-   "achou": "Haikyuu!!"
-  }
- },
- "i-was-reincarnated-as-the-7th-prince": {
-  "t": "I Was Reincarnated as the 7th Prince",
-  "tp": "anime",
-  "achou": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (2024) (AniList)",
-  "anilist": {
-   "nota": 7.3
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.5,
-   "votos": 5008,
-   "achou": "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu"
-  }
- },
- "frieren": {
-  "t": "Frieren",
-  "tp": "anime",
-  "achou": "Frieren: Beyond Journey’s End (2023) (AniList)",
-  "anilist": {
-   "nota": 9.1
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.9,
-   "votos": 21458,
-   "achou": "Sousou no Frieren"
-  }
- },
- "better-call-saul": {
-  "t": "Better Call Saul",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt3032476",
-   "exato": true,
-   "nota": 9,
-   "votos": 875509
-  },
-  "achou": "Better Call Saul (2015) (IMDb)"
- },
- "squid-game": {
-  "t": "Squid Game",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt10919420",
-   "exato": true,
-   "nota": 7.9,
-   "votos": 782297
-  },
-  "achou": "Squid Game (2021) (IMDb)"
- },
- "stranger-things": {
-  "t": "Stranger Things",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt4574334",
-   "exato": true,
-   "nota": 8.6,
-   "votos": 1752304
-  },
-  "achou": "Stranger Things (2016) (IMDb)"
- },
- "prison-break": {
-  "t": "Prison Break",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt0455275",
-   "exato": true,
-   "nota": 8.3,
-   "votos": 684068
-  },
-  "achou": "Prison Break (2005) (IMDb)"
- },
- "la-casa-de-papel": {
-  "t": "La Casa de Papel",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt6468322",
-   "exato": false,
-   "nota": 8.2,
-   "votos": 623261
-  },
-  "achou": "Money Heist (2017) (IMDb)"
- },
- "black-mirror": {
-  "t": "Black Mirror",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt2085059",
-   "exato": true,
-   "nota": 8.7,
-   "votos": 753687
-  },
-  "achou": "Black Mirror (2011) (IMDb)"
- },
- "mobland": {
-  "t": "MobLand",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt31510819",
-   "exato": true,
-   "nota": 8.3,
-   "votos": 139432
-  },
-  "achou": "MobLand (2025) (IMDb)"
- },
- "invincible": {
-  "t": "Invincible",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt6741278",
-   "exato": true,
-   "nota": 8.7,
-   "votos": 356096
-  },
-  "achou": "Invincible (2021) (IMDb)"
- },
- "peaky-blinders": {
-  "t": "Peaky Blinders",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt2442560",
-   "exato": true,
-   "nota": 8.7,
-   "votos": 798392
-  },
-  "achou": "Peaky Blinders (2013) (IMDb)"
- },
- "the-boys": {
-  "t": "The Boys",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt1190634",
-   "exato": true,
-   "nota": 8.5,
-   "votos": 1034585
-  },
-  "achou": "The Boys (2019) (IMDb)"
- },
- "the-last-of-us": {
-  "t": "The Last of Us",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt3581920",
-   "exato": true,
-   "nota": 8.4,
-   "votos": 755575
-  },
-  "achou": "The Last of Us (2023) (IMDb)"
- },
- "a-casa-do-dragao": {
-  "t": "A Casa do Dragão",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt11198330",
-   "exato": false,
-   "nota": 8.2,
-   "votos": 577069
-  },
-  "achou": "House of the Dragon (2022) (IMDb)"
- },
- "reacher": {
-  "t": "Reacher",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt9288030",
-   "exato": true,
-   "nota": 8,
-   "votos": 328166
-  },
-  "achou": "Reacher (2022) (IMDb)"
- },
- "a-lista-terminal": {
-  "t": "A Lista Terminal",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt11743610",
-   "exato": false,
-   "nota": 7.9,
-   "votos": 135296
-  },
-  "achou": "The Terminal List (2022) (IMDb)"
- },
- "breaking-bad": {
-  "t": "Breaking Bad",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt0903747",
-   "exato": true,
-   "nota": 9.5,
-   "votos": 2700920
-  },
-  "achou": "Breaking Bad (2008) (IMDb)"
- },
- "vikings": {
-  "t": "Vikings",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt2306299",
-   "exato": true,
-   "nota": 8.5,
-   "votos": 652971
-  },
-  "achou": "Vikings (2013) (IMDb)"
- },
- "the-witcher": {
-  "t": "The Witcher",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt5180504",
-   "exato": true,
-   "nota": 7.8,
-   "votos": 627364
-  },
-  "achou": "The Witcher (2019) (IMDb)"
- },
- "fallout": {
-  "t": "Fallout",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt12637874",
-   "exato": true,
-   "nota": 8.3,
-   "votos": 407167
-  },
-  "achou": "Fallout (2024) (IMDb)"
- },
- "game-of-thrones": {
-  "t": "Game of Thrones",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt0944947",
-   "exato": true,
-   "nota": 9.2,
-   "votos": 2681140
-  },
-  "achou": "Game of Thrones (2011) (IMDb)"
- },
- "sobrenatural": {
-  "t": "Sobrenatural",
-  "tp": "serie",
-  "imdb": {
-   "id": "tt0460681",
-   "exato": false,
-   "nota": 8.4,
-   "votos": 552555
-  },
-  "achou": "Supernatural (2005) (IMDb)"
- },
- "tropa-de-elite": {
-  "t": "Tropa de Elite",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0861739",
-   "exato": false,
-   "nota": 8,
-   "votos": 121840
-  },
-  "achou": "Elite Squad (2007) (IMDb)"
- },
- "mad-max-estrada-da-furia": {
-  "t": "Mad Max: Estrada da Fúria",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1392190",
-   "exato": false,
-   "nota": 8.1,
-   "votos": 1226428
-  },
-  "achou": "Mad Max: Fury Road (2015) (IMDb)"
- },
- "missao-impossivel": {
-  "t": "Missão: Impossível",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0117060",
-   "exato": false,
-   "nota": 7.2,
-   "votos": 525648
-  },
-  "achou": "Mission: Impossible (1996) (IMDb)"
- },
- "interestelar": {
-  "t": "Interestelar",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0816692",
-   "exato": false,
-   "nota": 8.7,
-   "votos": 2629614
-  },
-  "achou": "Interstellar (2014) (IMDb)"
- },
- "os-mercenarios": {
-  "t": "Os Mercenários",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1320253",
-   "exato": false,
-   "nota": 6.4,
-   "votos": 383991
-  },
-  "achou": "The Expendables (2010) (IMDb)"
- },
- "ready-player-one": {
-  "t": "Ready Player One",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1677720",
-   "exato": true,
-   "nota": 7.4,
-   "votos": 554603
-  },
-  "achou": "Ready Player One (2018) (IMDb)"
- },
- "free-guy": {
-  "t": "Free Guy",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt6264654",
-   "exato": true,
-   "nota": 7.1,
-   "votos": 500851
-  },
-  "achou": "Free Guy (2021) (IMDb)"
- },
- "uncharted": {
-  "t": "Uncharted",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1464335",
-   "exato": true,
-   "nota": 6.3,
-   "votos": 310238
-  },
-  "achou": "Uncharted (2022) (IMDb)"
- },
- "homem-formiga": {
-  "t": "Homem-Formiga",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0478970",
-   "exato": false,
-   "nota": 7.2,
-   "votos": 799710
-  },
-  "achou": "Ant-Man (2015) (IMDb)"
- },
- "anonimo": {
-  "t": "Anônimo",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt7888964",
-   "exato": true,
-   "nota": 7.4,
-   "votos": 408514
-  },
-  "achou": "Nobody (2021) (IMDb)"
- },
- "anonimo-2": {
-  "t": "Anônimo 2",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt28996126",
-   "exato": true,
-   "nota": 6.3,
-   "votos": 106954
-  },
-  "achou": "Nobody 2 (2025) (IMDb)"
- },
- "top-gun-maverick": {
-  "t": "Top Gun: Maverick",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1745960",
-   "exato": true,
-   "nota": 8.2,
-   "votos": 912078
-  },
-  "achou": "Top Gun: Maverick (2022) (IMDb)"
- },
- "gran-turismo": {
-  "t": "Gran Turismo",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt4495098",
-   "exato": true,
-   "nota": 7.1,
-   "votos": 140283
-  },
-  "achou": "Gran Turismo (2023) (IMDb)"
- },
- "no-limite-do-amanha": {
-  "t": "No Limite do Amanhã",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1631867",
-   "exato": true,
-   "nota": 7.9,
-   "votos": 820424
-  },
-  "achou": "Edge of Tomorrow (2014) (IMDb)"
- },
- "bad-boys": {
-  "t": "Bad Boys",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0112442",
-   "exato": true,
-   "nota": 6.8,
-   "votos": 320255
-  },
-  "achou": "Bad Boys (1995) (IMDb)"
- },
- "resgate-2": {
-  "t": "Resgate 2",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt12263384",
-   "exato": false,
-   "nota": 7,
-   "votos": 177690
-  },
-  "achou": "Extraction II (2023) (IMDb)"
- },
- "o-protetor": {
-  "t": "O Protetor",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0455944",
-   "exato": false,
-   "nota": 7.3,
-   "votos": 474773
-  },
-  "achou": "The Equalizer (2014) (IMDb)"
- },
- "o-contador": {
-  "t": "O Contador",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt2140479",
-   "exato": true,
-   "nota": 7.3,
-   "votos": 405705
-  },
-  "achou": "The Accountant (2016) (IMDb)"
- },
- "o-contador-2": {
-  "t": "O Contador 2",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt7068946",
-   "exato": false,
-   "nota": 6.6,
-   "votos": 138375
-  },
-  "achou": "The Accountant 2 (2025) (IMDb)"
- },
- "bailarina": {
-  "t": "Bailarina",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt7181546",
-   "exato": true,
-   "nota": 6.8,
-   "votos": 165343
-  },
-  "achou": "Ballerina (2025) (IMDb)"
- },
- "piratas-do-caribe": {
-  "t": "Piratas do Caribe",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0325980",
-   "exato": true,
-   "nota": 8.1,
-   "votos": 1351987
-  },
-  "achou": "Pirates of the Caribbean: The Curse of the Black Pearl (2003) (IMDb)"
- },
- "thor": {
-  "t": "Thor",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0800369",
-   "exato": true,
-   "nota": 7,
-   "votos": 989611
-  },
-  "achou": "Thor (2011) (IMDb)"
- },
- "doutor-estranho": {
-  "t": "Doutor Estranho",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1211837",
-   "exato": false,
-   "nota": 7.5,
-   "votos": 903391
-  },
-  "achou": "Doctor Strange (2016) (IMDb)"
- },
- "shang-chi": {
-  "t": "Shang-Chi",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt9376612",
-   "exato": false,
-   "nota": 7.3,
-   "votos": 507323
-  },
-  "achou": "Shang-Chi and the Legend of the Ten Rings (2021) (IMDb)"
- },
- "o-senhor-dos-aneis": {
-  "t": "O Senhor dos Anéis",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0120737",
-   "exato": true,
-   "nota": 8.9,
-   "votos": 2249952
-  },
-  "achou": "The Lord of the Rings: The Fellowship of the Ring (2001) (IMDb)"
- },
- "harry-potter": {
-  "t": "Harry Potter",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0241527",
-   "exato": false,
-   "nota": 7.7,
-   "votos": 972946
-  },
-  "achou": "Harry Potter and the Sorcerer's Stone (2001) (IMDb)"
- },
- "bird-box": {
-  "t": "Bird Box",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt2737304",
-   "exato": true,
-   "nota": 6.6,
-   "votos": 429634
-  },
-  "achou": "Bird Box (2018) (IMDb)"
- },
- "matrix": {
-  "t": "Matrix",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0133093",
-   "exato": false,
-   "nota": 8.7,
-   "votos": 2291760
-  },
-  "achou": "The Matrix (1999) (IMDb)"
- },
- "matrix-reloaded": {
-  "t": "Matrix Reloaded",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0234215",
-   "exato": false,
-   "nota": 7.2,
-   "votos": 679163
-  },
-  "achou": "The Matrix Reloaded (2003) (IMDb)"
- },
- "matrix-revolutions": {
-  "t": "Matrix Revolutions",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0242653",
-   "exato": false,
-   "nota": 6.8,
-   "votos": 582182
-  },
-  "achou": "The Matrix Revolutions (2003) (IMDb)"
- },
- "matrix-resurrections": {
-  "t": "Matrix Resurrections",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt10838180",
-   "exato": false,
-   "nota": 5.6,
-   "votos": 308326
-  },
-  "achou": "The Matrix Resurrections (2021) (IMDb)"
- },
- "homem-aranha-de-volta-ao-lar": {
-  "t": "Homem-Aranha: De Volta ao Lar",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt2250912",
-   "exato": true,
-   "nota": 7.4,
-   "votos": 845639
-  },
-  "achou": "Spider-Man: Homecoming (2017) (IMDb)"
- },
- "homem-aranha-longe-de-casa": {
-  "t": "Homem-Aranha: Longe de Casa",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt6320628",
-   "exato": false,
-   "nota": 7.3,
-   "votos": 683226
-  },
-  "achou": "Spider-Man: Far from Home (2019) (IMDb)"
- },
- "homem-aranha-sem-volta-para-casa": {
-  "t": "Homem-Aranha: Sem Volta para Casa",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt10872600",
-   "exato": true,
-   "nota": 8.1,
-   "votos": 1086242
-  },
-  "achou": "Spider-Man: No Way Home (2021) (IMDb)"
- },
- "os-vingadores": {
-  "t": "Os Vingadores",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0848228",
-   "exato": true,
-   "nota": 8,
-   "votos": 1590731
-  },
-  "achou": "The Avengers (2012) (IMDb)"
- },
- "vingadores-era-de-ultron": {
-  "t": "Vingadores: Era de Ultron",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt2395427",
-   "exato": false,
-   "nota": 7.3,
-   "votos": 1029263
-  },
-  "achou": "Avengers: Age of Ultron (2015) (IMDb)"
- },
- "vingadores-guerra-infinita": {
-  "t": "Vingadores: Guerra Infinita",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt4154756",
-   "exato": false,
-   "nota": 8.4,
-   "votos": 1422017
-  },
-  "achou": "Avengers: Infinity War (2018) (IMDb)"
- },
- "vingadores-ultimato": {
-  "t": "Vingadores: Ultimato",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt4154796",
-   "exato": true,
-   "nota": 8.4,
-   "votos": 1505474
-  },
-  "achou": "Avengers: Endgame (2019) (IMDb)"
- },
- "homem-de-ferro": {
-  "t": "Homem de Ferro",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0371746",
-   "exato": false,
-   "nota": 7.9,
-   "votos": 1257524
-  },
-  "achou": "Iron Man (2008) (IMDb)"
- },
- "homem-de-ferro-2": {
-  "t": "Homem de Ferro 2",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1228705",
-   "exato": false,
-   "nota": 6.9,
-   "votos": 963472
-  },
-  "achou": "Iron Man 2 (2010) (IMDb)"
- },
- "homem-de-ferro-3": {
-  "t": "Homem de Ferro 3",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1300854",
-   "exato": false,
-   "nota": 7.1,
-   "votos": 989661
-  },
-  "achou": "Iron Man 3 (2013) (IMDb)"
- },
- "guardioes-da-galaxia": {
-  "t": "Guardiões da Galáxia",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt2015381",
-   "exato": true,
-   "nota": 8,
-   "votos": 1391611
-  },
-  "achou": "Guardians of the Galaxy (2014) (IMDb)"
- },
- "guardioes-da-galaxia-vol-2": {
-  "t": "Guardiões da Galáxia Vol. 2",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt3896198",
-   "exato": false,
-   "nota": 7.6,
-   "votos": 852373
-  },
-  "achou": "Guardians of the Galaxy: Vol. 2 (2017) (IMDb)"
- },
- "guardioes-da-galaxia-vol-3": {
-  "t": "Guardiões da Galáxia Vol. 3",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt6791350",
-   "exato": true,
-   "nota": 7.9,
-   "votos": 492987
-  },
-  "achou": "Guardians of the Galaxy Vol. 3 (2023) (IMDb)"
- },
- "deadpool": {
-  "t": "Deadpool",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1431045",
-   "exato": true,
-   "nota": 8,
-   "votos": 1277948
-  },
-  "achou": "Deadpool (2016) (IMDb)"
- },
- "deadpool-2": {
-  "t": "Deadpool 2",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt5463162",
-   "exato": true,
-   "nota": 7.6,
-   "votos": 762547
-  },
-  "achou": "Deadpool 2 (2018) (IMDb)"
- },
- "deadpool-wolverine": {
-  "t": "Deadpool & Wolverine",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt6263850",
-   "exato": true,
-   "nota": 7.5,
-   "votos": 601123
-  },
-  "achou": "Deadpool & Wolverine (2024) (IMDb)"
- },
- "velozes-e-furiosos": {
-  "t": "Velozes e Furiosos",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0232500",
-   "exato": true,
-   "nota": 6.8,
-   "votos": 469340
-  },
-  "achou": "The Fast and the Furious (2001) (IMDb)"
- },
- "velozes-e-furiosos-2": {
-  "t": "Velozes e Furiosos 2",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0322259",
-   "exato": true,
-   "nota": 6,
-   "votos": 332185
-  },
-  "achou": "2 Fast 2 Furious (2003) (IMDb)"
- },
- "velozes-e-furiosos-desafio-em-toquio": {
-  "t": "Velozes e Furiosos: Desafio em Tóquio",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0463985",
-   "exato": true,
-   "nota": 6.1,
-   "votos": 340870
-  },
-  "achou": "The Fast and the Furious: Tokyo Drift (2006) (IMDb)"
- },
- "se-beber-nao-case": {
-  "t": "Se Beber, Não Case",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1119646",
-   "exato": true,
-   "nota": 7.7,
-   "votos": 949709
-  },
-  "achou": "The Hangover (2009) (IMDb)"
- },
- "se-beber-nao-case-parte-ii": {
-  "t": "Se Beber, Não Case! Parte II",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1411697",
-   "exato": true,
-   "nota": 6.5,
-   "votos": 589004
-  },
-  "achou": "The Hangover Part II (2011) (IMDb)"
- },
- "se-beber-nao-case-parte-iii": {
-  "t": "Se Beber, Não Case! Parte III",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1951261",
-   "exato": false,
-   "nota": 5.9,
-   "votos": 371093
-  },
-  "achou": "The Hangover Part III (2013) (IMDb)"
- },
- "john-wick-de-volta-ao-jogo": {
-  "t": "John Wick: De Volta ao Jogo",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt2911666",
-   "exato": true,
-   "nota": 7.5,
-   "votos": 845101
-  },
-  "achou": "John Wick (2014) (IMDb)"
- },
- "john-wick-2-um-novo-dia-para-matar": {
-  "t": "John Wick 2: Um Novo Dia para Matar",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt4425200",
-   "exato": true,
-   "nota": 7.4,
-   "votos": 581821
-  },
-  "achou": "John Wick: Chapter 2 (2017) (IMDb)"
- },
- "john-wick-3-parabellum": {
-  "t": "John Wick 3: Parabellum",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt6146586",
-   "exato": true,
-   "nota": 7.4,
-   "votos": 490955
-  },
-  "achou": "John Wick: Chapter 3 - Parabellum (2019) (IMDb)"
- },
- "john-wick-4-baba-yaga": {
-  "t": "John Wick 4: Baba Yaga",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt10366206",
-   "exato": false,
-   "nota": 7.6,
-   "votos": 422470
-  },
-  "achou": "John Wick: Chapter 4 (2023) (IMDb)"
- },
- "perdido-em-marte": {
-  "t": "Perdido em Marte",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt3659388",
-   "exato": false,
-   "nota": 8,
-   "votos": 1035622
-  },
-  "achou": "The Martian (2015) (IMDb)"
- },
- "devoradores-de-estrelas": {
-  "t": "Devoradores de Estrelas",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt12042730",
-   "exato": false,
-   "nota": 8.2,
-   "votos": 593778
-  },
-  "achou": "Project Hail Mary (2026) (IMDb)"
- },
- "resgate": {
-  "t": "Resgate",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt8936646",
-   "exato": true,
-   "nota": 6.8,
-   "votos": 295632
-  },
-  "achou": "Extraction (2020) (IMDb)"
- },
- "lv999-no-amor-lv999-no-murabito": {
-  "t": "Lv999 no Amor (Lv999 no Murabito)",
-  "tp": "anime",
-  "anilist": null,
-  "mal": null,
-  "kitsu": null,
-  "achou": null
- },
- "katainaka-no-ossan-kenshi-ni-naru": {
-  "t": "Katainaka no Ossan, Kenshi ni Naru",
-  "tp": "anime",
-  "achou": "From Old Country Bumpkin to Master Swordsman (2025) (AniList)",
-  "anilist": {
-   "nota": 6.9
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 7.1,
-   "votos": 3194,
-   "achou": "Katainaka no Ossan, Kensei ni Naru"
-  }
- },
- "hell-mode-gamer-who-likes-hardcore-game-becomes-master-in-a-parallel-world": {
-  "t": "Hell Mode: Gamer Who Likes Hardcore Game Becomes Master in a Parallel World",
-  "tp": "anime",
-  "anilist": null,
-  "mal": null,
-  "kitsu": null,
-  "achou": null
- },
- "away": {
-  "t": "Away",
-  "tp": "serie",
-  "imdb": null,
-  "achou": null,
-  "tvmaze": {
-   "nota": 6.2
-  }
- },
- "mars": {
-  "t": "Mars",
-  "tp": "serie",
-  "imdb": null,
-  "achou": null,
-  "tvmaze": {
-   "nota": 7.5
-  }
- },
- "boruto": {
-  "t": "Boruto",
-  "tp": "anime",
-  "achou": "Boruto: Naruto Next Generations (2017) (AniList)",
-  "anilist": {
-   "nota": 5.6
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 6.4,
-   "votos": 64980,
-   "achou": "Boruto: Naruto Next Generations"
-  }
- },
- "demon-slayer": {
-  "t": "Demon Slayer",
-  "tp": "anime",
-  "achou": "Demon Slayer: Kimetsu no Yaiba (2019) (AniList)",
-  "anilist": {
-   "nota": 8.2
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 8.6,
-   "votos": 403865,
-   "achou": "Kimetsu no Yaiba"
-  }
- },
- "jumanji-os-novos": {
-  "t": "Jumanji (os novos)",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt2283362",
-   "exato": true,
-   "nota": 6.9,
-   "votos": 515160
-  },
-  "achou": "Jumanji: Welcome to the Jungle (2017) (IMDb)"
- },
- "capitao-america": {
-  "t": "Capitão América",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0458339",
-   "exato": true,
-   "nota": 6.9,
-   "votos": 993480
-  },
-  "achou": "Captain America: The First Avenger (2011) (IMDb)"
- },
- "operacao-furia": {
-  "t": "Operação Fúria",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt2713180",
-   "exato": true,
-   "nota": 7.6,
-   "votos": 622741
-  },
-  "achou": "Fury (2014) (IMDb)"
- },
- "jurassic-park-world": {
-  "t": "Jurassic Park/World",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt0107290",
-   "exato": true,
-   "nota": 8.2,
-   "votos": 1205354
-  },
-  "achou": "Jurassic Park (1993) (IMDb)"
- },
- "pantera-negra": {
-  "t": "Pantera Negra",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1825683",
-   "exato": true,
-   "nota": 7.3,
-   "votos": 931953
-  },
-  "achou": "Black Panther (2018) (IMDb)"
- },
- "sem-limites": {
-  "t": "Sem Limites",
-  "tp": "filme",
-  "imdb": {
-   "id": "tt1219289",
-   "exato": true,
-   "nota": 7.4,
-   "votos": 657105
-  },
-  "achou": "Limitless (2011) (IMDb)"
- },
- "devil-may-cry": {
-  "t": "Devil May Cry",
-  "tp": "anime",
-  "achou": "Devil May Cry (2007) (AniList)",
-  "anilist": {
-   "nota": 6.7
-  },
-  "mal": null,
-  "kitsu": {
-   "nota": 6.7,
-   "votos": 21545,
-   "achou": "Devil May Cry"
-  }
- }
+"rush": {
+"t": "Rush",
+"tp": "filme",
+"imdb": {
+"id": "tt1979320",
+"exato": true,
+"nota": 8.1,
+"votos": 569428
+},
+"achou": "Rush (2013) (IMDb)"
+},
+"perdidos-no-espaco": {
+"t": "Perdidos no Espaço",
+"tp": "serie",
+"imdb": {
+"id": "tt5232792",
+"exato": true,
+"nota": 7.3,
+"votos": 115171
+},
+"achou": "Lost in Space (2018) (IMDb)"
+},
+"naruto": {
+"t": "Naruto",
+"tp": "anime",
+"achou": "Naruto (2002) (AniList)",
+"anilist": {
+"nota": 8
+},
+"mal": null,
+"kitsu": {
+"nota": 8,
+"votos": 165826,
+"achou": "Naruto"
+}
+},
+"sword-art-online": {
+"t": "Sword Art Online",
+"tp": "anime",
+"achou": "Sword Art Online (2012) (AniList)",
+"anilist": {
+"nota": 7
+},
+"mal": null,
+"kitsu": {
+"nota": 7.4,
+"votos": 194253,
+"achou": "Sword Art Online"
+}
+},
+"the-100": {
+"t": "The 100",
+"tp": "serie",
+"imdb": {
+"id": "tt2661044",
+"exato": true,
+"nota": 7.5,
+"votos": 309460
+},
+"achou": "The 100 (2014) (IMDb)"
+},
+"fire-force": {
+"t": "Fire Force",
+"tp": "anime",
+"achou": "Fire Force (2019) (AniList)",
+"anilist": {
+"nota": 7.6
+},
+"mal": null,
+"kitsu": {
+"nota": 7.9,
+"votos": 56991,
+"achou": "Enen no Shouboutai"
+}
+},
+"akame-ga-kill": {
+"t": "Akame ga Kill!",
+"tp": "anime",
+"achou": "Akame ga Kill! (2014) (AniList)",
+"anilist": {
+"nota": 7.3
+},
+"mal": null,
+"kitsu": {
+"nota": 7.5,
+"votos": 111502,
+"achou": "Akame ga Kill!"
+}
+},
+"jogos-vorazes-a-esperanca-parte-1": {
+"t": "Jogos Vorazes: A Esperança - Parte 1",
+"tp": "filme",
+"imdb": {
+"id": "tt1951265",
+"exato": true,
+"nota": 6.6,
+"votos": 557177
+},
+"achou": "The Hunger Games: Mockingjay - Part 1 (2014) (IMDb)"
+},
+"the-walking-dead": {
+"t": "The Walking Dead",
+"tp": "serie",
+"imdb": {
+"id": "tt1520211",
+"exato": true,
+"nota": 8.1,
+"votos": 1221413
+},
+"achou": "The Walking Dead (2010) (IMDb)"
+},
+"gente-grande": {
+"t": "Gente Grande",
+"tp": "filme",
+"imdb": {
+"id": "tt1375670",
+"exato": true,
+"nota": 6,
+"votos": 321123
+},
+"achou": "Grown Ups (2010) (IMDb)"
+},
+"hitman-reborn": {
+"t": "Hitman Reborn!",
+"tp": "anime",
+"achou": "REBORN! (2006) (AniList)",
+"anilist": {
+"nota": 7.7
+},
+"mal": null,
+"kitsu": {
+"nota": 8,
+"votos": 40335,
+"achou": "Katekyo Hitman Reborn!"
+}
+},
+"cobra-kai": {
+"t": "Cobra Kai",
+"tp": "serie",
+"imdb": {
+"id": "tt7221388",
+"exato": true,
+"nota": 8.4,
+"votos": 248049
+},
+"achou": "Cobra Kai (2018) (IMDb)"
+},
+"re-monster": {
+"t": "Re:Monster",
+"tp": "anime",
+"achou": "Re:Monster (2024) (AniList)",
+"anilist": {
+"nota": 6.5
+},
+"mal": null,
+"kitsu": {
+"nota": 6.7,
+"votos": 3674,
+"achou": "Re:Monster"
+}
+},
+"jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes": {
+"t": "Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes",
+"tp": "filme",
+"imdb": {
+"id": "tt10545296",
+"exato": true,
+"nota": 6.6,
+"votos": 193054
+},
+"achou": "The Hunger Games: The Ballad of Songbirds & Snakes (2023) (IMDb)"
+},
+"ascensao-do-heroi-do-escudo": {
+"t": "Ascensão do Herói do Escudo",
+"tp": "anime",
+"achou": "The Rising of the Shield Hero (2019) (AniList)",
+"anilist": {
+"nota": 7.6
+},
+"mal": null,
+"kitsu": {
+"nota": 8.1,
+"votos": 90151,
+"achou": "Tate no Yuusha no Nariagari"
+}
+},
+"o-problema-dos-3-corpos": {
+"t": "O Problema dos 3 Corpos",
+"tp": "serie",
+"imdb": {
+"id": "tt13016388",
+"exato": true,
+"nota": 7.5,
+"votos": 186869
+},
+"achou": "3 Body Problem (2024) (IMDb)"
+},
+"the-beginning-after-the-end": {
+"t": "The Beginning After the End",
+"tp": "anime",
+"achou": "The Beginning After the End (2025) (AniList)",
+"anilist": {
+"nota": 6
+},
+"mal": null,
+"kitsu": {
+"nota": 6.3,
+"votos": 3175,
+"achou": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?"
+}
+},
+"need-for-speed-o-filme": {
+"t": "Need for Speed: O Filme",
+"tp": "filme",
+"imdb": {
+"id": "tt2369135",
+"exato": true,
+"nota": 6.4,
+"votos": 189040
+},
+"achou": "Need for Speed (2014) (IMDb)"
+},
+"animais-fantasticos-os-crimes-de-grindelwald": {
+"t": "Animais Fantásticos: Os Crimes de Grindelwald",
+"tp": "filme",
+"imdb": {
+"id": "tt4123430",
+"exato": true,
+"nota": 6.5,
+"votos": 336630
+},
+"achou": "Fantastic Beasts: The Crimes of Grindelwald (2018) (IMDb)"
+},
+"assassination-classroom": {
+"t": "Assassination Classroom",
+"tp": "anime",
+"achou": "Assassination Classroom (2015) (AniList)",
+"anilist": {
+"nota": 7.9
+},
+"mal": null,
+"kitsu": {
+"nota": 8.3,
+"votos": 259969,
+"achou": "Ansatsu Kyoushitsu"
+}
+},
+"a-lista-terminal-dark-wolf": {
+"t": "A Lista Terminal: Dark Wolf",
+"tp": "serie",
+"imdb": {
+"id": "tt26576161",
+"exato": true,
+"nota": 7.5,
+"votos": 32639
+},
+"achou": "The Terminal List: Dark Wolf (2025) (IMDb)"
+},
+"sword-art-online-alicization": {
+"t": "Sword Art Online: Alicization",
+"tp": "anime",
+"achou": "Sword Art Online: Alicization (2018) (AniList)",
+"anilist": {
+"nota": 7.5
+},
+"mal": null,
+"kitsu": {
+"nota": 7.7,
+"votos": 54375,
+"achou": "Sword Art Online: Alicization"
+}
+},
+"a-serie-divergente-insurgente": {
+"t": "A Série Divergente: Insurgente",
+"tp": "filme",
+"imdb": {
+"id": "tt2908446",
+"exato": true,
+"nota": 6.2,
+"votos": 275356
+},
+"achou": "The Divergent Series: Insurgent (2015) (IMDb)"
+},
+"jack-ryan": {
+"t": "Jack Ryan",
+"tp": "serie",
+"imdb": {
+"id": "tt5057054",
+"exato": true,
+"nota": 8,
+"votos": 198119
+},
+"achou": "Jack Ryan (2018) (IMDb)"
+},
+"maze-runner-a-cura-mortal": {
+"t": "Maze Runner: A Cura Mortal",
+"tp": "filme",
+"imdb": {
+"id": "tt4500922",
+"exato": true,
+"nota": 6.3,
+"votos": 198085
+},
+"achou": "Maze Runner: The Death Cure (2018) (IMDb)"
+},
+"see": {
+"t": "See",
+"tp": "serie",
+"imdb": {
+"id": "tt7949218",
+"exato": true,
+"nota": 7.6,
+"votos": 113276
+},
+"achou": "See (2019) (IMDb)"
+},
+"ford-vs-ferrari": {
+"t": "Ford vs Ferrari",
+"tp": "filme",
+"imdb": {
+"id": "tt1950186",
+"exato": false,
+"nota": 8.1,
+"votos": 591575
+},
+"achou": "Ford v Ferrari (2019) (IMDb)"
+},
+"nobody-ninguem": {
+"t": "Nobody: Ninguém",
+"tp": "filme",
+"imdb": {
+"id": "tt7888964",
+"exato": true,
+"nota": 7.4,
+"votos": 408514
+},
+"achou": "Nobody (2021) (IMDb)"
+},
+"agente-stone": {
+"t": "Agente Stone",
+"tp": "filme",
+"imdb": {
+"id": "tt13603966",
+"exato": true,
+"nota": 5.7,
+"votos": 69953
+},
+"achou": "Heart of Stone (2023) (IMDb)"
+},
+"wind-breaker": {
+"t": "Wind Breaker",
+"tp": "anime",
+"achou": "WIND BREAKER (2024) (AniList)",
+"anilist": {
+"nota": 7.7
+},
+"mal": null,
+"kitsu": {
+"nota": 7.8,
+"votos": 6892,
+"achou": "WIND BREAKER"
+}
+},
+"gran-turismo-de-jogador-a-corredor": {
+"t": "Gran Turismo: De Jogador a Corredor",
+"tp": "filme",
+"imdb": {
+"id": "tt4495098",
+"exato": true,
+"nota": 7.1,
+"votos": 140283
+},
+"achou": "Gran Turismo (2023) (IMDb)"
+},
+"dark": {
+"t": "Dark",
+"tp": "serie",
+"imdb": {
+"id": "tt5753856",
+"exato": true,
+"nota": 8.7,
+"votos": 567570
+},
+"achou": "Dark (2017) (IMDb)"
+},
+"jogos-vorazes": {
+"t": "Jogos Vorazes",
+"tp": "filme",
+"imdb": {
+"id": "tt1392170",
+"exato": true,
+"nota": 7.2,
+"votos": 1100794
+},
+"achou": "The Hunger Games (2012) (IMDb)"
+},
+"animais-fantasticos-e-onde-habitam": {
+"t": "Animais Fantásticos e Onde Habitam",
+"tp": "filme",
+"imdb": {
+"id": "tt3183660",
+"exato": true,
+"nota": 7.2,
+"votos": 547611
+},
+"achou": "Fantastic Beasts and Where to Find Them (2016) (IMDb)"
+},
+"the-night-agent": {
+"t": "The Night Agent",
+"tp": "serie",
+"imdb": {
+"id": "tt13918776",
+"exato": true,
+"nota": 7.4,
+"votos": 166377
+},
+"achou": "The Night Agent (2023) (IMDb)"
+},
+"boruto-naruto-next-generations": {
+"t": "Boruto: Naruto Next Generations",
+"tp": "anime",
+"achou": "Boruto: Naruto Next Generations (2017) (AniList)",
+"anilist": {
+"nota": 5.6
+},
+"mal": null,
+"kitsu": {
+"nota": 6.4,
+"votos": 64980,
+"achou": "Boruto: Naruto Next Generations"
+}
+},
+"chainsaw-man": {
+"t": "Chainsaw Man",
+"tp": "anime",
+"achou": "Chainsaw Man (2022) (AniList)",
+"anilist": {
+"nota": 8.3
+},
+"mal": null,
+"kitsu": {
+"nota": 8.4,
+"votos": 54465,
+"achou": "Chainsaw Man"
+}
+},
+"mato-seihei-no-slave": {
+"t": "Mato Seihei no Slave",
+"tp": "anime",
+"achou": "Chained Soldier (2024) (AniList)",
+"anilist": {
+"nota": 6.8
+},
+"mal": null,
+"kitsu": {
+"nota": 6.9,
+"votos": 5332,
+"achou": "Mato Seihei no Slave"
+}
+},
+"a-serie-divergente-convergente": {
+"t": "A Série Divergente: Convergente",
+"tp": "filme",
+"imdb": {
+"id": "tt3410834",
+"exato": true,
+"nota": 5.7,
+"votos": 149768
+},
+"achou": "The Divergent Series: Allegiant (2016) (IMDb)"
+},
+"detetive-pikachu": {
+"t": "Detetive Pikachu",
+"tp": "filme",
+"imdb": {
+"id": "tt5884052",
+"exato": true,
+"nota": 6.5,
+"votos": 200818
+},
+"achou": "Pokémon: Detective Pikachu (2019) (IMDb)"
+},
+"jogos-vorazes-em-chamas": {
+"t": "Jogos Vorazes: Em Chamas",
+"tp": "filme",
+"imdb": {
+"id": "tt1951264",
+"exato": true,
+"nota": 7.5,
+"votos": 787074
+},
+"achou": "The Hunger Games: Catching Fire (2013) (IMDb)"
+},
+"maze-runner-prova-de-fogo": {
+"t": "Maze Runner: Prova de Fogo",
+"tp": "filme",
+"imdb": {
+"id": "tt4046784",
+"exato": true,
+"nota": 6.3,
+"votos": 314712
+},
+"achou": "Maze Runner: The Scorch Trials (2015) (IMDb)"
+},
+"jujutsu-kaisen-0": {
+"t": "Jujutsu Kaisen 0",
+"tp": "filme",
+"imdb": {
+"id": "tt14331144",
+"exato": true,
+"nota": 7.8,
+"votos": 68284
+},
+"achou": "Jujutsu Kaisen 0 (2021) (IMDb)"
+},
+"arifureta-da-classe-media-ao-mais-forte-do-mundo": {
+"t": "Arifureta: Da Classe Média ao Mais Forte do Mundo",
+"tp": "anime",
+"achou": "Arifureta: From Commonplace to World's Strongest (2019) (AniList)",
+"anilist": {
+"nota": 6.5
+},
+"mal": null,
+"kitsu": {
+"nota": 6.7,
+"votos": 29151,
+"achou": "Arifureta Shokugyou de Sekai Saikyou"
+}
+},
+"lupin": {
+"t": "Lupin",
+"tp": "serie",
+"imdb": {
+"id": "tt2531336",
+"exato": true,
+"nota": 7.5,
+"votos": 164873
+},
+"achou": "Lupin (2021) (IMDb)"
+},
+"kingsman-o-circulo-dourado": {
+"t": "Kingsman: O Círculo Dourado",
+"tp": "filme",
+"imdb": {
+"id": "tt4649466",
+"exato": true,
+"nota": 6.7,
+"votos": 407793
+},
+"achou": "Kingsman: The Golden Circle (2017) (IMDb)"
+},
+"blue-exorcist": {
+"t": "Blue Exorcist",
+"tp": "anime",
+"achou": "Blue Exorcist (2011) (AniList)",
+"anilist": {
+"nota": 7.2
+},
+"mal": null,
+"kitsu": {
+"nota": 7.7,
+"votos": 123356,
+"achou": "Ao no Exorcist"
+}
+},
+"undead-unluck": {
+"t": "Undead Unluck",
+"tp": "anime",
+"achou": "Undead Unluck (2023) (AniList)",
+"anilist": {
+"nota": 7.6
+},
+"mal": null,
+"kitsu": {
+"nota": 7.8,
+"votos": 6632,
+"achou": "Undead Unluck"
+}
+},
+"todo-mundo-odeia-o-chris": {
+"t": "Todo Mundo Odeia o Chris",
+"tp": "serie",
+"imdb": {
+"id": "tt0460637",
+"exato": true,
+"nota": 7.6,
+"votos": 47085
+},
+"achou": "Everybody Hates Chris (2005) (IMDb)"
+},
+"shangri-la-frontier": {
+"t": "Shangri-La Frontier",
+"tp": "anime",
+"achou": "Shangri-La Frontier (2023) (AniList)",
+"anilist": {
+"nota": 8
+},
+"mal": null,
+"kitsu": {
+"nota": 8.1,
+"votos": 8235,
+"achou": "Shangri-La Frontier"
+}
+},
+"fairy-tail": {
+"t": "Fairy Tail",
+"tp": "anime",
+"achou": "Fairy Tail (2009) (AniList)",
+"anilist": {
+"nota": 7.2
+},
+"mal": null,
+"kitsu": {
+"nota": 7.8,
+"votos": 114582,
+"achou": "Fairy Tail"
+}
+},
+"maze-runner-correr-ou-morrer": {
+"t": "Maze Runner: Correr ou Morrer",
+"tp": "filme",
+"imdb": {
+"id": "tt1790864",
+"exato": true,
+"nota": 6.8,
+"votos": 575461
+},
+"achou": "The Maze Runner (2014) (IMDb)"
+},
+"django-livre": {
+"t": "Django Livre",
+"tp": "filme",
+"imdb": {
+"id": "tt1853728",
+"exato": true,
+"nota": 8.5,
+"votos": 1924692
+},
+"achou": "Django Unchained (2012) (IMDb)"
+},
+"divergente": {
+"t": "Divergente",
+"tp": "filme",
+"imdb": {
+"id": "tt1840309",
+"exato": true,
+"nota": 6.6,
+"votos": 524854
+},
+"achou": "Divergent (2014) (IMDb)"
+},
+"atomica": {
+"t": "Atômica",
+"tp": "filme",
+"imdb": {
+"id": "tt2449638",
+"exato": true,
+"nota": 4.2,
+"votos": 2467
+},
+"achou": "Atomica (2017) (IMDb)"
+},
+"fullmetal-alchemist": {
+"t": "Fullmetal Alchemist",
+"tp": "anime",
+"achou": "Fullmetal Alchemist (2003) (AniList)",
+"anilist": {
+"nota": 7.9
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 147719,
+"achou": "Fullmetal Alchemist"
+}
+},
+"agentes-muito-especiais": {
+"t": "Agentes Muito Especiais",
+"tp": "filme",
+"imdb": {
+"id": "tt38208306",
+"exato": true,
+"nota": 5.4,
+"votos": 125
+},
+"achou": "Agentes Muito Especiais (2025) (IMDb)"
+},
+"gen-v": {
+"t": "Gen V",
+"tp": "serie",
+"imdb": {
+"id": "tt13159924",
+"exato": true,
+"nota": 7.6,
+"votos": 158303
+},
+"achou": "Gen V (2023) (IMDb)"
+},
+"seven-deadly-sins": {
+"t": "Seven Deadly Sins",
+"tp": "anime",
+"achou": "The Seven Deadly Sins (2014) (AniList)",
+"anilist": {
+"nota": 7.2
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 355687,
+"achou": "Nanatsu no Taizai"
+}
+},
+"bleach-thousand-year-blood-war": {
+"t": "Bleach: Thousand-Year Blood War",
+"tp": "anime",
+"achou": "BLEACH: Thousand-Year Blood War (2022) (AniList)",
+"anilist": {
+"nota": 8.8
+},
+"mal": null,
+"kitsu": {
+"nota": 8.4,
+"votos": 16987,
+"achou": "BLEACH: Sennen Kessen-hen"
+}
+},
+"wistoria-wand-and-sword": {
+"t": "Wistoria: Wand and Sword",
+"tp": "anime",
+"achou": "Wistoria: Wand and Sword (2024) (AniList)",
+"anilist": {
+"nota": 7.9
+},
+"mal": null,
+"kitsu": {
+"nota": 8,
+"votos": 5752,
+"achou": "Tsue to Tsurugi no Wistoria"
+}
+},
+"log-horizon": {
+"t": "Log Horizon",
+"tp": "anime",
+"achou": "Log Horizon (2013) (AniList)",
+"anilist": {
+"nota": 7.6
+},
+"mal": null,
+"kitsu": {
+"nota": 8,
+"votos": 83233,
+"achou": "Log Horizon"
+}
+},
+"kingsman-servico-secreto": {
+"t": "Kingsman: Serviço Secreto",
+"tp": "filme",
+"imdb": {
+"id": "tt2802144",
+"exato": true,
+"nota": 7.7,
+"votos": 787085
+},
+"achou": "Kingsman: The Secret Service (2014) (IMDb)"
+},
+"the-mandalorian": {
+"t": "The Mandalorian",
+"tp": "serie",
+"imdb": {
+"id": "tt8111088",
+"exato": true,
+"nota": 8.6,
+"votos": 669381
+},
+"achou": "The Mandalorian (2019) (IMDb)"
+},
+"sicario-terra-de-ninguem": {
+"t": "Sicario: Terra de Ninguém",
+"tp": "filme",
+"imdb": {
+"id": "tt3397884",
+"exato": true,
+"nota": 7.7,
+"votos": 554097
+},
+"achou": "Sicario (2015) (IMDb)"
+},
+"animais-fantasticos-os-segredos-de-dumbledore": {
+"t": "Animais Fantásticos: Os Segredos de Dumbledore",
+"tp": "filme",
+"imdb": {
+"id": "tt4123432",
+"exato": true,
+"nota": 6.2,
+"votos": 196756
+},
+"achou": "Fantastic Beasts: The Secrets of Dumbledore (2022) (IMDb)"
+},
+"naruto-shippuden": {
+"t": "Naruto Shippuden",
+"tp": "anime",
+"achou": "Naruto: Shippuden (2007) (AniList)",
+"anilist": {
+"nota": 8.2
+},
+"mal": null,
+"kitsu": {
+"nota": 8.4,
+"votos": 215665,
+"achou": "Naruto: Shippuuden"
+}
+},
+"jogos-vorazes-a-esperanca-o-final": {
+"t": "Jogos Vorazes: A Esperança - O Final",
+"tp": "filme",
+"imdb": {
+"id": "tt1951266",
+"exato": true,
+"nota": 6.6,
+"votos": 424589
+},
+"achou": "The Hunger Games: Mockingjay - Part 2 (2015) (IMDb)"
+},
+"prison-school": {
+"t": "Prison School",
+"tp": "anime",
+"achou": "Prison School (2015) (AniList)",
+"anilist": {
+"nota": 7.3
+},
+"mal": null,
+"kitsu": {
+"nota": 7.6,
+"votos": 58240,
+"achou": "Prison School"
+}
+},
+"rei-arthur-a-lenda-da-espada": {
+"t": "Rei Arthur: A Lenda da Espada",
+"tp": "filme",
+"imdb": {
+"id": "tt1972591",
+"exato": true,
+"nota": 6.7,
+"votos": 251012
+},
+"achou": "King Arthur: Legend of the Sword (2017) (IMDb)"
+},
+"lazarus": {
+"t": "Lazarus",
+"tp": "anime",
+"achou": "LAZARUS (2025) (AniList)",
+"anilist": {
+"nota": 7
+},
+"mal": null,
+"kitsu": {
+"nota": 7.2,
+"votos": 3965,
+"achou": "Lazarus"
+}
+},
+"shuumatsu-no-harem-world-s-end-harem": {
+"t": "Shuumatsu no Harem (World's End Harem)",
+"tp": "anime",
+"achou": "World's End Harem (2022) (AniList)",
+"anilist": {
+"nota": 5.5
+},
+"mal": null,
+"kitsu": {
+"nota": 5.9,
+"votos": 9033,
+"achou": "Shuumatsu no Harem"
+}
+},
+"sombra-e-ossos": {
+"t": "Sombra e Ossos",
+"tp": "serie",
+"imdb": {
+"id": "tt2403776",
+"exato": true,
+"nota": 7.5,
+"votos": 126674
+},
+"achou": "Shadow and Bone (2021) (IMDb)"
+},
+"the-expanse": {
+"t": "The Expanse",
+"tp": "serie",
+"imdb": {
+"id": "tt3230854",
+"exato": true,
+"nota": 8.5,
+"votos": 196131
+},
+"achou": "The Expanse (2015) (IMDb)"
+},
+"altered-carbon": {
+"t": "Altered Carbon",
+"tp": "serie",
+"imdb": {
+"id": "tt2261227",
+"exato": true,
+"nota": 7.9,
+"votos": 205093
+},
+"achou": "Altered Carbon (2018) (IMDb)"
+},
+"little-witch-academia": {
+"t": "Little Witch Academia",
+"tp": "anime",
+"achou": "Little Witch Academia (2013) (AniList)",
+"anilist": {
+"nota": 7.6
+},
+"mal": null,
+"kitsu": {
+"nota": 8,
+"votos": 38144,
+"achou": "Little Witch Academia"
+}
+},
+"para-toda-a-humanidade": {
+"t": "Para Toda a Humanidade",
+"tp": "serie",
+"imdb": {
+"id": "tt7772588",
+"exato": true,
+"nota": 8.1,
+"votos": 94673
+},
+"achou": "For All Mankind (2019) (IMDb)"
+},
+"reacher-jack-reacher-dia-de-matar": {
+"t": "Reacher: Jack Reacher - Dia de Matar",
+"tp": "filme",
+"imdb": {
+"id": "tt3393786",
+"exato": true,
+"nota": 6.2,
+"votos": 196760
+},
+"achou": "Jack Reacher: Never Go Back (2016) (IMDb)"
+},
+"dark-matter": {
+"t": "Dark Matter",
+"tp": "serie",
+"imdb": {
+"id": "tt19231492",
+"exato": true,
+"nota": 7.6,
+"votos": 86289
+},
+"achou": "Dark Matter (2024) (IMDb)"
+},
+"vikings-valhalla": {
+"t": "Vikings: Valhalla",
+"tp": "serie",
+"imdb": {
+"id": "tt11311302",
+"exato": true,
+"nota": 7.4,
+"votos": 73036
+},
+"achou": "Vikings: Valhalla (2022) (IMDb)"
+},
+"magi-o-labirinto-da-magia": {
+"t": "Magi: O Labirinto da Magia",
+"tp": "anime",
+"achou": "Magi: The Labyrinth of Magic (2012) (AniList)",
+"anilist": {
+"nota": 7.8
+},
+"mal": null,
+"kitsu": {
+"nota": 8.1,
+"votos": 76345,
+"achou": "Magi: The Labyrinth of Magic"
+}
+},
+"rosario-vampire": {
+"t": "Rosario + Vampire",
+"tp": "anime",
+"achou": "Rosario + Vampire (2008) (AniList)",
+"anilist": {
+"nota": 6.3
+},
+"mal": null,
+"kitsu": {
+"nota": 6.8,
+"votos": 46938,
+"achou": "Rosario to Vampire"
+}
+},
+"constelacao": {
+"t": "Constelação",
+"tp": "serie",
+"imdb": {
+"id": "tt19395018",
+"exato": true,
+"nota": 6.7,
+"votos": 22622
+},
+"achou": "Constellation (2024) (IMDb)"
+},
+"raised-by-wolves": {
+"t": "Raised by Wolves",
+"tp": "serie",
+"imdb": {
+"id": "tt9170108",
+"exato": true,
+"nota": 7.4,
+"votos": 94029
+},
+"achou": "Raised by Wolves (2020) (IMDb)"
+},
+"kekkai-sensen": {
+"t": "Kekkai Sensen",
+"tp": "anime",
+"achou": "Blood Blockade Battlefront (2015) (AniList)",
+"anilist": {
+"nota": 7.4
+},
+"mal": null,
+"kitsu": {
+"nota": 7.7,
+"votos": 60550,
+"achou": "Kekkai Sensen"
+}
+},
+"kanojo-okarishimasu-rent-a-girlfriend": {
+"t": "Kanojo, Okarishimasu (Rent-a-Girlfriend)",
+"tp": "anime",
+"achou": "Rent-a-Girlfriend (2020) (AniList)",
+"anilist": {
+"nota": 6.5
+},
+"mal": null,
+"kitsu": {
+"nota": 7.1,
+"votos": 32600,
+"achou": "Kanojo, Okarishimasu"
+}
+},
+"high-school-dxd": {
+"t": "High School DxD",
+"tp": "anime",
+"achou": "High School DxD (2012) (AniList)",
+"anilist": {
+"nota": 6.9
+},
+"mal": null,
+"kitsu": {
+"nota": 7.4,
+"votos": 83843,
+"achou": "High School DxD"
+}
+},
+"ranma": {
+"t": "Ranma ½",
+"tp": "anime",
+"achou": "Ranma1/2 (2024) (2024) (AniList)",
+"anilist": {
+"nota": 7.9
+},
+"mal": null,
+"kitsu": {
+"nota": 8,
+"votos": 2714,
+"achou": "Ranma 1/2 (2024)"
+}
+},
+"kaguya-sama-love-is-war": {
+"t": "Kaguya-sama: Love is War",
+"tp": "anime",
+"achou": "Kaguya-sama: Love is War (2019) (AniList)",
+"anilist": {
+"nota": 8.3
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 78354,
+"achou": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
+}
+},
+"terra-de-ninguem-warrior": {
+"t": "Terra de Ninguém (Warrior)",
+"tp": "serie",
+"imdb": {
+"id": "tt5743796",
+"exato": true,
+"nota": 8.4,
+"votos": 54819
+},
+"achou": "Warrior (2019) (IMDb)"
+},
+"uncle-from-another-world": {
+"t": "Uncle from Another World",
+"tp": "anime",
+"achou": "Uncle from Another World (2022) (AniList)",
+"anilist": {
+"nota": 7.6
+},
+"mal": null,
+"kitsu": null
+},
+"grand-blue-dreaming": {
+"t": "Grand BLUE dreaming",
+"tp": "anime",
+"achou": "Grand Blue Dreaming (2018) (AniList)",
+"anilist": {
+"nota": 8.2
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 38827,
+"achou": "Grand Blue"
+}
+},
+"duna-parte-dois": {
+"t": "Duna: Parte Dois",
+"tp": "filme",
+"imdb": {
+"id": "tt15239678",
+"exato": false,
+"nota": 8.4,
+"votos": 803824
+},
+"achou": "Dune: Part Two (2024) (IMDb)"
+},
+"jason-bourne": {
+"t": "Jason Bourne",
+"tp": "filme",
+"imdb": {
+"id": "tt4196776",
+"exato": true,
+"nota": 6.6,
+"votos": 261530
+},
+"achou": "Jason Bourne (2016) (IMDb)"
+},
+"sons-of-anarchy": {
+"t": "Sons of Anarchy",
+"tp": "serie",
+"imdb": {
+"id": "tt1124373",
+"exato": true,
+"nota": 8.5,
+"votos": 362120
+},
+"achou": "Sons of Anarchy (2008) (IMDb)"
+},
+"cowboy-bebop": {
+"t": "Cowboy Bebop",
+"tp": "anime",
+"achou": "Cowboy Bebop (1998) (AniList)",
+"anilist": {
+"nota": 8.6
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 162561,
+"achou": "Cowboy Bebop"
+}
+},
+"hajime-no-ippo": {
+"t": "Hajime no Ippo",
+"tp": "anime",
+"achou": "Hajime No Ippo: The Fighting! - Rising - (2013) (AniList)",
+"anilist": {
+"nota": 8.5
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 19063,
+"achou": "Hajime No Ippo: The Fighting! - Rising -"
+}
+},
+"slam-dunk": {
+"t": "Slam Dunk",
+"tp": "anime",
+"achou": "Slam Dunk (1993) (AniList)",
+"anilist": {
+"nota": 8.3
+},
+"mal": null,
+"kitsu": {
+"nota": 8.1,
+"votos": 20575,
+"achou": "Slam Dunk"
+}
+},
+"black-doves-s2": {
+"t": "Black Doves S2",
+"tp": "serie",
+"imdb": {
+"id": "tt27995113",
+"exato": true,
+"nota": 7.2,
+"votos": 77232
+},
+"achou": "Black Doves (2024) (IMDb)"
+},
+"godzilla-minus-zero": {
+"t": "Godzilla Minus Zero",
+"tp": "filme",
+"imdb": {
+"id": "tt34384661",
+"exato": true,
+"nota": 8,
+"votos": 1330
+},
+"achou": "Godzilla Minus Zero (2026) (IMDb)"
+},
+"como-roubar-um-banco": {
+"t": "Como Roubar Um Banco",
+"tp": "filme",
+"imdb": {
+"id": "tt35866986",
+"exato": false
+},
+"achou": "How to Rob a Bank (2026) (IMDb)"
+},
+"vingadores-doutor-destino": {
+"t": "Vingadores: Doutor Destino",
+"tp": "filme",
+"imdb": {
+"id": "tt21357150",
+"exato": false
+},
+"achou": "Avengers: Doomsday (2026) (IMDb)"
+},
+"returner-s-magic-should-be-special-s2": {
+"t": "Returner's Magic Should Be Special S2",
+"tp": "anime",
+"achou": "A Returner's Magic Should Be Special (2023) (AniList)",
+"anilist": {
+"nota": 6.9
+},
+"mal": null,
+"kitsu": {
+"nota": 7.1,
+"votos": 3866,
+"achou": "Kikansha no Mahou wa Tokubetsu desu"
+}
+},
+"iceblade-sorcerer-shall-rule-the-world-ii": {
+"t": "Iceblade Sorcerer Shall Rule the World II",
+"tp": "anime",
+"achou": "The Iceblade Sorcerer Shall Rule the World II (2026) (AniList)",
+"anilist": {
+"nota": 6.6
+},
+"mal": null,
+"kitsu": null
+},
+"mashle": {
+"t": "Mashle",
+"tp": "anime",
+"achou": "MASHLE: MAGIC AND MUSCLES (2023) (AniList)",
+"anilist": {
+"nota": 7.6
+},
+"mal": null,
+"kitsu": {
+"nota": 7.7,
+"votos": 13788,
+"achou": "Mashle"
+}
+},
+"dan-da-dan": {
+"t": "Dan Da Dan",
+"tp": "anime",
+"achou": "DAN DA DAN (2024) (AniList)",
+"anilist": {
+"nota": 8.3
+},
+"mal": null,
+"kitsu": {
+"nota": 8.5,
+"votos": 12909,
+"achou": "Dandadan"
+}
+},
+"mushoku-tensei": {
+"t": "Mushoku Tensei",
+"tp": "anime",
+"achou": "Mushoku Tensei: Jobless Reincarnation (2021) (AniList)",
+"anilist": {
+"nota": 8.1
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 49363,
+"achou": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+}
+},
+"solo-leveling": {
+"t": "Solo Leveling",
+"tp": "anime",
+"achou": "Solo Leveling (2024) (AniList)",
+"anilist": {
+"nota": 8
+},
+"mal": null,
+"kitsu": {
+"nota": 8.3,
+"votos": 18854,
+"achou": "Ore Dake Level Up na Ken"
+}
+},
+"tomb-raider-king": {
+"t": "Tomb Raider King",
+"tp": "anime",
+"achou": "Tomb Raider King (AniList)",
+"anilist": {
+"nota": 6.8
+},
+"mal": null,
+"kitsu": {
+"nota": 7.1,
+"votos": 814,
+"achou": "Dogul Wang"
+}
+},
+"my-dress-up-darling": {
+"t": "My Dress-Up Darling",
+"tp": "anime",
+"achou": "My Dress-Up Darling (2022) (AniList)",
+"anilist": {
+"nota": 8
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 33111,
+"achou": "Sono Bisque Doll wa Koi wo Suru"
+}
+},
+"mf-ghost": {
+"t": "MF Ghost",
+"tp": "anime",
+"achou": "MF GHOST (2023) (AniList)",
+"anilist": {
+"nota": 7.4
+},
+"mal": null,
+"kitsu": {
+"nota": 7.6,
+"votos": 1957,
+"achou": "MF Ghost"
+}
+},
+"the-water-magician": {
+"t": "The Water Magician",
+"tp": "anime",
+"achou": "The Water Magician (2025) (AniList)",
+"anilist": {
+"nota": 7
+},
+"mal": null,
+"kitsu": {
+"nota": 7.2,
+"votos": 3183,
+"achou": "Mizu Zokusei no Mahou Tsukai"
+}
+},
+"re-zero": {
+"t": "Re:Zero",
+"tp": "anime",
+"achou": "Re:ZERO -Starting Life in Another World- (2016) (AniList)",
+"anilist": {
+"nota": 8.1
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 154557,
+"achou": "Re:Zero kara Hajimeru Isekai Seikatsu"
+}
+},
+"overlord": {
+"t": "Overlord",
+"tp": "anime",
+"achou": "Overlord (2015) (AniList)",
+"anilist": {
+"nota": 7.6
+},
+"mal": null,
+"kitsu": {
+"nota": 8,
+"votos": 82307,
+"achou": "Overlord"
+}
+},
+"dr-stone": {
+"t": "Dr. Stone",
+"tp": "anime",
+"achou": "Dr. STONE (2019) (AniList)",
+"anilist": {
+"nota": 8.1
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 122056,
+"achou": "Dr. Stone"
+}
+},
+"i-became-a-legend-after-my-10-year-long-last-stand": {
+"t": "I Became a Legend after My 10 Year-Long Last Stand",
+"tp": "anime",
+"achou": "I Became a Legend After My 10 Year-Long Last Stand (2026) (AniList)",
+"anilist": {
+"nota": 6.2
+},
+"mal": null,
+"kitsu": {
+"nota": 6.7,
+"votos": 825,
+"achou": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita."
+}
+},
+"the-villager-of-level-999": {
+"t": "The Villager of Level 999",
+"tp": "anime",
+"achou": "The Villager of Level 999 (2026) (AniList)",
+"anilist": {
+"nota": 6.1
+},
+"mal": null,
+"kitsu": {
+"nota": 6.6,
+"votos": 881,
+"achou": "LV999 no Murabito"
+}
+},
+"trapped-in-a-dating-sim-2": {
+"t": "Trapped in a Dating Sim 2",
+"tp": "anime",
+"achou": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 (2026) (AniList)",
+"anilist": {
+"nota": 7
+},
+"mal": null,
+"kitsu": {
+"nota": 7.2,
+"votos": 2037,
+"achou": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2nd Season"
+}
+},
+"one-piece": {
+"t": "One Piece",
+"tp": "anime",
+"achou": "ONE PIECE (1999) (AniList)",
+"anilist": {
+"nota": 8.7
+},
+"mal": null,
+"kitsu": {
+"nota": 8.4,
+"votos": 325195,
+"achou": "One Piece"
+}
+},
+"black-clover": {
+"t": "Black Clover",
+"tp": "anime",
+"achou": "Black Clover (2017) (AniList)",
+"anilist": {
+"nota": 7.9
+},
+"mal": null,
+"kitsu": {
+"nota": 7.9,
+"votos": 87911,
+"achou": "Black Clover"
+}
+},
+"kuroko-no-basket": {
+"t": "Kuroko no Basket",
+"tp": "anime",
+"achou": "Kuroko's Basketball (2012) (AniList)",
+"anilist": {
+"nota": 7.8
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 92202,
+"achou": "Kuroko no Basket"
+}
+},
+"blue-lock": {
+"t": "Blue Lock",
+"tp": "anime",
+"achou": "BLUE LOCK (2022) (AniList)",
+"anilist": {
+"nota": 7.9
+},
+"mal": null,
+"kitsu": {
+"nota": 8.1,
+"votos": 18841,
+"achou": "BLUE LOCK"
+}
+},
+"attack-on-titan": {
+"t": "Attack on Titan",
+"tp": "anime",
+"achou": "Attack on Titan (2013) (AniList)",
+"anilist": {
+"nota": 8.5
+},
+"mal": null,
+"kitsu": {
+"nota": 8.4,
+"votos": 618965,
+"achou": "Attack on Titan"
+}
+},
+"fullmetal-alchemist-brotherhood": {
+"t": "Fullmetal Alchemist: Brotherhood",
+"tp": "anime",
+"achou": "Fullmetal Alchemist: Brotherhood (2009) (AniList)",
+"anilist": {
+"nota": 9
+},
+"mal": null,
+"kitsu": {
+"nota": 8.3,
+"votos": 422909,
+"achou": "Fullmetal Alchemist: Brotherhood"
+}
+},
+"my-hero-academia": {
+"t": "My Hero Academia",
+"tp": "anime",
+"achou": "My Hero Academia (2016) (AniList)",
+"anilist": {
+"nota": 7.6
+},
+"mal": null,
+"kitsu": {
+"nota": 8.3,
+"votos": 573378,
+"achou": "Boku no Hero Academia"
+}
+},
+"sakamoto-days": {
+"t": "Sakamoto Days",
+"tp": "anime",
+"achou": "SAKAMOTO DAYS (2025) (AniList)",
+"anilist": {
+"nota": 7.6
+},
+"mal": null,
+"kitsu": {
+"nota": 7.7,
+"votos": 6156,
+"achou": "SAKAMOTO DAYS"
+}
+},
+"spy-x-family": {
+"t": "Spy x Family",
+"tp": "anime",
+"achou": "SPY x FAMILY (2022) (AniList)",
+"anilist": {
+"nota": 8.3
+},
+"mal": null,
+"kitsu": {
+"nota": 8.5,
+"votos": 78894,
+"achou": "SPY×FAMILY"
+}
+},
+"mob-psycho-100": {
+"t": "Mob Psycho 100",
+"tp": "anime",
+"achou": "Mob Psycho 100 (2016) (AniList)",
+"anilist": {
+"nota": 8.4
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 163996,
+"achou": "Mob Psycho 100"
+}
+},
+"as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill": {
+"t": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill",
+"tp": "anime",
+"achou": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (2024) (AniList)",
+"anilist": {
+"nota": 7.1
+},
+"mal": null,
+"kitsu": {
+"nota": 7.2,
+"votos": 3809,
+"achou": "Tensei Kizoku, Kantei Skill de Nariagaru"
+}
+},
+"aoashi": {
+"t": "Aoashi",
+"tp": "anime",
+"achou": "Aoashi (2022) (AniList)",
+"anilist": {
+"nota": 8.1
+},
+"mal": null,
+"kitsu": {
+"nota": 8.1,
+"votos": 6135,
+"achou": "Ao Ashi"
+}
+},
+"smoking-behind-the-supermarket-with-you": {
+"t": "Smoking Behind the Supermarket with You",
+"tp": "anime",
+"achou": "Smoking Behind the Supermarket with You (2026) (AniList)",
+"anilist": {
+"nota": 8.1
+},
+"mal": null,
+"kitsu": {
+"nota": 8.3,
+"votos": 2278,
+"achou": "Super no Ura de Yani Suu Futari"
+}
+},
+"soul-eater": {
+"t": "Soul Eater",
+"tp": "anime",
+"achou": "Soul Eater (2008) (AniList)",
+"anilist": {
+"nota": 7.7
+},
+"mal": null,
+"kitsu": {
+"nota": 8,
+"votos": 112673,
+"achou": "Soul Eater"
+}
+},
+"clevatess": {
+"t": "Clevatess",
+"tp": "anime",
+"achou": "Clevatess (2025) (AniList)",
+"anilist": {
+"nota": 7.7
+},
+"mal": null,
+"kitsu": {
+"nota": 8,
+"votos": 3181,
+"achou": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha"
+}
+},
+"yomi-no-tsugai": {
+"t": "Yomi no Tsugai",
+"tp": "anime",
+"achou": "Daemons of the Shadow Realm (2026) (AniList)",
+"anilist": {
+"nota": 7.8
+},
+"mal": null,
+"kitsu": {
+"nota": 7.9,
+"votos": 3095,
+"achou": "Daemons of the Shadow Realm"
+}
+},
+"the-world-s-strongest-rearguard": {
+"t": "The World's Strongest Rearguard",
+"tp": "anime",
+"achou": "The World's Strongest Rearguard (2026) (AniList)",
+"anilist": {
+"nota": 5.7
+},
+"mal": null,
+"kitsu": {
+"nota": 6.4,
+"votos": 651,
+"achou": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha"
+}
+},
+"black-torch": {
+"t": "Black Torch",
+"tp": "anime",
+"achou": "BLACK TORCH (2026) (AniList)",
+"anilist": {
+"nota": 6.9
+},
+"mal": null,
+"kitsu": {
+"nota": 6.9,
+"votos": 1333,
+"achou": "BLACK TORCH"
+}
+},
+"the-frontier-lord-begins-with-zero-subjects": {
+"t": "The Frontier Lord Begins with Zero Subjects",
+"tp": "anime",
+"achou": "The Frontier Lord Begins with Zero Subjects (2026) (AniList)",
+"anilist": {
+"nota": 6.8
+},
+"mal": null,
+"kitsu": {
+"nota": 7.2,
+"votos": 715,
+"achou": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama"
+}
+},
+"the-great-cleric": {
+"t": "The Great Cleric",
+"tp": "anime",
+"achou": "The Great Cleric (2023) (AniList)",
+"anilist": {
+"nota": 7
+},
+"mal": null,
+"kitsu": {
+"nota": 7.2,
+"votos": 3488,
+"achou": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi"
+}
+},
+"from-overshadowed-to-overpowered": {
+"t": "From Overshadowed to Overpowered",
+"tp": "anime",
+"achou": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage (2026) (AniList)",
+"anilist": {
+"nota": 6.2
+},
+"mal": null,
+"kitsu": {
+"nota": 6.5,
+"votos": 1001,
+"achou": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku"
+}
+},
+"hell-s-paradise": {
+"t": "Hell's Paradise",
+"tp": "anime",
+"achou": "Hell’s Paradise (2023) (AniList)",
+"anilist": {
+"nota": 8
+},
+"mal": null,
+"kitsu": {
+"nota": 8.1,
+"votos": 16877,
+"achou": "Jigokuraku"
+}
+},
+"one-punch-man": {
+"t": "One Punch Man",
+"tp": "anime",
+"achou": "One-Punch Man (2015) (AniList)",
+"anilist": {
+"nota": 8.2
+},
+"mal": null,
+"kitsu": {
+"nota": 8.3,
+"votos": 538658,
+"achou": "One Punch Man"
+}
+},
+"vinland-saga": {
+"t": "Vinland Saga",
+"tp": "anime",
+"achou": "Vinland Saga (2019) (AniList)",
+"anilist": {
+"nota": 8.7
+},
+"mal": null,
+"kitsu": {
+"nota": 8.3,
+"votos": 65167,
+"achou": "Vinland Saga"
+}
+},
+"cyberpunk-edgerunners": {
+"t": "Cyberpunk: Edgerunners",
+"tp": "anime",
+"achou": "Cyberpunk: Edgerunners (2022) (AniList)",
+"anilist": {
+"nota": 8.5
+},
+"mal": null,
+"kitsu": {
+"nota": 8.3,
+"votos": 22485,
+"achou": "Cyberpunk: Edgerunners"
+}
+},
+"kaiju-no-8": {
+"t": "Kaiju No. 8",
+"tp": "anime",
+"achou": "Kaiju No. 8 (2024) (AniList)",
+"anilist": {
+"nota": 8.1
+},
+"mal": null,
+"kitsu": {
+"nota": 8.4,
+"votos": 10747,
+"achou": "Kaijuu 8-gou"
+}
+},
+"the-exiled-heavy-knight-knows-how-to-game-the-system": {
+"t": "The Exiled Heavy Knight Knows How to Game the System",
+"tp": "anime",
+"achou": "The Exiled Heavy Knight Knows How to Game the System (2026) (AniList)",
+"anilist": {
+"nota": 6.7
+},
+"mal": null,
+"kitsu": {
+"nota": 7,
+"votos": 1190,
+"achou": "Tsuihou Sareta Tensei Juukishi wa Game Sashiki de Musou Suru"
+}
+},
+"tsukimichi": {
+"t": "Tsukimichi",
+"tp": "anime",
+"achou": "TSUKIMICHI -Moonlit Fantasy- (2021) (AniList)",
+"anilist": {
+"nota": 7.7
+},
+"mal": null,
+"kitsu": {
+"nota": 7.8,
+"votos": 13315,
+"achou": "Tsuki ga Michibiku Isekai Douchuu"
+}
+},
+"fate-strange-fake": {
+"t": "Fate/strange Fake",
+"tp": "anime",
+"achou": "Fate/strange Fake (2026) (AniList)",
+"anilist": {
+"nota": 8.2
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 2532,
+"achou": "Fate/strange Fake"
+}
+},
+"gachiakuta": {
+"t": "Gachiakuta",
+"tp": "anime",
+"achou": "Gachiakuta (2025) (AniList)",
+"anilist": {
+"nota": 8.2
+},
+"mal": null,
+"kitsu": {
+"nota": 8.3,
+"votos": 6229,
+"achou": "Gachiakuta"
+}
+},
+"blood-lad": {
+"t": "Blood Lad",
+"tp": "anime",
+"achou": "Blood Lad (2013) (AniList)",
+"anilist": {
+"nota": 6.9
+},
+"mal": null,
+"kitsu": {
+"nota": 7.3,
+"votos": 50346,
+"achou": "Blood Lad"
+}
+},
+"so-what-s-wrong-with-getting-reborn-as-a-goblin": {
+"t": "So What's Wrong with Getting Reborn as a Goblin?",
+"tp": "anime",
+"achou": "So What's Wrong with Getting Reborn as a Goblin? (2026) (AniList)",
+"anilist": {
+"nota": 6.5
+},
+"mal": null,
+"kitsu": null
+},
+"overgeared": {
+"t": "Overgeared",
+"tp": "anime",
+"achou": "Overgeared (2026) (AniList)",
+"anilist": {
+"nota": 7.6
+},
+"mal": null,
+"kitsu": {
+"nota": 7.6,
+"votos": 601,
+"achou": "Temppal: Item no Chikara"
+}
+},
+"magical-explorer": {
+"t": "Magical Explorer",
+"tp": "anime",
+"achou": "Magical Explorer (2026) (AniList)",
+"anilist": {
+"nota": 6.9
+},
+"mal": null,
+"kitsu": null
+},
+"magic-repo-man": {
+"t": "Magic Repo Man",
+"tp": "anime",
+"achou": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest! (2026) (AniList)",
+"anilist": {
+"nota": 6.1
+},
+"mal": null,
+"kitsu": null
+},
+"the-laid-off-cheat-granting-mage": {
+"t": "The Laid-Off Cheat-Granting Mage",
+"tp": "anime",
+"achou": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life (2026) (AniList)",
+"anilist": {
+"nota": 7.3
+},
+"mal": null,
+"kitsu": {
+"nota": 7.7,
+"votos": 599,
+"achou": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?"
+}
+},
+"jujutsu-kaisen": {
+"t": "Jujutsu Kaisen",
+"tp": "anime",
+"achou": "JUJUTSU KAISEN (2020) (AniList)",
+"anilist": {
+"nota": 8.4
+},
+"mal": null,
+"kitsu": {
+"nota": 8.6,
+"votos": 235898,
+"achou": "Jujutsu Kaisen"
+}
+},
+"hunter-x-hunter": {
+"t": "Hunter x Hunter",
+"tp": "anime",
+"achou": "Hunter x Hunter (1999) (AniList)",
+"anilist": {
+"nota": 8.3
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 110433,
+"achou": "Hunter x Hunter"
+}
+},
+"konosuba": {
+"t": "Konosuba",
+"tp": "anime",
+"achou": "KONOSUBA -God's blessing on this wonderful world! (2016) (AniList)",
+"anilist": {
+"nota": 7.9
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 121021,
+"achou": "Kono Subarashii Sekai ni Shukufuku wo!"
+}
+},
+"gintama": {
+"t": "Gintama",
+"tp": "anime",
+"achou": "Gintama (2006) (AniList)",
+"anilist": {
+"nota": 8.5
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 87653,
+"achou": "Gintama"
+}
+},
+"bleach": {
+"t": "Bleach",
+"tp": "anime",
+"achou": "Bleach (2004) (AniList)",
+"anilist": {
+"nota": 7.9
+},
+"mal": null,
+"kitsu": {
+"nota": 7.7,
+"votos": 105475,
+"achou": "BLEACH"
+}
+},
+"that-time-i-got-reincarnated-as-a-slime": {
+"t": "That Time I Got Reincarnated as a Slime",
+"tp": "anime",
+"achou": "That Time I Got Reincarnated as a Slime (2018) (AniList)",
+"anilist": {
+"nota": 8
+},
+"mal": null,
+"kitsu": {
+"nota": 8.2,
+"votos": 91212,
+"achou": "Tensei shitara Slime Datta Ken"
+}
+},
+"haikyu": {
+"t": "Haikyu",
+"tp": "anime",
+"achou": "HAIKYU!! (2014) (AniList)",
+"anilist": {
+"nota": 8.3
+},
+"mal": null,
+"kitsu": {
+"nota": 8.3,
+"votos": 263822,
+"achou": "Haikyuu!!"
+}
+},
+"i-was-reincarnated-as-the-7th-prince": {
+"t": "I Was Reincarnated as the 7th Prince",
+"tp": "anime",
+"achou": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (2024) (AniList)",
+"anilist": {
+"nota": 7.3
+},
+"mal": null,
+"kitsu": {
+"nota": 7.5,
+"votos": 5008,
+"achou": "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu"
+}
+},
+"frieren": {
+"t": "Frieren",
+"tp": "anime",
+"achou": "Frieren: Beyond Journey’s End (2023) (AniList)",
+"anilist": {
+"nota": 9.1
+},
+"mal": null,
+"kitsu": {
+"nota": 8.9,
+"votos": 21458,
+"achou": "Sousou no Frieren"
+}
+},
+"better-call-saul": {
+"t": "Better Call Saul",
+"tp": "serie",
+"imdb": {
+"id": "tt3032476",
+"exato": true,
+"nota": 9,
+"votos": 875509
+},
+"achou": "Better Call Saul (2015) (IMDb)"
+},
+"squid-game": {
+"t": "Squid Game",
+"tp": "serie",
+"imdb": {
+"id": "tt10919420",
+"exato": true,
+"nota": 7.9,
+"votos": 782297
+},
+"achou": "Squid Game (2021) (IMDb)"
+},
+"stranger-things": {
+"t": "Stranger Things",
+"tp": "serie",
+"imdb": {
+"id": "tt4574334",
+"exato": true,
+"nota": 8.6,
+"votos": 1752304
+},
+"achou": "Stranger Things (2016) (IMDb)"
+},
+"prison-break": {
+"t": "Prison Break",
+"tp": "serie",
+"imdb": {
+"id": "tt0455275",
+"exato": true,
+"nota": 8.3,
+"votos": 684068
+},
+"achou": "Prison Break (2005) (IMDb)"
+},
+"la-casa-de-papel": {
+"t": "La Casa de Papel",
+"tp": "serie",
+"imdb": {
+"id": "tt6468322",
+"exato": false,
+"nota": 8.2,
+"votos": 623261
+},
+"achou": "Money Heist (2017) (IMDb)"
+},
+"black-mirror": {
+"t": "Black Mirror",
+"tp": "serie",
+"imdb": {
+"id": "tt2085059",
+"exato": true,
+"nota": 8.7,
+"votos": 753687
+},
+"achou": "Black Mirror (2011) (IMDb)"
+},
+"mobland": {
+"t": "MobLand",
+"tp": "serie",
+"imdb": {
+"id": "tt31510819",
+"exato": true,
+"nota": 8.3,
+"votos": 139432
+},
+"achou": "MobLand (2025) (IMDb)"
+},
+"invincible": {
+"t": "Invincible",
+"tp": "serie",
+"imdb": {
+"id": "tt6741278",
+"exato": true,
+"nota": 8.7,
+"votos": 356096
+},
+"achou": "Invincible (2021) (IMDb)"
+},
+"peaky-blinders": {
+"t": "Peaky Blinders",
+"tp": "serie",
+"imdb": {
+"id": "tt2442560",
+"exato": true,
+"nota": 8.7,
+"votos": 798392
+},
+"achou": "Peaky Blinders (2013) (IMDb)"
+},
+"the-boys": {
+"t": "The Boys",
+"tp": "serie",
+"imdb": {
+"id": "tt1190634",
+"exato": true,
+"nota": 8.5,
+"votos": 1034585
+},
+"achou": "The Boys (2019) (IMDb)"
+},
+"the-last-of-us": {
+"t": "The Last of Us",
+"tp": "serie",
+"imdb": {
+"id": "tt3581920",
+"exato": true,
+"nota": 8.4,
+"votos": 755575
+},
+"achou": "The Last of Us (2023) (IMDb)"
+},
+"a-casa-do-dragao": {
+"t": "A Casa do Dragão",
+"tp": "serie",
+"imdb": {
+"id": "tt11198330",
+"exato": false,
+"nota": 8.2,
+"votos": 577069
+},
+"achou": "House of the Dragon (2022) (IMDb)"
+},
+"reacher": {
+"t": "Reacher",
+"tp": "serie",
+"imdb": {
+"id": "tt9288030",
+"exato": true,
+"nota": 8,
+"votos": 328166
+},
+"achou": "Reacher (2022) (IMDb)"
+},
+"a-lista-terminal": {
+"t": "A Lista Terminal",
+"tp": "serie",
+"imdb": {
+"id": "tt11743610",
+"exato": false,
+"nota": 7.9,
+"votos": 135296
+},
+"achou": "The Terminal List (2022) (IMDb)"
+},
+"breaking-bad": {
+"t": "Breaking Bad",
+"tp": "serie",
+"imdb": {
+"id": "tt0903747",
+"exato": true,
+"nota": 9.5,
+"votos": 2700920
+},
+"achou": "Breaking Bad (2008) (IMDb)"
+},
+"vikings": {
+"t": "Vikings",
+"tp": "serie",
+"imdb": {
+"id": "tt2306299",
+"exato": true,
+"nota": 8.5,
+"votos": 652971
+},
+"achou": "Vikings (2013) (IMDb)"
+},
+"the-witcher": {
+"t": "The Witcher",
+"tp": "serie",
+"imdb": {
+"id": "tt5180504",
+"exato": true,
+"nota": 7.8,
+"votos": 627364
+},
+"achou": "The Witcher (2019) (IMDb)"
+},
+"fallout": {
+"t": "Fallout",
+"tp": "serie",
+"imdb": {
+"id": "tt12637874",
+"exato": true,
+"nota": 8.3,
+"votos": 407167
+},
+"achou": "Fallout (2024) (IMDb)"
+},
+"game-of-thrones": {
+"t": "Game of Thrones",
+"tp": "serie",
+"imdb": {
+"id": "tt0944947",
+"exato": true,
+"nota": 9.2,
+"votos": 2681140
+},
+"achou": "Game of Thrones (2011) (IMDb)"
+},
+"sobrenatural": {
+"t": "Sobrenatural",
+"tp": "serie",
+"imdb": {
+"id": "tt0460681",
+"exato": false,
+"nota": 8.4,
+"votos": 552555
+},
+"achou": "Supernatural (2005) (IMDb)"
+},
+"tropa-de-elite": {
+"t": "Tropa de Elite",
+"tp": "filme",
+"imdb": {
+"id": "tt0861739",
+"exato": false,
+"nota": 8,
+"votos": 121840
+},
+"achou": "Elite Squad (2007) (IMDb)"
+},
+"mad-max-estrada-da-furia": {
+"t": "Mad Max: Estrada da Fúria",
+"tp": "filme",
+"imdb": {
+"id": "tt1392190",
+"exato": false,
+"nota": 8.1,
+"votos": 1226428
+},
+"achou": "Mad Max: Fury Road (2015) (IMDb)"
+},
+"missao-impossivel": {
+"t": "Missão: Impossível",
+"tp": "filme",
+"imdb": {
+"id": "tt0117060",
+"exato": false,
+"nota": 7.2,
+"votos": 525648
+},
+"achou": "Mission: Impossible (1996) (IMDb)"
+},
+"interestelar": {
+"t": "Interestelar",
+"tp": "filme",
+"imdb": {
+"id": "tt0816692",
+"exato": false,
+"nota": 8.7,
+"votos": 2629614
+},
+"achou": "Interstellar (2014) (IMDb)"
+},
+"os-mercenarios": {
+"t": "Os Mercenários",
+"tp": "filme",
+"imdb": {
+"id": "tt1320253",
+"exato": false,
+"nota": 6.4,
+"votos": 383991
+},
+"achou": "The Expendables (2010) (IMDb)"
+},
+"ready-player-one": {
+"t": "Ready Player One",
+"tp": "filme",
+"imdb": {
+"id": "tt1677720",
+"exato": true,
+"nota": 7.4,
+"votos": 554603
+},
+"achou": "Ready Player One (2018) (IMDb)"
+},
+"free-guy": {
+"t": "Free Guy",
+"tp": "filme",
+"imdb": {
+"id": "tt6264654",
+"exato": true,
+"nota": 7.1,
+"votos": 500851
+},
+"achou": "Free Guy (2021) (IMDb)"
+},
+"uncharted": {
+"t": "Uncharted",
+"tp": "filme",
+"imdb": {
+"id": "tt1464335",
+"exato": true,
+"nota": 6.3,
+"votos": 310238
+},
+"achou": "Uncharted (2022) (IMDb)"
+},
+"homem-formiga": {
+"t": "Homem-Formiga",
+"tp": "filme",
+"imdb": {
+"id": "tt0478970",
+"exato": false,
+"nota": 7.2,
+"votos": 799710
+},
+"achou": "Ant-Man (2015) (IMDb)"
+},
+"anonimo": {
+"t": "Anônimo",
+"tp": "filme",
+"imdb": {
+"id": "tt7888964",
+"exato": true,
+"nota": 7.4,
+"votos": 408514
+},
+"achou": "Nobody (2021) (IMDb)"
+},
+"anonimo-2": {
+"t": "Anônimo 2",
+"tp": "filme",
+"imdb": {
+"id": "tt28996126",
+"exato": true,
+"nota": 6.3,
+"votos": 106954
+},
+"achou": "Nobody 2 (2025) (IMDb)"
+},
+"top-gun-maverick": {
+"t": "Top Gun: Maverick",
+"tp": "filme",
+"imdb": {
+"id": "tt1745960",
+"exato": true,
+"nota": 8.2,
+"votos": 912078
+},
+"achou": "Top Gun: Maverick (2022) (IMDb)"
+},
+"gran-turismo": {
+"t": "Gran Turismo",
+"tp": "filme",
+"imdb": {
+"id": "tt4495098",
+"exato": true,
+"nota": 7.1,
+"votos": 140283
+},
+"achou": "Gran Turismo (2023) (IMDb)"
+},
+"no-limite-do-amanha": {
+"t": "No Limite do Amanhã",
+"tp": "filme",
+"imdb": {
+"id": "tt1631867",
+"exato": true,
+"nota": 7.9,
+"votos": 820424
+},
+"achou": "Edge of Tomorrow (2014) (IMDb)"
+},
+"bad-boys": {
+"t": "Bad Boys",
+"tp": "filme",
+"imdb": {
+"id": "tt0112442",
+"exato": true,
+"nota": 6.8,
+"votos": 320255
+},
+"achou": "Bad Boys (1995) (IMDb)"
+},
+"resgate-2": {
+"t": "Resgate 2",
+"tp": "filme",
+"imdb": {
+"id": "tt12263384",
+"exato": false,
+"nota": 7,
+"votos": 177690
+},
+"achou": "Extraction II (2023) (IMDb)"
+},
+"o-protetor": {
+"t": "O Protetor",
+"tp": "filme",
+"imdb": {
+"id": "tt0455944",
+"exato": false,
+"nota": 7.3,
+"votos": 474773
+},
+"achou": "The Equalizer (2014) (IMDb)"
+},
+"o-contador": {
+"t": "O Contador",
+"tp": "filme",
+"imdb": {
+"id": "tt2140479",
+"exato": true,
+"nota": 7.3,
+"votos": 405705
+},
+"achou": "The Accountant (2016) (IMDb)"
+},
+"o-contador-2": {
+"t": "O Contador 2",
+"tp": "filme",
+"imdb": {
+"id": "tt7068946",
+"exato": false,
+"nota": 6.6,
+"votos": 138375
+},
+"achou": "The Accountant 2 (2025) (IMDb)"
+},
+"bailarina": {
+"t": "Bailarina",
+"tp": "filme",
+"imdb": {
+"id": "tt7181546",
+"exato": true,
+"nota": 6.8,
+"votos": 165343
+},
+"achou": "Ballerina (2025) (IMDb)"
+},
+"piratas-do-caribe": {
+"t": "Piratas do Caribe",
+"tp": "filme",
+"imdb": {
+"id": "tt0325980",
+"exato": true,
+"nota": 8.1,
+"votos": 1351987
+},
+"achou": "Pirates of the Caribbean: The Curse of the Black Pearl (2003) (IMDb)"
+},
+"thor": {
+"t": "Thor",
+"tp": "filme",
+"imdb": {
+"id": "tt0800369",
+"exato": true,
+"nota": 7,
+"votos": 989611
+},
+"achou": "Thor (2011) (IMDb)"
+},
+"doutor-estranho": {
+"t": "Doutor Estranho",
+"tp": "filme",
+"imdb": {
+"id": "tt1211837",
+"exato": false,
+"nota": 7.5,
+"votos": 903391
+},
+"achou": "Doctor Strange (2016) (IMDb)"
+},
+"shang-chi": {
+"t": "Shang-Chi",
+"tp": "filme",
+"imdb": {
+"id": "tt9376612",
+"exato": false,
+"nota": 7.3,
+"votos": 507323
+},
+"achou": "Shang-Chi and the Legend of the Ten Rings (2021) (IMDb)"
+},
+"o-senhor-dos-aneis": {
+"t": "O Senhor dos Anéis",
+"tp": "filme",
+"imdb": {
+"id": "tt0120737",
+"exato": true,
+"nota": 8.9,
+"votos": 2249952
+},
+"achou": "The Lord of the Rings: The Fellowship of the Ring (2001) (IMDb)"
+},
+"harry-potter": {
+"t": "Harry Potter",
+"tp": "filme",
+"imdb": {
+"id": "tt0241527",
+"exato": false,
+"nota": 7.7,
+"votos": 972946
+},
+"achou": "Harry Potter and the Sorcerer's Stone (2001) (IMDb)"
+},
+"bird-box": {
+"t": "Bird Box",
+"tp": "filme",
+"imdb": {
+"id": "tt2737304",
+"exato": true,
+"nota": 6.6,
+"votos": 429634
+},
+"achou": "Bird Box (2018) (IMDb)"
+},
+"matrix": {
+"t": "Matrix",
+"tp": "filme",
+"imdb": {
+"id": "tt0133093",
+"exato": false,
+"nota": 8.7,
+"votos": 2291760
+},
+"achou": "The Matrix (1999) (IMDb)"
+},
+"matrix-reloaded": {
+"t": "Matrix Reloaded",
+"tp": "filme",
+"imdb": {
+"id": "tt0234215",
+"exato": false,
+"nota": 7.2,
+"votos": 679163
+},
+"achou": "The Matrix Reloaded (2003) (IMDb)"
+},
+"matrix-revolutions": {
+"t": "Matrix Revolutions",
+"tp": "filme",
+"imdb": {
+"id": "tt0242653",
+"exato": false,
+"nota": 6.8,
+"votos": 582182
+},
+"achou": "The Matrix Revolutions (2003) (IMDb)"
+},
+"matrix-resurrections": {
+"t": "Matrix Resurrections",
+"tp": "filme",
+"imdb": {
+"id": "tt10838180",
+"exato": false,
+"nota": 5.6,
+"votos": 308326
+},
+"achou": "The Matrix Resurrections (2021) (IMDb)"
+},
+"homem-aranha-de-volta-ao-lar": {
+"t": "Homem-Aranha: De Volta ao Lar",
+"tp": "filme",
+"imdb": {
+"id": "tt2250912",
+"exato": true,
+"nota": 7.4,
+"votos": 845639
+},
+"achou": "Spider-Man: Homecoming (2017) (IMDb)"
+},
+"homem-aranha-longe-de-casa": {
+"t": "Homem-Aranha: Longe de Casa",
+"tp": "filme",
+"imdb": {
+"id": "tt6320628",
+"exato": false,
+"nota": 7.3,
+"votos": 683226
+},
+"achou": "Spider-Man: Far from Home (2019) (IMDb)"
+},
+"homem-aranha-sem-volta-para-casa": {
+"t": "Homem-Aranha: Sem Volta para Casa",
+"tp": "filme",
+"imdb": {
+"id": "tt10872600",
+"exato": true,
+"nota": 8.1,
+"votos": 1086242
+},
+"achou": "Spider-Man: No Way Home (2021) (IMDb)"
+},
+"os-vingadores": {
+"t": "Os Vingadores",
+"tp": "filme",
+"imdb": {
+"id": "tt0848228",
+"exato": true,
+"nota": 8,
+"votos": 1590731
+},
+"achou": "The Avengers (2012) (IMDb)"
+},
+"vingadores-era-de-ultron": {
+"t": "Vingadores: Era de Ultron",
+"tp": "filme",
+"imdb": {
+"id": "tt2395427",
+"exato": false,
+"nota": 7.3,
+"votos": 1029263
+},
+"achou": "Avengers: Age of Ultron (2015) (IMDb)"
+},
+"vingadores-guerra-infinita": {
+"t": "Vingadores: Guerra Infinita",
+"tp": "filme",
+"imdb": {
+"id": "tt4154756",
+"exato": false,
+"nota": 8.4,
+"votos": 1422017
+},
+"achou": "Avengers: Infinity War (2018) (IMDb)"
+},
+"vingadores-ultimato": {
+"t": "Vingadores: Ultimato",
+"tp": "filme",
+"imdb": {
+"id": "tt4154796",
+"exato": true,
+"nota": 8.4,
+"votos": 1505474
+},
+"achou": "Avengers: Endgame (2019) (IMDb)"
+},
+"homem-de-ferro": {
+"t": "Homem de Ferro",
+"tp": "filme",
+"imdb": {
+"id": "tt0371746",
+"exato": false,
+"nota": 7.9,
+"votos": 1257524
+},
+"achou": "Iron Man (2008) (IMDb)"
+},
+"homem-de-ferro-2": {
+"t": "Homem de Ferro 2",
+"tp": "filme",
+"imdb": {
+"id": "tt1228705",
+"exato": false,
+"nota": 6.9,
+"votos": 963472
+},
+"achou": "Iron Man 2 (2010) (IMDb)"
+},
+"homem-de-ferro-3": {
+"t": "Homem de Ferro 3",
+"tp": "filme",
+"imdb": {
+"id": "tt1300854",
+"exato": false,
+"nota": 7.1,
+"votos": 989661
+},
+"achou": "Iron Man 3 (2013) (IMDb)"
+},
+"guardioes-da-galaxia": {
+"t": "Guardiões da Galáxia",
+"tp": "filme",
+"imdb": {
+"id": "tt2015381",
+"exato": true,
+"nota": 8,
+"votos": 1391611
+},
+"achou": "Guardians of the Galaxy (2014) (IMDb)"
+},
+"guardioes-da-galaxia-vol-2": {
+"t": "Guardiões da Galáxia Vol. 2",
+"tp": "filme",
+"imdb": {
+"id": "tt3896198",
+"exato": false,
+"nota": 7.6,
+"votos": 852373
+},
+"achou": "Guardians of the Galaxy: Vol. 2 (2017) (IMDb)"
+},
+"guardioes-da-galaxia-vol-3": {
+"t": "Guardiões da Galáxia Vol. 3",
+"tp": "filme",
+"imdb": {
+"id": "tt6791350",
+"exato": true,
+"nota": 7.9,
+"votos": 492987
+},
+"achou": "Guardians of the Galaxy Vol. 3 (2023) (IMDb)"
+},
+"deadpool": {
+"t": "Deadpool",
+"tp": "filme",
+"imdb": {
+"id": "tt1431045",
+"exato": true,
+"nota": 8,
+"votos": 1277948
+},
+"achou": "Deadpool (2016) (IMDb)"
+},
+"deadpool-2": {
+"t": "Deadpool 2",
+"tp": "filme",
+"imdb": {
+"id": "tt5463162",
+"exato": true,
+"nota": 7.6,
+"votos": 762547
+},
+"achou": "Deadpool 2 (2018) (IMDb)"
+},
+"deadpool-wolverine": {
+"t": "Deadpool & Wolverine",
+"tp": "filme",
+"imdb": {
+"id": "tt6263850",
+"exato": true,
+"nota": 7.5,
+"votos": 601123
+},
+"achou": "Deadpool & Wolverine (2024) (IMDb)"
+},
+"velozes-e-furiosos": {
+"t": "Velozes e Furiosos",
+"tp": "filme",
+"imdb": {
+"id": "tt0232500",
+"exato": true,
+"nota": 6.8,
+"votos": 469340
+},
+"achou": "The Fast and the Furious (2001) (IMDb)"
+},
+"velozes-e-furiosos-2": {
+"t": "Velozes e Furiosos 2",
+"tp": "filme",
+"imdb": {
+"id": "tt0322259",
+"exato": true,
+"nota": 6,
+"votos": 332185
+},
+"achou": "2 Fast 2 Furious (2003) (IMDb)"
+},
+"velozes-e-furiosos-desafio-em-toquio": {
+"t": "Velozes e Furiosos: Desafio em Tóquio",
+"tp": "filme",
+"imdb": {
+"id": "tt0463985",
+"exato": true,
+"nota": 6.1,
+"votos": 340870
+},
+"achou": "The Fast and the Furious: Tokyo Drift (2006) (IMDb)"
+},
+"se-beber-nao-case": {
+"t": "Se Beber, Não Case",
+"tp": "filme",
+"imdb": {
+"id": "tt1119646",
+"exato": true,
+"nota": 7.7,
+"votos": 949709
+},
+"achou": "The Hangover (2009) (IMDb)"
+},
+"se-beber-nao-case-parte-ii": {
+"t": "Se Beber, Não Case! Parte II",
+"tp": "filme",
+"imdb": {
+"id": "tt1411697",
+"exato": true,
+"nota": 6.5,
+"votos": 589004
+},
+"achou": "The Hangover Part II (2011) (IMDb)"
+},
+"se-beber-nao-case-parte-iii": {
+"t": "Se Beber, Não Case! Parte III",
+"tp": "filme",
+"imdb": {
+"id": "tt1951261",
+"exato": false,
+"nota": 5.9,
+"votos": 371093
+},
+"achou": "The Hangover Part III (2013) (IMDb)"
+},
+"john-wick-de-volta-ao-jogo": {
+"t": "John Wick: De Volta ao Jogo",
+"tp": "filme",
+"imdb": {
+"id": "tt2911666",
+"exato": true,
+"nota": 7.5,
+"votos": 845101
+},
+"achou": "John Wick (2014) (IMDb)"
+},
+"john-wick-2-um-novo-dia-para-matar": {
+"t": "John Wick 2: Um Novo Dia para Matar",
+"tp": "filme",
+"imdb": {
+"id": "tt4425200",
+"exato": true,
+"nota": 7.4,
+"votos": 581821
+},
+"achou": "John Wick: Chapter 2 (2017) (IMDb)"
+},
+"john-wick-3-parabellum": {
+"t": "John Wick 3: Parabellum",
+"tp": "filme",
+"imdb": {
+"id": "tt6146586",
+"exato": true,
+"nota": 7.4,
+"votos": 490955
+},
+"achou": "John Wick: Chapter 3 - Parabellum (2019) (IMDb)"
+},
+"john-wick-4-baba-yaga": {
+"t": "John Wick 4: Baba Yaga",
+"tp": "filme",
+"imdb": {
+"id": "tt10366206",
+"exato": false,
+"nota": 7.6,
+"votos": 422470
+},
+"achou": "John Wick: Chapter 4 (2023) (IMDb)"
+},
+"perdido-em-marte": {
+"t": "Perdido em Marte",
+"tp": "filme",
+"imdb": {
+"id": "tt3659388",
+"exato": false,
+"nota": 8,
+"votos": 1035622
+},
+"achou": "The Martian (2015) (IMDb)"
+},
+"devoradores-de-estrelas": {
+"t": "Devoradores de Estrelas",
+"tp": "filme",
+"imdb": {
+"id": "tt12042730",
+"exato": false,
+"nota": 8.2,
+"votos": 593778
+},
+"achou": "Project Hail Mary (2026) (IMDb)"
+},
+"resgate": {
+"t": "Resgate",
+"tp": "filme",
+"imdb": {
+"id": "tt8936646",
+"exato": true,
+"nota": 6.8,
+"votos": 295632
+},
+"achou": "Extraction (2020) (IMDb)"
+},
+"lv999-no-amor-lv999-no-murabito": {
+"t": "Lv999 no Amor (Lv999 no Murabito)",
+"tp": "anime",
+"anilist": null,
+"mal": null,
+"kitsu": null,
+"achou": null
+},
+"katainaka-no-ossan-kenshi-ni-naru": {
+"t": "Katainaka no Ossan, Kenshi ni Naru",
+"tp": "anime",
+"achou": "From Old Country Bumpkin to Master Swordsman (2025) (AniList)",
+"anilist": {
+"nota": 6.9
+},
+"mal": null,
+"kitsu": {
+"nota": 7.1,
+"votos": 3194,
+"achou": "Katainaka no Ossan, Kensei ni Naru"
+}
+},
+"hell-mode-gamer-who-likes-hardcore-game-becomes-master-in-a-parallel-world": {
+"t": "Hell Mode: Gamer Who Likes Hardcore Game Becomes Master in a Parallel World",
+"tp": "anime",
+"anilist": null,
+"mal": null,
+"kitsu": null,
+"achou": null
+},
+"away": {
+"t": "Away",
+"tp": "serie",
+"imdb": null,
+"achou": null,
+"tvmaze": {
+"nota": 6.2
+}
+},
+"mars": {
+"t": "Mars",
+"tp": "serie",
+"imdb": null,
+"achou": null,
+"tvmaze": {
+"nota": 7.5
+}
+},
+"boruto": {
+"t": "Boruto",
+"tp": "anime",
+"achou": "Boruto: Naruto Next Generations (2017) (AniList)",
+"anilist": {
+"nota": 5.6
+},
+"mal": null,
+"kitsu": {
+"nota": 6.4,
+"votos": 64980,
+"achou": "Boruto: Naruto Next Generations"
+}
+},
+"demon-slayer": {
+"t": "Demon Slayer",
+"tp": "anime",
+"achou": "Demon Slayer: Kimetsu no Yaiba (2019) (AniList)",
+"anilist": {
+"nota": 8.2
+},
+"mal": null,
+"kitsu": {
+"nota": 8.6,
+"votos": 403865,
+"achou": "Kimetsu no Yaiba"
+}
+},
+"jumanji-os-novos": {
+"t": "Jumanji (os novos)",
+"tp": "filme",
+"imdb": {
+"id": "tt2283362",
+"exato": true,
+"nota": 6.9,
+"votos": 515160
+},
+"achou": "Jumanji: Welcome to the Jungle (2017) (IMDb)"
+},
+"capitao-america": {
+"t": "Capitão América",
+"tp": "filme",
+"imdb": {
+"id": "tt0458339",
+"exato": true,
+"nota": 6.9,
+"votos": 993480
+},
+"achou": "Captain America: The First Avenger (2011) (IMDb)"
+},
+"operacao-furia": {
+"t": "Operação Fúria",
+"tp": "filme",
+"imdb": {
+"id": "tt2713180",
+"exato": true,
+"nota": 7.6,
+"votos": 622741
+},
+"achou": "Fury (2014) (IMDb)"
+},
+"jurassic-park-world": {
+"t": "Jurassic Park/World",
+"tp": "filme",
+"imdb": {
+"id": "tt0107290",
+"exato": true,
+"nota": 8.2,
+"votos": 1205354
+},
+"achou": "Jurassic Park (1993) (IMDb)"
+},
+"pantera-negra": {
+"t": "Pantera Negra",
+"tp": "filme",
+"imdb": {
+"id": "tt1825683",
+"exato": true,
+"nota": 7.3,
+"votos": 931953
+},
+"achou": "Black Panther (2018) (IMDb)"
+},
+"sem-limites": {
+"t": "Sem Limites",
+"tp": "filme",
+"imdb": {
+"id": "tt1219289",
+"exato": true,
+"nota": 7.4,
+"votos": 657105
+},
+"achou": "Limitless (2011) (IMDb)"
+}
 }
