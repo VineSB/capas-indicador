@@ -1,0 +1,30 @@
+name: Buscar notas
+on:
+  push:
+    paths: ["titulos.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: notas
+  cancel-in-progress: false
+jobs:
+  notas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Buscar notas
+        run: node scripts/notas.mjs 2>&1 | tee ultimo-log-notas.txt
+      - name: Guardar no repositório
+        run: |
+          git config user.name "capas-bot"
+          git config user.email "capas-bot@users.noreply.github.com"
+          git add -f notas.json ultimo-log-notas.txt
+          if git diff --cached --quiet; then echo "nada novo"; exit 0; fi
+          git commit -m "Notas: atualização automática"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
