@@ -1,1486 +1,1534 @@
 [
-{
-"t": "Rush",
-"tp": "filme",
-"s": "rush"
-},
-{
-"t": "Perdidos no Espaço",
-"tp": "serie",
-"s": "perdidos-no-espaco",
-"q": "Lost in Space"
-},
-{
-"t": "Naruto",
-"tp": "anime",
-"s": "naruto"
-},
-{
-"t": "Lv999 no Amor (Lv999 no Murabito)",
-"tp": "anime",
-"s": "lv999-no-amor-lv999-no-murabito",
-"q": "Lv999 no Murabito to Koi wo Shita"
-},
-{
-"t": "Sword Art Online",
-"tp": "anime",
-"s": "sword-art-online",
-"q": "Sword Art Online"
-},
-{
-"t": "The 100",
-"tp": "serie",
-"q": "The 100",
-"s": "the-100"
-},
-{
-"t": "Fire Force",
-"tp": "anime",
-"s": "fire-force"
-},
-{
-"t": "Akame ga Kill!",
-"tp": "anime",
-"s": "akame-ga-kill",
-"q": "Akame ga Kill!"
-},
-{
-"t": "Jogos Vorazes: A Esperança - Parte 1",
-"tp": "filme",
-"s": "jogos-vorazes-a-esperanca-parte-1",
-"imdb": "The Hunger Games: Mockingjay - Part 1",
-"ano": 2014
-},
-{
-"t": "The Walking Dead",
-"tp": "serie",
-"s": "the-walking-dead"
-},
-{
-"t": "Gente Grande",
-"tp": "filme",
-"s": "gente-grande",
-"imdb": "Grown Ups",
-"ano": 2010
-},
-{
-"t": "Hitman Reborn!",
-"tp": "anime",
-"q": "Katekyo Hitman Reborn!",
-"s": "hitman-reborn"
-},
-{
-"t": "Cobra Kai",
-"tp": "serie",
-"s": "cobra-kai",
-"q": "Cobra Kai"
-},
-{
-"t": "Re:Monster",
-"tp": "anime",
-"s": "re-monster",
-"q": "Re:Monster"
-},
-{
-"t": "Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes",
-"tp": "filme",
-"s": "jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes",
-"imdb": "The Hunger Games: The Ballad of Songbirds & Snakes",
-"ano": 2023
-},
-{
-"t": "Ascensão do Herói do Escudo",
-"tp": "anime",
-"s": "ascensao-do-heroi-do-escudo",
-"q": "Tate no Yuusha no Nariagari"
-},
-{
-"t": "O Problema dos 3 Corpos",
-"tp": "serie",
-"s": "o-problema-dos-3-corpos",
-"q": "3 Body Problem"
-},
-{
-"t": "The Beginning After the End",
-"tp": "anime",
-"s": "the-beginning-after-the-end",
-"q": "The Beginning After the End"
-},
-{
-"t": "Need for Speed: O Filme",
-"tp": "filme",
-"s": "need-for-speed-o-filme",
-"imdb": "Need for Speed",
-"ano": 2014
-},
-{
-"t": "Animais Fantásticos: Os Crimes de Grindelwald",
-"tp": "filme",
-"s": "animais-fantasticos-os-crimes-de-grindelwald",
-"imdb": "Fantastic Beasts: The Crimes of Grindelwald",
-"ano": 2018
-},
-{
-"t": "Assassination Classroom",
-"tp": "anime",
-"s": "assassination-classroom",
-"q": "Ansatsu Kyoushitsu"
-},
-{
-"t": "A Lista Terminal: Dark Wolf",
-"tp": "serie",
-"q": "The Terminal List: Dark Wolf",
-"s": "a-lista-terminal-dark-wolf"
-},
-{
-"t": "Sword Art Online: Alicization",
-"tp": "anime",
-"s": "sword-art-online-alicization",
-"q": "Sword Art Online: Alicization"
-},
-{
-"t": "A Série Divergente: Insurgente",
-"tp": "filme",
-"s": "a-serie-divergente-insurgente",
-"imdb": "The Divergent Series: Insurgent",
-"ano": 2015
-},
-{
-"t": "Jack Ryan",
-"tp": "serie",
-"s": "jack-ryan"
-},
-{
-"t": "Maze Runner: A Cura Mortal",
-"tp": "filme",
-"s": "maze-runner-a-cura-mortal",
-"imdb": "Maze Runner: The Death Cure",
-"ano": 2018
-},
-{
-"t": "See",
-"tp": "serie",
-"q": "See",
-"s": "see"
-},
-{
-"t": "Ford vs Ferrari",
-"tp": "filme",
-"s": "ford-vs-ferrari"
-},
-{
-"t": "Nobody: Ninguém",
-"tp": "filme",
-"s": "nobody-ninguem",
-"imdb": "Nobody",
-"ano": 2021,
-"wq": "Nobody (2021 film)"
-},
-{
-"t": "Agente Stone",
-"tp": "filme",
-"s": "agente-stone",
-"imdb": "Heart of Stone",
-"ano": 2023
-},
-{
-"t": "Wind Breaker",
-"tp": "anime",
-"s": "wind-breaker"
-},
-{
-"t": "Gran Turismo: De Jogador a Corredor",
-"tp": "filme",
-"s": "gran-turismo-de-jogador-a-corredor",
-"imdb": "Gran Turismo",
-"ano": 2023
-},
-{
-"t": "Dark",
-"tp": "serie",
-"s": "dark"
-},
-{
-"t": "Jogos Vorazes",
-"tp": "filme",
-"s": "jogos-vorazes",
-"imdb": "The Hunger Games",
-"ano": 2012
-},
-{
-"t": "Animais Fantásticos e Onde Habitam",
-"tp": "filme",
-"s": "animais-fantasticos-e-onde-habitam",
-"imdb": "Fantastic Beasts and Where to Find Them",
-"ano": 2016
-},
-{
-"t": "The Night Agent",
-"tp": "serie",
-"s": "the-night-agent",
-"q": "The Night Agent"
-},
-{
-"t": "Boruto: Naruto Next Generations",
-"tp": "anime",
-"q": "Boruto: Naruto Next Generations",
-"s": "boruto-naruto-next-generations"
-},
-{
-"t": "Chainsaw Man",
-"tp": "anime",
-"s": "chainsaw-man"
-},
-{
-"t": "Mato Seihei no Slave",
-"tp": "anime",
-"q": "Mato Seihei no Slave",
-"s": "mato-seihei-no-slave"
-},
-{
-"t": "A Série Divergente: Convergente",
-"tp": "filme",
-"s": "a-serie-divergente-convergente",
-"imdb": "The Divergent Series: Allegiant",
-"ano": 2016
-},
-{
-"t": "Detetive Pikachu",
-"tp": "filme",
-"s": "detetive-pikachu",
-"imdb": "Pokémon Detective Pikachu",
-"ano": 2019
-},
-{
-"t": "Jogos Vorazes: Em Chamas",
-"tp": "filme",
-"s": "jogos-vorazes-em-chamas",
-"imdb": "The Hunger Games: Catching Fire",
-"ano": 2013
-},
-{
-"t": "Maze Runner: Prova de Fogo",
-"tp": "filme",
-"s": "maze-runner-prova-de-fogo",
-"imdb": "Maze Runner: The Scorch Trials",
-"ano": 2015
-},
-{
-"t": "Jujutsu Kaisen 0",
-"tp": "filme",
-"s": "jujutsu-kaisen-0",
-"q": "Jujutsu Kaisen 0"
-},
-{
-"t": "Arifureta: Da Classe Média ao Mais Forte do Mundo",
-"tp": "anime",
-"s": "arifureta-da-classe-media-ao-mais-forte-do-mundo",
-"q": "Arifureta Shokugyou de Sekai Saikyou"
-},
-{
-"t": "Lupin",
-"tp": "serie",
-"q": "Lupin",
-"s": "lupin"
-},
-{
-"t": "Kingsman: O Círculo Dourado",
-"tp": "filme",
-"s": "kingsman-o-circulo-dourado",
-"imdb": "Kingsman: The Golden Circle",
-"ano": 2017
-},
-{
-"t": "Blue Exorcist",
-"tp": "anime",
-"s": "blue-exorcist",
-"q": "Ao no Exorcist"
-},
-{
-"t": "Undead Unluck",
-"tp": "anime",
-"s": "undead-unluck",
-"q": "Undead Unluck"
-},
-{
-"t": "Katainaka no Ossan, Kenshi ni Naru",
-"tp": "anime",
-"s": "katainaka-no-ossan-kenshi-ni-naru",
-"q": "Katainaka no Ossan, Kensei ni Naru"
-},
-{
-"t": "Todo Mundo Odeia o Chris",
-"tp": "serie",
-"s": "todo-mundo-odeia-o-chris",
-"q": "Everybody Hates Chris"
-},
-{
-"t": "Shangri-La Frontier",
-"tp": "anime",
-"s": "shangri-la-frontier"
-},
-{
-"t": "Fairy Tail",
-"tp": "anime",
-"q": "Fairy Tail",
-"s": "fairy-tail"
-},
-{
-"t": "Maze Runner: Correr ou Morrer",
-"tp": "filme",
-"s": "maze-runner-correr-ou-morrer",
-"imdb": "The Maze Runner",
-"ano": 2014
-},
-{
-"t": "Django Livre",
-"tp": "filme",
-"imdb": "Django Unchained",
-"ano": 2012,
-"s": "django-livre"
-},
-{
-"t": "Divergente",
-"tp": "filme",
-"s": "divergente",
-"imdb": "Divergent",
-"ano": 2014
-},
-{
-"t": "Atômica",
-"tp": "filme",
-"s": "atomica"
-},
-{
-"t": "Fullmetal Alchemist",
-"tp": "anime",
-"s": "fullmetal-alchemist",
-"q": "Hagane no Renkinjutsushi"
-},
-{
-"t": "Agentes Muito Especiais",
-"tp": "filme",
-"s": "agentes-muito-especiais",
-"imdb": "Agentes Muito Especiais",
-"ano": 2025,
-"wq": "Agentes Muito Especiais"
-},
-{
-"t": "Gen V",
-"tp": "serie",
-"s": "gen-v",
-"q": "Gen V"
-},
-{
-"t": "Seven Deadly Sins",
-"tp": "anime",
-"s": "seven-deadly-sins",
-"q": "The Seven Deadly Sins"
-},
-{
-"t": "Bleach: Thousand-Year Blood War",
-"tp": "anime",
-"q": "Bleach: Thousand-Year Blood War",
-"s": "bleach-thousand-year-blood-war"
-},
-{
-"t": "Wistoria: Wand and Sword",
-"tp": "anime",
-"s": "wistoria-wand-and-sword",
-"q": "Tsue to Tsurugi no Wistoria"
-},
-{
-"t": "Log Horizon",
-"tp": "anime",
-"s": "log-horizon",
-"q": "Log Horizon"
-},
-{
-"t": "Kingsman: Serviço Secreto",
-"tp": "filme",
-"s": "kingsman-servico-secreto",
-"imdb": "Kingsman: The Secret Service",
-"ano": 2014
-},
-{
-"t": "The Mandalorian",
-"tp": "serie",
-"s": "the-mandalorian",
-"q": "The Mandalorian"
-},
-{
-"t": "Sicario: Terra de Ninguém",
-"tp": "filme",
-"s": "sicario-terra-de-ninguem",
-"imdb": "Sicario",
-"ano": 2015
-},
-{
-"t": "Animais Fantásticos: Os Segredos de Dumbledore",
-"tp": "filme",
-"s": "animais-fantasticos-os-segredos-de-dumbledore",
-"imdb": "Fantastic Beasts: The Secrets of Dumbledore",
-"ano": 2022
-},
-{
-"t": "Naruto Shippuden",
-"tp": "anime",
-"q": "Naruto Shippuden",
-"s": "naruto-shippuden"
-},
-{
-"t": "Jogos Vorazes: A Esperança - O Final",
-"tp": "filme",
-"s": "jogos-vorazes-a-esperanca-o-final",
-"imdb": "The Hunger Games: Mockingjay - Part 2",
-"ano": 2015
-},
-{
-"t": "Prison School",
-"tp": "anime",
-"q": "Prison School",
-"s": "prison-school"
-},
-{
-"t": "Hell Mode: Gamer Who Likes Hardcore Game Becomes Master in a Parallel World",
-"tp": "anime",
-"s": "hell-mode-gamer-who-likes-hardcore-game-becomes-master-in-a-parallel-world",
-"q": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru"
-},
-{
-"t": "Rei Arthur: A Lenda da Espada",
-"tp": "filme",
-"s": "rei-arthur-a-lenda-da-espada",
-"imdb": "King Arthur: Legend of the Sword",
-"ano": 2017
-},
-{
-"t": "Lazarus",
-"tp": "anime",
-"s": "lazarus",
-"q": "Lazarus"
-},
-{
-"t": "Shuumatsu no Harem (World's End Harem)",
-"tp": "anime",
-"q": "Shuumatsu no Harem",
-"s": "shuumatsu-no-harem-world-s-end-harem"
-},
-{
-"t": "Sombra e Ossos",
-"tp": "serie",
-"s": "sombra-e-ossos",
-"q": "Shadow and Bone"
-},
-{
-"t": "The Expanse",
-"tp": "serie",
-"s": "the-expanse",
-"q": "The Expanse"
-},
-{
-"t": "Altered Carbon",
-"tp": "serie",
-"s": "altered-carbon",
-"q": "Altered Carbon"
-},
-{
-"t": "Away",
-"tp": "serie",
-"s": "away",
-"q": "Away",
-"imdb": "Away",
-"ano": 2020,
-"strict": true
-},
-{
-"t": "Little Witch Academia",
-"tp": "anime",
-"s": "little-witch-academia",
-"q": "Little Witch Academia"
-},
-{
-"t": "Mars",
-"tp": "serie",
-"s": "mars",
-"q": "Mars",
-"imdb": "Mars",
-"ano": 2016,
-"strict": true
-},
-{
-"t": "Para Toda a Humanidade",
-"tp": "serie",
-"s": "para-toda-a-humanidade",
-"q": "For All Mankind"
-},
-{
-"t": "Reacher: Jack Reacher - Dia de Matar",
-"tp": "filme",
-"s": "reacher-jack-reacher-dia-de-matar",
-"imdb": "Jack Reacher: Never Go Back",
-"ano": 2016
-},
-{
-"t": "Dark Matter",
-"tp": "serie",
-"s": "dark-matter",
-"imdb": "Dark Matter",
-"ano": 2024
-},
-{
-"t": "Vikings: Valhalla",
-"tp": "serie",
-"s": "vikings-valhalla",
-"q": "Vikings: Valhalla"
-},
-{
-"t": "Magi: O Labirinto da Magia",
-"tp": "anime",
-"s": "magi-o-labirinto-da-magia",
-"q": "Magi: The Labyrinth of Magic"
-},
-{
-"t": "Rosario + Vampire",
-"tp": "anime",
-"q": "Rosario to Vampire",
-"s": "rosario-vampire"
-},
-{
-"t": "Constelação",
-"tp": "serie",
-"s": "constelacao",
-"q": "Constellation"
-},
-{
-"t": "Raised by Wolves",
-"tp": "serie",
-"s": "raised-by-wolves",
-"q": "Raised by Wolves"
-},
-{
-"t": "Kekkai Sensen",
-"tp": "anime",
-"q": "Kekkai Sensen",
-"s": "kekkai-sensen"
-},
-{
-"t": "Kanojo, Okarishimasu (Rent-a-Girlfriend)",
-"tp": "anime",
-"q": "Kanojo, Okarishimasu",
-"s": "kanojo-okarishimasu-rent-a-girlfriend"
-},
-{
-"t": "High School DxD",
-"tp": "anime",
-"q": "High School DxD",
-"s": "high-school-dxd"
-},
-{
-"t": "Ranma ½",
-"tp": "anime",
-"s": "ranma",
-"q": "Ranma 1/2 2024"
-},
-{
-"t": "Kaguya-sama: Love is War",
-"tp": "anime",
-"s": "kaguya-sama-love-is-war"
-},
-{
-"t": "Terra de Ninguém (Warrior)",
-"tp": "serie",
-"s": "terra-de-ninguem-warrior",
-"q": "Warrior"
-},
-{
-"t": "Uncle from Another World",
-"tp": "anime",
-"q": "Isekai Ojisan",
-"s": "uncle-from-another-world"
-},
-{
-"t": "Grand BLUE dreaming",
-"tp": "anime",
-"s": "grand-blue-dreaming"
-},
-{
-"t": "Duna: Parte Dois",
-"tp": "filme",
-"s": "duna-parte-dois"
-},
-{
-"t": "Jason Bourne",
-"tp": "filme",
-"s": "jason-bourne"
-},
-{
-"t": "Sons of Anarchy",
-"tp": "serie",
-"s": "sons-of-anarchy"
-},
-{
-"t": "Cowboy Bebop",
-"tp": "anime",
-"s": "cowboy-bebop"
-},
-{
-"t": "Hajime no Ippo",
-"tp": "anime",
-"s": "hajime-no-ippo"
-},
-{
-"t": "Slam Dunk",
-"tp": "anime",
-"s": "slam-dunk"
-},
-{
-"t": "Black Doves S2",
-"tp": "serie",
-"s": "black-doves-s2"
-},
-{
-"t": "Godzilla Minus Zero",
-"tp": "filme",
-"imdb": "Godzilla Minus Zero",
-"ano": 2026,
-"s": "godzilla-minus-zero"
-},
-{
-"t": "Como Roubar Um Banco",
-"tp": "filme",
-"s": "como-roubar-um-banco"
-},
-{
-"t": "Vingadores: Doutor Destino",
-"tp": "filme",
-"s": "vingadores-doutor-destino"
-},
-{
-"t": "Returner's Magic Should Be Special S2",
-"tp": "anime",
-"s": "returner-s-magic-should-be-special-s2"
-},
-{
-"t": "Iceblade Sorcerer Shall Rule the World II",
-"tp": "anime",
-"s": "iceblade-sorcerer-shall-rule-the-world-ii"
-},
-{
-"t": "Mashle",
-"tp": "anime",
-"s": "mashle"
-},
-{
-"t": "Dan Da Dan",
-"tp": "anime",
-"s": "dan-da-dan"
-},
-{
-"t": "Mushoku Tensei",
-"tp": "anime",
-"s": "mushoku-tensei"
-},
-{
-"t": "Solo Leveling",
-"tp": "anime",
-"s": "solo-leveling"
-},
-{
-"t": "Tomb Raider King",
-"tp": "anime",
-"s": "tomb-raider-king"
-},
-{
-"t": "My Dress-Up Darling",
-"tp": "anime",
-"s": "my-dress-up-darling"
-},
-{
-"t": "MF Ghost",
-"tp": "anime",
-"s": "mf-ghost"
-},
-{
-"t": "The Water Magician",
-"tp": "anime",
-"s": "the-water-magician"
-},
-{
-"t": "Boruto",
-"tp": "anime",
-"s": "boruto",
-"q": "Boruto: Naruto Next Generations"
-},
-{
-"t": "Re:Zero",
-"tp": "anime",
-"s": "re-zero"
-},
-{
-"t": "Overlord",
-"tp": "anime",
-"s": "overlord"
-},
-{
-"t": "Dr. Stone",
-"tp": "anime",
-"s": "dr-stone"
-},
-{
-"t": "I Became a Legend after My 10 Year-Long Last Stand",
-"tp": "anime",
-"s": "i-became-a-legend-after-my-10-year-long-last-stand"
-},
-{
-"t": "The Villager of Level 999",
-"tp": "anime",
-"s": "the-villager-of-level-999"
-},
-{
-"t": "Trapped in a Dating Sim 2",
-"tp": "anime",
-"s": "trapped-in-a-dating-sim-2"
-},
-{
-"t": "One Piece",
-"tp": "anime",
-"s": "one-piece"
-},
-{
-"t": "Black Clover",
-"tp": "anime",
-"s": "black-clover"
-},
-{
-"t": "Kuroko no Basket",
-"tp": "anime",
-"s": "kuroko-no-basket"
-},
-{
-"t": "Blue Lock",
-"tp": "anime",
-"s": "blue-lock"
-},
-{
-"t": "Attack on Titan",
-"tp": "anime",
-"s": "attack-on-titan"
-},
-{
-"t": "Fullmetal Alchemist: Brotherhood",
-"tp": "anime",
-"s": "fullmetal-alchemist-brotherhood"
-},
-{
-"t": "My Hero Academia",
-"tp": "anime",
-"s": "my-hero-academia"
-},
-{
-"t": "Sakamoto Days",
-"tp": "anime",
-"s": "sakamoto-days"
-},
-{
-"t": "Spy x Family",
-"tp": "anime",
-"s": "spy-x-family"
-},
-{
-"t": "Mob Psycho 100",
-"tp": "anime",
-"s": "mob-psycho-100"
-},
-{
-"t": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill",
-"tp": "anime",
-"s": "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill"
-},
-{
-"t": "Aoashi",
-"tp": "anime",
-"s": "aoashi"
-},
-{
-"t": "Smoking Behind the Supermarket with You",
-"tp": "anime",
-"s": "smoking-behind-the-supermarket-with-you"
-},
-{
-"t": "Soul Eater",
-"tp": "anime",
-"s": "soul-eater"
-},
-{
-"t": "Clevatess",
-"tp": "anime",
-"s": "clevatess"
-},
-{
-"t": "Yomi no Tsugai",
-"tp": "anime",
-"s": "yomi-no-tsugai"
-},
-{
-"t": "The World's Strongest Rearguard",
-"tp": "anime",
-"s": "the-world-s-strongest-rearguard"
-},
-{
-"t": "Black Torch",
-"tp": "anime",
-"s": "black-torch"
-},
-{
-"t": "The Frontier Lord Begins with Zero Subjects",
-"tp": "anime",
-"s": "the-frontier-lord-begins-with-zero-subjects"
-},
-{
-"t": "The Great Cleric",
-"tp": "anime",
-"s": "the-great-cleric"
-},
-{
-"t": "From Overshadowed to Overpowered",
-"tp": "anime",
-"s": "from-overshadowed-to-overpowered"
-},
-{
-"t": "Hell's Paradise",
-"tp": "anime",
-"s": "hell-s-paradise"
-},
-{
-"t": "One Punch Man",
-"tp": "anime",
-"s": "one-punch-man"
-},
-{
-"t": "Vinland Saga",
-"tp": "anime",
-"s": "vinland-saga"
-},
-{
-"t": "Cyberpunk: Edgerunners",
-"tp": "anime",
-"s": "cyberpunk-edgerunners"
-},
-{
-"t": "Kaiju No. 8",
-"tp": "anime",
-"s": "kaiju-no-8"
-},
-{
-"t": "The Exiled Heavy Knight Knows How to Game the System",
-"tp": "anime",
-"s": "the-exiled-heavy-knight-knows-how-to-game-the-system"
-},
-{
-"t": "Tsukimichi",
-"tp": "anime",
-"s": "tsukimichi"
-},
-{
-"t": "Fate/strange Fake",
-"tp": "anime",
-"s": "fate-strange-fake"
-},
-{
-"t": "Gachiakuta",
-"tp": "anime",
-"s": "gachiakuta"
-},
-{
-"t": "Blood Lad",
-"tp": "anime",
-"s": "blood-lad"
-},
-{
-"t": "So What's Wrong with Getting Reborn as a Goblin?",
-"tp": "anime",
-"s": "so-what-s-wrong-with-getting-reborn-as-a-goblin",
-"q": "Tensei Goblin dakedo Shitsumon aru?"
-},
-{
-"t": "Overgeared",
-"tp": "anime",
-"s": "overgeared"
-},
-{
-"t": "Magical Explorer",
-"tp": "anime",
-"s": "magical-explorer"
-},
-{
-"t": "Magic Repo Man",
-"tp": "anime",
-"s": "magic-repo-man"
-},
-{
-"t": "The Laid-Off Cheat-Granting Mage",
-"tp": "anime",
-"s": "the-laid-off-cheat-granting-mage"
-},
-{
-"t": "Jujutsu Kaisen",
-"tp": "anime",
-"s": "jujutsu-kaisen"
-},
-{
-"t": "Demon Slayer",
-"tp": "anime",
-"s": "demon-slayer",
-"q": "Kimetsu no Yaiba"
-},
-{
-"t": "Hunter x Hunter",
-"tp": "anime",
-"s": "hunter-x-hunter"
-},
-{
-"t": "Konosuba",
-"tp": "anime",
-"s": "konosuba"
-},
-{
-"t": "Gintama",
-"tp": "anime",
-"s": "gintama"
-},
-{
-"t": "Bleach",
-"tp": "anime",
-"s": "bleach"
-},
-{
-"t": "That Time I Got Reincarnated as a Slime",
-"tp": "anime",
-"s": "that-time-i-got-reincarnated-as-a-slime"
-},
-{
-"t": "Haikyu",
-"tp": "anime",
-"s": "haikyu"
-},
-{
-"t": "I Was Reincarnated as the 7th Prince",
-"tp": "anime",
-"s": "i-was-reincarnated-as-the-7th-prince"
-},
-{
-"t": "Frieren",
-"tp": "anime",
-"s": "frieren"
-},
-{
-"t": "Better Call Saul",
-"tp": "serie",
-"s": "better-call-saul"
-},
-{
-"t": "Squid Game",
-"tp": "serie",
-"s": "squid-game"
-},
-{
-"t": "Stranger Things",
-"tp": "serie",
-"s": "stranger-things"
-},
-{
-"t": "Prison Break",
-"tp": "serie",
-"s": "prison-break"
-},
-{
-"t": "La Casa de Papel",
-"tp": "serie",
-"s": "la-casa-de-papel"
-},
-{
-"t": "Black Mirror",
-"tp": "serie",
-"s": "black-mirror"
-},
-{
-"t": "MobLand",
-"tp": "serie",
-"s": "mobland"
-},
-{
-"t": "Invincible",
-"tp": "serie",
-"s": "invincible"
-},
-{
-"t": "Peaky Blinders",
-"tp": "serie",
-"s": "peaky-blinders"
-},
-{
-"t": "The Boys",
-"tp": "serie",
-"s": "the-boys"
-},
-{
-"t": "The Last of Us",
-"tp": "serie",
-"s": "the-last-of-us"
-},
-{
-"t": "A Casa do Dragão",
-"tp": "serie",
-"s": "a-casa-do-dragao"
-},
-{
-"t": "Reacher",
-"tp": "serie",
-"s": "reacher"
-},
-{
-"t": "A Lista Terminal",
-"tp": "serie",
-"s": "a-lista-terminal"
-},
-{
-"t": "Breaking Bad",
-"tp": "serie",
-"s": "breaking-bad"
-},
-{
-"t": "Vikings",
-"tp": "serie",
-"s": "vikings"
-},
-{
-"t": "The Witcher",
-"tp": "serie",
-"s": "the-witcher"
-},
-{
-"t": "Fallout",
-"tp": "serie",
-"s": "fallout"
-},
-{
-"t": "Game of Thrones",
-"tp": "serie",
-"s": "game-of-thrones"
-},
-{
-"t": "Sobrenatural",
-"tp": "serie",
-"s": "sobrenatural"
-},
-{
-"t": "Tropa de Elite",
-"tp": "filme",
-"s": "tropa-de-elite"
-},
-{
-"t": "Mad Max: Estrada da Fúria",
-"tp": "filme",
-"s": "mad-max-estrada-da-furia"
-},
-{
-"t": "Missão: Impossível",
-"tp": "filme",
-"s": "missao-impossivel"
-},
-{
-"t": "Interestelar",
-"tp": "filme",
-"s": "interestelar"
-},
-{
-"t": "Os Mercenários",
-"tp": "filme",
-"s": "os-mercenarios"
-},
-{
-"t": "Ready Player One",
-"tp": "filme",
-"imdb": "Ready Player One",
-"ano": 2018,
-"s": "ready-player-one"
-},
-{
-"t": "Free Guy",
-"tp": "filme",
-"s": "free-guy"
-},
-{
-"t": "Uncharted",
-"tp": "filme",
-"s": "uncharted"
-},
-{
-"t": "Jumanji (os novos)",
-"tp": "filme",
-"s": "jumanji-os-novos",
-"imdb": "Jumanji: Welcome to the Jungle",
-"ano": 2017
-},
-{
-"t": "Capitão América",
-"tp": "filme",
-"s": "capitao-america",
-"imdb": "Captain America: The First Avenger",
-"ano": 2011
-},
-{
-"t": "Homem-Formiga",
-"tp": "filme",
-"s": "homem-formiga"
-},
-{
-"t": "Anônimo",
-"tp": "filme",
-"imdb": "Nobody",
-"ano": 2021,
-"s": "anonimo"
-},
-{
-"t": "Anônimo 2",
-"tp": "filme",
-"imdb": "Nobody 2",
-"ano": 2025,
-"s": "anonimo-2"
-},
-{
-"t": "Top Gun: Maverick",
-"tp": "filme",
-"s": "top-gun-maverick"
-},
-{
-"t": "Gran Turismo",
-"tp": "filme",
-"s": "gran-turismo"
-},
-{
-"t": "No Limite do Amanhã",
-"tp": "filme",
-"imdb": "Edge of Tomorrow",
-"ano": 2014,
-"s": "no-limite-do-amanha"
-},
-{
-"t": "Bad Boys",
-"tp": "filme",
-"s": "bad-boys"
-},
-{
-"t": "Resgate 2",
-"tp": "filme",
-"imdb": "Extraction 2",
-"imdbl": "Extraction II",
-"ano": 2023,
-"s": "resgate-2"
-},
-{
-"t": "Operação Fúria",
-"tp": "filme",
-"s": "operacao-furia",
-"imdb": "Fury",
-"ano": 2014,
-"strict": true
-},
-{
-"t": "O Protetor",
-"tp": "filme",
-"s": "o-protetor"
-},
-{
-"t": "O Contador",
-"tp": "filme",
-"wb": [
-"The Accountant filme Ben Affleck",
-"O Contador filme Ben Affleck 2016"
-],
-"wm": "accountant|contador",
-"s": "o-contador",
-"alt": "The Accountant"
-},
-{
-"t": "O Contador 2",
-"tp": "filme",
-"s": "o-contador-2"
-},
-{
-"t": "Bailarina",
-"tp": "filme",
-"imdb": "Ballerina",
-"ano": 2025,
-"s": "bailarina"
-},
-{
-"t": "Jurassic Park/World",
-"tp": "filme",
-"s": "jurassic-park-world",
-"imdb": "Jurassic Park",
-"ano": 1993
-},
-{
-"t": "Piratas do Caribe",
-"tp": "filme",
-"wp": "Pirates of the Caribbean: The Curse of the Black Pearl",
-"s": "piratas-do-caribe",
-"alt": "Pirates of the Caribbean: The Curse of the Black Pearl"
-},
-{
-"t": "Thor",
-"tp": "filme",
-"s": "thor"
-},
-{
-"t": "Doutor Estranho",
-"tp": "filme",
-"s": "doutor-estranho"
-},
-{
-"t": "Pantera Negra",
-"tp": "filme",
-"s": "pantera-negra",
-"imdb": "Black Panther",
-"ano": 2018
-},
-{
-"t": "Shang-Chi",
-"tp": "filme",
-"s": "shang-chi"
-},
-{
-"t": "O Senhor dos Anéis",
-"tp": "filme",
-"imdb": "The Lord of the Rings: The Fellowship of the Ring",
-"ano": 2001,
-"s": "o-senhor-dos-aneis"
-},
-{
-"t": "Harry Potter",
-"tp": "filme",
-"s": "harry-potter"
-},
-{
-"t": "Bird Box",
-"tp": "filme",
-"s": "bird-box"
-},
-{
-"t": "Sem Limites",
-"tp": "filme",
-"s": "sem-limites",
-"imdb": "Limitless",
-"ano": 2011,
-"strict": true
-},
-{
-"t": "Matrix",
-"tp": "filme",
-"s": "matrix"
-},
-{
-"t": "Matrix Reloaded",
-"tp": "filme",
-"s": "matrix-reloaded"
-},
-{
-"t": "Matrix Revolutions",
-"tp": "filme",
-"s": "matrix-revolutions"
-},
-{
-"t": "Matrix Resurrections",
-"tp": "filme",
-"s": "matrix-resurrections"
-},
-{
-"t": "Homem-Aranha: De Volta ao Lar",
-"tp": "filme",
-"imdb": "Spider-Man: Homecoming",
-"ano": 2017,
-"s": "homem-aranha-de-volta-ao-lar"
-},
-{
-"t": "Homem-Aranha: Longe de Casa",
-"tp": "filme",
-"s": "homem-aranha-longe-de-casa"
-},
-{
-"t": "Homem-Aranha: Sem Volta para Casa",
-"tp": "filme",
-"imdb": "Spider-Man: No Way Home",
-"ano": 2021,
-"s": "homem-aranha-sem-volta-para-casa"
-},
-{
-"t": "Os Vingadores",
-"tp": "filme",
-"wp": [
-"Os Vingadores (filme)",
-"The Avengers (filme)",
-"Os Vingadores (filme de 2012)"
-],
-"s": "os-vingadores",
-"alt": "The Avengers"
-},
-{
-"t": "Vingadores: Era de Ultron",
-"tp": "filme",
-"s": "vingadores-era-de-ultron"
-},
-{
-"t": "Vingadores: Guerra Infinita",
-"tp": "filme",
-"s": "vingadores-guerra-infinita"
-},
-{
-"t": "Vingadores: Ultimato",
-"tp": "filme",
-"wp": "Avengers: Endgame",
-"s": "vingadores-ultimato",
-"alt": "Avengers: Endgame"
-},
-{
-"t": "Homem de Ferro",
-"tp": "filme",
-"s": "homem-de-ferro"
-},
-{
-"t": "Homem de Ferro 2",
-"tp": "filme",
-"s": "homem-de-ferro-2"
-},
-{
-"t": "Homem de Ferro 3",
-"tp": "filme",
-"s": "homem-de-ferro-3"
-},
-{
-"t": "Guardiões da Galáxia",
-"tp": "filme",
-"imdb": "Guardians of the Galaxy",
-"ano": 2014,
-"s": "guardioes-da-galaxia"
-},
-{
-"t": "Guardiões da Galáxia Vol. 2",
-"tp": "filme",
-"s": "guardioes-da-galaxia-vol-2"
-},
-{
-"t": "Guardiões da Galáxia Vol. 3",
-"tp": "filme",
-"imdb": "Guardians of the Galaxy Vol. 3",
-"ano": 2023,
-"s": "guardioes-da-galaxia-vol-3"
-},
-{
-"t": "Deadpool",
-"tp": "filme",
-"imdb": "Deadpool",
-"ano": 2016,
-"s": "deadpool"
-},
-{
-"t": "Deadpool 2",
-"tp": "filme",
-"s": "deadpool-2"
-},
-{
-"t": "Deadpool & Wolverine",
-"tp": "filme",
-"s": "deadpool-wolverine"
-},
-{
-"t": "Velozes e Furiosos",
-"tp": "filme",
-"imdb": "The Fast and the Furious",
-"ano": 2001,
-"s": "velozes-e-furiosos"
-},
-{
-"t": "Velozes e Furiosos 2",
-"tp": "filme",
-"imdb": "2 Fast 2 Furious",
-"ano": 2003,
-"s": "velozes-e-furiosos-2"
-},
-{
-"t": "Velozes e Furiosos: Desafio em Tóquio",
-"tp": "filme",
-"imdb": "The Fast and the Furious: Tokyo Drift",
-"ano": 2006,
-"s": "velozes-e-furiosos-desafio-em-toquio"
-},
-{
-"t": "Se Beber, Não Case",
-"tp": "filme",
-"imdb": "The Hangover",
-"ano": 2009,
-"s": "se-beber-nao-case"
-},
-{
-"t": "Se Beber, Não Case! Parte II",
-"tp": "filme",
-"imdb": "The Hangover Part II",
-"ano": 2011,
-"s": "se-beber-nao-case-parte-ii"
-},
-{
-"t": "Se Beber, Não Case! Parte III",
-"tp": "filme",
-"s": "se-beber-nao-case-parte-iii"
-},
-{
-"t": "John Wick: De Volta ao Jogo",
-"tp": "filme",
-"imdb": "John Wick",
-"ano": 2014,
-"s": "john-wick-de-volta-ao-jogo"
-},
-{
-"t": "John Wick 2: Um Novo Dia para Matar",
-"tp": "filme",
-"imdb": "John Wick: Chapter 2",
-"ano": 2017,
-"s": "john-wick-2-um-novo-dia-para-matar"
-},
-{
-"t": "John Wick 3: Parabellum",
-"tp": "filme",
-"imdb": "John Wick: Chapter 3 - Parabellum",
-"ano": 2019,
-"s": "john-wick-3-parabellum"
-},
-{
-"t": "John Wick 4: Baba Yaga",
-"tp": "filme",
-"s": "john-wick-4-baba-yaga"
-},
-{
-"t": "Perdido em Marte",
-"tp": "filme",
-"s": "perdido-em-marte"
-},
-{
-"t": "Devoradores de Estrelas",
-"tp": "filme",
-"s": "devoradores-de-estrelas"
-},
-{
-"t": "Resgate",
-"tp": "filme",
-"imdb": "Extraction",
-"ano": 2020,
-"s": "resgate"
-},
-{
-"t": "Devil May Cry",
-"tp": "anime",
-"s": "devil-may-cry",
-"q": "Devil May Cry 2025"
-}
+ {
+  "t": "Rush",
+  "tp": "filme",
+  "s": "rush"
+ },
+ {
+  "t": "Perdidos no Espaço",
+  "tp": "serie",
+  "s": "perdidos-no-espaco",
+  "q": "Lost in Space"
+ },
+ {
+  "t": "Naruto",
+  "tp": "anime",
+  "s": "naruto"
+ },
+ {
+  "t": "Lv999 no Amor (Lv999 no Murabito)",
+  "tp": "anime",
+  "s": "lv999-no-amor-lv999-no-murabito",
+  "q": "Lv999 no Murabito to Koi wo Shita"
+ },
+ {
+  "t": "Sword Art Online",
+  "tp": "anime",
+  "s": "sword-art-online",
+  "q": "Sword Art Online"
+ },
+ {
+  "t": "The 100",
+  "tp": "serie",
+  "q": "The 100",
+  "s": "the-100"
+ },
+ {
+  "t": "Fire Force",
+  "tp": "anime",
+  "s": "fire-force"
+ },
+ {
+  "t": "Akame ga Kill!",
+  "tp": "anime",
+  "s": "akame-ga-kill",
+  "q": "Akame ga Kill!"
+ },
+ {
+  "t": "Jogos Vorazes: A Esperança - Parte 1",
+  "tp": "filme",
+  "s": "jogos-vorazes-a-esperanca-parte-1",
+  "imdb": "The Hunger Games: Mockingjay - Part 1",
+  "ano": 2014
+ },
+ {
+  "t": "The Walking Dead",
+  "tp": "serie",
+  "s": "the-walking-dead"
+ },
+ {
+  "t": "Gente Grande",
+  "tp": "filme",
+  "s": "gente-grande",
+  "imdb": "Grown Ups",
+  "ano": 2010
+ },
+ {
+  "t": "Hitman Reborn!",
+  "tp": "anime",
+  "q": "Katekyo Hitman Reborn!",
+  "s": "hitman-reborn"
+ },
+ {
+  "t": "Cobra Kai",
+  "tp": "serie",
+  "s": "cobra-kai",
+  "q": "Cobra Kai"
+ },
+ {
+  "t": "Re:Monster",
+  "tp": "anime",
+  "s": "re-monster",
+  "q": "Re:Monster"
+ },
+ {
+  "t": "Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes",
+  "tp": "filme",
+  "s": "jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes",
+  "imdb": "The Hunger Games: The Ballad of Songbirds & Snakes",
+  "ano": 2023
+ },
+ {
+  "t": "Ascensão do Herói do Escudo",
+  "tp": "anime",
+  "s": "ascensao-do-heroi-do-escudo",
+  "q": "Tate no Yuusha no Nariagari"
+ },
+ {
+  "t": "O Problema dos 3 Corpos",
+  "tp": "serie",
+  "s": "o-problema-dos-3-corpos",
+  "q": "3 Body Problem"
+ },
+ {
+  "t": "The Beginning After the End",
+  "tp": "anime",
+  "s": "the-beginning-after-the-end",
+  "q": "The Beginning After the End"
+ },
+ {
+  "t": "Need for Speed: O Filme",
+  "tp": "filme",
+  "s": "need-for-speed-o-filme",
+  "imdb": "Need for Speed",
+  "ano": 2014
+ },
+ {
+  "t": "Animais Fantásticos: Os Crimes de Grindelwald",
+  "tp": "filme",
+  "s": "animais-fantasticos-os-crimes-de-grindelwald",
+  "imdb": "Fantastic Beasts: The Crimes of Grindelwald",
+  "ano": 2018
+ },
+ {
+  "t": "Assassination Classroom",
+  "tp": "anime",
+  "s": "assassination-classroom",
+  "q": "Ansatsu Kyoushitsu"
+ },
+ {
+  "t": "A Lista Terminal: Dark Wolf",
+  "tp": "serie",
+  "q": "The Terminal List: Dark Wolf",
+  "s": "a-lista-terminal-dark-wolf"
+ },
+ {
+  "t": "Sword Art Online: Alicization",
+  "tp": "anime",
+  "s": "sword-art-online-alicization",
+  "q": "Sword Art Online: Alicization"
+ },
+ {
+  "t": "A Série Divergente: Insurgente",
+  "tp": "filme",
+  "s": "a-serie-divergente-insurgente",
+  "imdb": "The Divergent Series: Insurgent",
+  "ano": 2015
+ },
+ {
+  "t": "Jack Ryan",
+  "tp": "serie",
+  "s": "jack-ryan"
+ },
+ {
+  "t": "Maze Runner: A Cura Mortal",
+  "tp": "filme",
+  "s": "maze-runner-a-cura-mortal",
+  "imdb": "Maze Runner: The Death Cure",
+  "ano": 2018
+ },
+ {
+  "t": "See",
+  "tp": "serie",
+  "q": "See",
+  "s": "see"
+ },
+ {
+  "t": "Ford vs Ferrari",
+  "tp": "filme",
+  "s": "ford-vs-ferrari"
+ },
+ {
+  "t": "Nobody: Ninguém",
+  "tp": "filme",
+  "s": "nobody-ninguem",
+  "imdb": "Nobody",
+  "ano": 2021,
+  "wq": "Nobody (2021 film)"
+ },
+ {
+  "t": "Agente Stone",
+  "tp": "filme",
+  "s": "agente-stone",
+  "imdb": "Heart of Stone",
+  "ano": 2023
+ },
+ {
+  "t": "Wind Breaker",
+  "tp": "anime",
+  "s": "wind-breaker"
+ },
+ {
+  "t": "Gran Turismo: De Jogador a Corredor",
+  "tp": "filme",
+  "s": "gran-turismo-de-jogador-a-corredor",
+  "imdb": "Gran Turismo",
+  "ano": 2023
+ },
+ {
+  "t": "Dark",
+  "tp": "serie",
+  "s": "dark"
+ },
+ {
+  "t": "Jogos Vorazes",
+  "tp": "filme",
+  "s": "jogos-vorazes",
+  "imdb": "The Hunger Games",
+  "ano": 2012
+ },
+ {
+  "t": "Animais Fantásticos e Onde Habitam",
+  "tp": "filme",
+  "s": "animais-fantasticos-e-onde-habitam",
+  "imdb": "Fantastic Beasts and Where to Find Them",
+  "ano": 2016
+ },
+ {
+  "t": "The Night Agent",
+  "tp": "serie",
+  "s": "the-night-agent",
+  "q": "The Night Agent"
+ },
+ {
+  "t": "Boruto: Naruto Next Generations",
+  "tp": "anime",
+  "q": "Boruto: Naruto Next Generations",
+  "s": "boruto-naruto-next-generations"
+ },
+ {
+  "t": "Chainsaw Man",
+  "tp": "anime",
+  "s": "chainsaw-man"
+ },
+ {
+  "t": "Mato Seihei no Slave",
+  "tp": "anime",
+  "q": "Mato Seihei no Slave",
+  "s": "mato-seihei-no-slave"
+ },
+ {
+  "t": "A Série Divergente: Convergente",
+  "tp": "filme",
+  "s": "a-serie-divergente-convergente",
+  "imdb": "The Divergent Series: Allegiant",
+  "ano": 2016
+ },
+ {
+  "t": "Detetive Pikachu",
+  "tp": "filme",
+  "s": "detetive-pikachu",
+  "imdb": "Pokémon Detective Pikachu",
+  "ano": 2019
+ },
+ {
+  "t": "Jogos Vorazes: Em Chamas",
+  "tp": "filme",
+  "s": "jogos-vorazes-em-chamas",
+  "imdb": "The Hunger Games: Catching Fire",
+  "ano": 2013
+ },
+ {
+  "t": "Maze Runner: Prova de Fogo",
+  "tp": "filme",
+  "s": "maze-runner-prova-de-fogo",
+  "imdb": "Maze Runner: The Scorch Trials",
+  "ano": 2015
+ },
+ {
+  "t": "Jujutsu Kaisen 0",
+  "tp": "filme",
+  "s": "jujutsu-kaisen-0",
+  "q": "Jujutsu Kaisen 0"
+ },
+ {
+  "t": "Arifureta: Da Classe Média ao Mais Forte do Mundo",
+  "tp": "anime",
+  "s": "arifureta-da-classe-media-ao-mais-forte-do-mundo",
+  "q": "Arifureta Shokugyou de Sekai Saikyou"
+ },
+ {
+  "t": "Lupin",
+  "tp": "serie",
+  "q": "Lupin",
+  "s": "lupin"
+ },
+ {
+  "t": "Kingsman: O Círculo Dourado",
+  "tp": "filme",
+  "s": "kingsman-o-circulo-dourado",
+  "imdb": "Kingsman: The Golden Circle",
+  "ano": 2017
+ },
+ {
+  "t": "Blue Exorcist",
+  "tp": "anime",
+  "s": "blue-exorcist",
+  "q": "Ao no Exorcist"
+ },
+ {
+  "t": "Undead Unluck",
+  "tp": "anime",
+  "s": "undead-unluck",
+  "q": "Undead Unluck"
+ },
+ {
+  "t": "Katainaka no Ossan, Kenshi ni Naru",
+  "tp": "anime",
+  "s": "katainaka-no-ossan-kenshi-ni-naru",
+  "q": "Katainaka no Ossan, Kensei ni Naru"
+ },
+ {
+  "t": "Todo Mundo Odeia o Chris",
+  "tp": "serie",
+  "s": "todo-mundo-odeia-o-chris",
+  "q": "Everybody Hates Chris"
+ },
+ {
+  "t": "Shangri-La Frontier",
+  "tp": "anime",
+  "s": "shangri-la-frontier"
+ },
+ {
+  "t": "Fairy Tail",
+  "tp": "anime",
+  "q": "Fairy Tail",
+  "s": "fairy-tail"
+ },
+ {
+  "t": "Maze Runner: Correr ou Morrer",
+  "tp": "filme",
+  "s": "maze-runner-correr-ou-morrer",
+  "imdb": "The Maze Runner",
+  "ano": 2014
+ },
+ {
+  "t": "Django Livre",
+  "tp": "filme",
+  "imdb": "Django Unchained",
+  "ano": 2012,
+  "s": "django-livre"
+ },
+ {
+  "t": "Divergente",
+  "tp": "filme",
+  "s": "divergente",
+  "imdb": "Divergent",
+  "ano": 2014
+ },
+ {
+  "t": "Atômica",
+  "tp": "filme",
+  "s": "atomica"
+ },
+ {
+  "t": "Fullmetal Alchemist",
+  "tp": "anime",
+  "s": "fullmetal-alchemist",
+  "q": "Hagane no Renkinjutsushi"
+ },
+ {
+  "t": "Agentes Muito Especiais",
+  "tp": "filme",
+  "s": "agentes-muito-especiais",
+  "imdb": "Agentes Muito Especiais",
+  "ano": 2025,
+  "wq": "Agentes Muito Especiais"
+ },
+ {
+  "t": "Gen V",
+  "tp": "serie",
+  "s": "gen-v",
+  "q": "Gen V"
+ },
+ {
+  "t": "Seven Deadly Sins",
+  "tp": "anime",
+  "s": "seven-deadly-sins",
+  "q": "The Seven Deadly Sins"
+ },
+ {
+  "t": "Bleach: Thousand-Year Blood War",
+  "tp": "anime",
+  "q": "Bleach: Thousand-Year Blood War",
+  "s": "bleach-thousand-year-blood-war"
+ },
+ {
+  "t": "Wistoria: Wand and Sword",
+  "tp": "anime",
+  "s": "wistoria-wand-and-sword",
+  "q": "Tsue to Tsurugi no Wistoria"
+ },
+ {
+  "t": "Log Horizon",
+  "tp": "anime",
+  "s": "log-horizon",
+  "q": "Log Horizon"
+ },
+ {
+  "t": "Kingsman: Serviço Secreto",
+  "tp": "filme",
+  "s": "kingsman-servico-secreto",
+  "imdb": "Kingsman: The Secret Service",
+  "ano": 2014
+ },
+ {
+  "t": "The Mandalorian",
+  "tp": "serie",
+  "s": "the-mandalorian",
+  "q": "The Mandalorian"
+ },
+ {
+  "t": "Sicario: Terra de Ninguém",
+  "tp": "filme",
+  "s": "sicario-terra-de-ninguem",
+  "imdb": "Sicario",
+  "ano": 2015
+ },
+ {
+  "t": "Animais Fantásticos: Os Segredos de Dumbledore",
+  "tp": "filme",
+  "s": "animais-fantasticos-os-segredos-de-dumbledore",
+  "imdb": "Fantastic Beasts: The Secrets of Dumbledore",
+  "ano": 2022
+ },
+ {
+  "t": "Naruto Shippuden",
+  "tp": "anime",
+  "q": "Naruto Shippuden",
+  "s": "naruto-shippuden"
+ },
+ {
+  "t": "Jogos Vorazes: A Esperança - O Final",
+  "tp": "filme",
+  "s": "jogos-vorazes-a-esperanca-o-final",
+  "imdb": "The Hunger Games: Mockingjay - Part 2",
+  "ano": 2015
+ },
+ {
+  "t": "Prison School",
+  "tp": "anime",
+  "q": "Prison School",
+  "s": "prison-school"
+ },
+ {
+  "t": "Hell Mode: Gamer Who Likes Hardcore Game Becomes Master in a Parallel World",
+  "tp": "anime",
+  "s": "hell-mode-gamer-who-likes-hardcore-game-becomes-master-in-a-parallel-world",
+  "q": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru"
+ },
+ {
+  "t": "Rei Arthur: A Lenda da Espada",
+  "tp": "filme",
+  "s": "rei-arthur-a-lenda-da-espada",
+  "imdb": "King Arthur: Legend of the Sword",
+  "ano": 2017
+ },
+ {
+  "t": "Lazarus",
+  "tp": "anime",
+  "s": "lazarus",
+  "q": "Lazarus"
+ },
+ {
+  "t": "Shuumatsu no Harem (World's End Harem)",
+  "tp": "anime",
+  "q": "Shuumatsu no Harem",
+  "s": "shuumatsu-no-harem-world-s-end-harem"
+ },
+ {
+  "t": "Sombra e Ossos",
+  "tp": "serie",
+  "s": "sombra-e-ossos",
+  "q": "Shadow and Bone"
+ },
+ {
+  "t": "The Expanse",
+  "tp": "serie",
+  "s": "the-expanse",
+  "q": "The Expanse"
+ },
+ {
+  "t": "Altered Carbon",
+  "tp": "serie",
+  "s": "altered-carbon",
+  "q": "Altered Carbon"
+ },
+ {
+  "t": "Away",
+  "tp": "serie",
+  "s": "away",
+  "q": "Away",
+  "imdb": "Away",
+  "ano": 2020,
+  "strict": true
+ },
+ {
+  "t": "Little Witch Academia",
+  "tp": "anime",
+  "s": "little-witch-academia",
+  "q": "Little Witch Academia"
+ },
+ {
+  "t": "Mars",
+  "tp": "serie",
+  "s": "mars",
+  "q": "Mars",
+  "imdb": "Mars",
+  "ano": 2016,
+  "strict": true
+ },
+ {
+  "t": "Para Toda a Humanidade",
+  "tp": "serie",
+  "s": "para-toda-a-humanidade",
+  "q": "For All Mankind"
+ },
+ {
+  "t": "Reacher: Jack Reacher - Dia de Matar",
+  "tp": "filme",
+  "s": "reacher-jack-reacher-dia-de-matar",
+  "imdb": "Jack Reacher: Never Go Back",
+  "ano": 2016
+ },
+ {
+  "t": "Dark Matter",
+  "tp": "serie",
+  "s": "dark-matter",
+  "imdb": "Dark Matter",
+  "ano": 2024
+ },
+ {
+  "t": "Vikings: Valhalla",
+  "tp": "serie",
+  "s": "vikings-valhalla",
+  "q": "Vikings: Valhalla"
+ },
+ {
+  "t": "Magi: O Labirinto da Magia",
+  "tp": "anime",
+  "s": "magi-o-labirinto-da-magia",
+  "q": "Magi: The Labyrinth of Magic"
+ },
+ {
+  "t": "Rosario + Vampire",
+  "tp": "anime",
+  "q": "Rosario to Vampire",
+  "s": "rosario-vampire"
+ },
+ {
+  "t": "Constelação",
+  "tp": "serie",
+  "s": "constelacao",
+  "q": "Constellation"
+ },
+ {
+  "t": "Raised by Wolves",
+  "tp": "serie",
+  "s": "raised-by-wolves",
+  "q": "Raised by Wolves"
+ },
+ {
+  "t": "Kekkai Sensen",
+  "tp": "anime",
+  "q": "Kekkai Sensen",
+  "s": "kekkai-sensen"
+ },
+ {
+  "t": "Kanojo, Okarishimasu (Rent-a-Girlfriend)",
+  "tp": "anime",
+  "q": "Kanojo, Okarishimasu",
+  "s": "kanojo-okarishimasu-rent-a-girlfriend"
+ },
+ {
+  "t": "High School DxD",
+  "tp": "anime",
+  "q": "High School DxD",
+  "s": "high-school-dxd"
+ },
+ {
+  "t": "Ranma ½",
+  "tp": "anime",
+  "s": "ranma",
+  "q": "Ranma 1/2 2024"
+ },
+ {
+  "t": "Kaguya-sama: Love is War",
+  "tp": "anime",
+  "s": "kaguya-sama-love-is-war"
+ },
+ {
+  "t": "Terra de Ninguém (Warrior)",
+  "tp": "serie",
+  "s": "terra-de-ninguem-warrior",
+  "q": "Warrior"
+ },
+ {
+  "t": "Uncle from Another World",
+  "tp": "anime",
+  "q": "Isekai Ojisan",
+  "s": "uncle-from-another-world"
+ },
+ {
+  "t": "Grand BLUE dreaming",
+  "tp": "anime",
+  "s": "grand-blue-dreaming"
+ },
+ {
+  "t": "Duna: Parte Dois",
+  "tp": "filme",
+  "s": "duna-parte-dois"
+ },
+ {
+  "t": "Jason Bourne",
+  "tp": "filme",
+  "s": "jason-bourne"
+ },
+ {
+  "t": "Sons of Anarchy",
+  "tp": "serie",
+  "s": "sons-of-anarchy"
+ },
+ {
+  "t": "Cowboy Bebop",
+  "tp": "anime",
+  "s": "cowboy-bebop"
+ },
+ {
+  "t": "Hajime no Ippo",
+  "tp": "anime",
+  "s": "hajime-no-ippo"
+ },
+ {
+  "t": "Slam Dunk",
+  "tp": "anime",
+  "s": "slam-dunk"
+ },
+ {
+  "t": "Black Doves S2",
+  "tp": "serie",
+  "s": "black-doves-s2"
+ },
+ {
+  "t": "Godzilla Minus Zero",
+  "tp": "filme",
+  "imdb": "Godzilla Minus Zero",
+  "ano": 2026,
+  "s": "godzilla-minus-zero"
+ },
+ {
+  "t": "Como Roubar Um Banco",
+  "tp": "filme",
+  "s": "como-roubar-um-banco"
+ },
+ {
+  "t": "Vingadores: Doutor Destino",
+  "tp": "filme",
+  "s": "vingadores-doutor-destino"
+ },
+ {
+  "t": "Returner's Magic Should Be Special S2",
+  "tp": "anime",
+  "s": "returner-s-magic-should-be-special-s2"
+ },
+ {
+  "t": "Iceblade Sorcerer Shall Rule the World II",
+  "tp": "anime",
+  "s": "iceblade-sorcerer-shall-rule-the-world-ii"
+ },
+ {
+  "t": "Mashle",
+  "tp": "anime",
+  "s": "mashle"
+ },
+ {
+  "t": "Dan Da Dan",
+  "tp": "anime",
+  "s": "dan-da-dan"
+ },
+ {
+  "t": "Mushoku Tensei",
+  "tp": "anime",
+  "s": "mushoku-tensei"
+ },
+ {
+  "t": "Solo Leveling",
+  "tp": "anime",
+  "s": "solo-leveling"
+ },
+ {
+  "t": "Tomb Raider King",
+  "tp": "anime",
+  "s": "tomb-raider-king"
+ },
+ {
+  "t": "My Dress-Up Darling",
+  "tp": "anime",
+  "s": "my-dress-up-darling"
+ },
+ {
+  "t": "MF Ghost",
+  "tp": "anime",
+  "s": "mf-ghost"
+ },
+ {
+  "t": "The Water Magician",
+  "tp": "anime",
+  "s": "the-water-magician"
+ },
+ {
+  "t": "Boruto",
+  "tp": "anime",
+  "s": "boruto",
+  "q": "Boruto: Naruto Next Generations"
+ },
+ {
+  "t": "Re:Zero",
+  "tp": "anime",
+  "s": "re-zero"
+ },
+ {
+  "t": "Overlord",
+  "tp": "anime",
+  "s": "overlord"
+ },
+ {
+  "t": "Dr. Stone",
+  "tp": "anime",
+  "s": "dr-stone"
+ },
+ {
+  "t": "I Became a Legend after My 10 Year-Long Last Stand",
+  "tp": "anime",
+  "s": "i-became-a-legend-after-my-10-year-long-last-stand"
+ },
+ {
+  "t": "The Villager of Level 999",
+  "tp": "anime",
+  "s": "the-villager-of-level-999"
+ },
+ {
+  "t": "Trapped in a Dating Sim 2",
+  "tp": "anime",
+  "s": "trapped-in-a-dating-sim-2"
+ },
+ {
+  "t": "One Piece",
+  "tp": "anime",
+  "s": "one-piece"
+ },
+ {
+  "t": "Black Clover",
+  "tp": "anime",
+  "s": "black-clover"
+ },
+ {
+  "t": "Kuroko no Basket",
+  "tp": "anime",
+  "s": "kuroko-no-basket"
+ },
+ {
+  "t": "Blue Lock",
+  "tp": "anime",
+  "s": "blue-lock"
+ },
+ {
+  "t": "Attack on Titan",
+  "tp": "anime",
+  "s": "attack-on-titan"
+ },
+ {
+  "t": "Fullmetal Alchemist: Brotherhood",
+  "tp": "anime",
+  "s": "fullmetal-alchemist-brotherhood"
+ },
+ {
+  "t": "My Hero Academia",
+  "tp": "anime",
+  "s": "my-hero-academia"
+ },
+ {
+  "t": "Sakamoto Days",
+  "tp": "anime",
+  "s": "sakamoto-days"
+ },
+ {
+  "t": "Spy x Family",
+  "tp": "anime",
+  "s": "spy-x-family"
+ },
+ {
+  "t": "Mob Psycho 100",
+  "tp": "anime",
+  "s": "mob-psycho-100"
+ },
+ {
+  "t": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill",
+  "tp": "anime",
+  "s": "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill"
+ },
+ {
+  "t": "Aoashi",
+  "tp": "anime",
+  "s": "aoashi"
+ },
+ {
+  "t": "Smoking Behind the Supermarket with You",
+  "tp": "anime",
+  "s": "smoking-behind-the-supermarket-with-you"
+ },
+ {
+  "t": "Soul Eater",
+  "tp": "anime",
+  "s": "soul-eater"
+ },
+ {
+  "t": "Clevatess",
+  "tp": "anime",
+  "s": "clevatess"
+ },
+ {
+  "t": "Yomi no Tsugai",
+  "tp": "anime",
+  "s": "yomi-no-tsugai"
+ },
+ {
+  "t": "The World's Strongest Rearguard",
+  "tp": "anime",
+  "s": "the-world-s-strongest-rearguard"
+ },
+ {
+  "t": "Black Torch",
+  "tp": "anime",
+  "s": "black-torch"
+ },
+ {
+  "t": "The Frontier Lord Begins with Zero Subjects",
+  "tp": "anime",
+  "s": "the-frontier-lord-begins-with-zero-subjects"
+ },
+ {
+  "t": "The Great Cleric",
+  "tp": "anime",
+  "s": "the-great-cleric"
+ },
+ {
+  "t": "From Overshadowed to Overpowered",
+  "tp": "anime",
+  "s": "from-overshadowed-to-overpowered"
+ },
+ {
+  "t": "Hell's Paradise",
+  "tp": "anime",
+  "s": "hell-s-paradise"
+ },
+ {
+  "t": "One Punch Man",
+  "tp": "anime",
+  "s": "one-punch-man"
+ },
+ {
+  "t": "Vinland Saga",
+  "tp": "anime",
+  "s": "vinland-saga"
+ },
+ {
+  "t": "Cyberpunk: Edgerunners",
+  "tp": "anime",
+  "s": "cyberpunk-edgerunners"
+ },
+ {
+  "t": "Kaiju No. 8",
+  "tp": "anime",
+  "s": "kaiju-no-8"
+ },
+ {
+  "t": "The Exiled Heavy Knight Knows How to Game the System",
+  "tp": "anime",
+  "s": "the-exiled-heavy-knight-knows-how-to-game-the-system"
+ },
+ {
+  "t": "Tsukimichi",
+  "tp": "anime",
+  "s": "tsukimichi"
+ },
+ {
+  "t": "Fate/strange Fake",
+  "tp": "anime",
+  "s": "fate-strange-fake"
+ },
+ {
+  "t": "Gachiakuta",
+  "tp": "anime",
+  "s": "gachiakuta"
+ },
+ {
+  "t": "Blood Lad",
+  "tp": "anime",
+  "s": "blood-lad"
+ },
+ {
+  "t": "So What's Wrong with Getting Reborn as a Goblin?",
+  "tp": "anime",
+  "s": "so-what-s-wrong-with-getting-reborn-as-a-goblin",
+  "q": "Tensei Goblin dakedo Shitsumon aru?"
+ },
+ {
+  "t": "Overgeared",
+  "tp": "anime",
+  "s": "overgeared"
+ },
+ {
+  "t": "Magical Explorer",
+  "tp": "anime",
+  "s": "magical-explorer"
+ },
+ {
+  "t": "Magic Repo Man",
+  "tp": "anime",
+  "s": "magic-repo-man"
+ },
+ {
+  "t": "The Laid-Off Cheat-Granting Mage",
+  "tp": "anime",
+  "s": "the-laid-off-cheat-granting-mage"
+ },
+ {
+  "t": "Jujutsu Kaisen",
+  "tp": "anime",
+  "s": "jujutsu-kaisen"
+ },
+ {
+  "t": "Demon Slayer",
+  "tp": "anime",
+  "s": "demon-slayer",
+  "q": "Kimetsu no Yaiba"
+ },
+ {
+  "t": "Hunter x Hunter",
+  "tp": "anime",
+  "s": "hunter-x-hunter"
+ },
+ {
+  "t": "Konosuba",
+  "tp": "anime",
+  "s": "konosuba"
+ },
+ {
+  "t": "Gintama",
+  "tp": "anime",
+  "s": "gintama"
+ },
+ {
+  "t": "Bleach",
+  "tp": "anime",
+  "s": "bleach"
+ },
+ {
+  "t": "That Time I Got Reincarnated as a Slime",
+  "tp": "anime",
+  "s": "that-time-i-got-reincarnated-as-a-slime"
+ },
+ {
+  "t": "Haikyu",
+  "tp": "anime",
+  "s": "haikyu"
+ },
+ {
+  "t": "I Was Reincarnated as the 7th Prince",
+  "tp": "anime",
+  "s": "i-was-reincarnated-as-the-7th-prince"
+ },
+ {
+  "t": "Frieren",
+  "tp": "anime",
+  "s": "frieren"
+ },
+ {
+  "t": "Better Call Saul",
+  "tp": "serie",
+  "s": "better-call-saul"
+ },
+ {
+  "t": "Squid Game",
+  "tp": "serie",
+  "s": "squid-game"
+ },
+ {
+  "t": "Stranger Things",
+  "tp": "serie",
+  "s": "stranger-things"
+ },
+ {
+  "t": "Prison Break",
+  "tp": "serie",
+  "s": "prison-break"
+ },
+ {
+  "t": "La Casa de Papel",
+  "tp": "serie",
+  "s": "la-casa-de-papel"
+ },
+ {
+  "t": "Black Mirror",
+  "tp": "serie",
+  "s": "black-mirror"
+ },
+ {
+  "t": "MobLand",
+  "tp": "serie",
+  "s": "mobland"
+ },
+ {
+  "t": "Invincible",
+  "tp": "serie",
+  "s": "invincible"
+ },
+ {
+  "t": "Peaky Blinders",
+  "tp": "serie",
+  "s": "peaky-blinders"
+ },
+ {
+  "t": "The Boys",
+  "tp": "serie",
+  "s": "the-boys"
+ },
+ {
+  "t": "The Last of Us",
+  "tp": "serie",
+  "s": "the-last-of-us"
+ },
+ {
+  "t": "A Casa do Dragão",
+  "tp": "serie",
+  "s": "a-casa-do-dragao"
+ },
+ {
+  "t": "Reacher",
+  "tp": "serie",
+  "s": "reacher"
+ },
+ {
+  "t": "A Lista Terminal",
+  "tp": "serie",
+  "s": "a-lista-terminal"
+ },
+ {
+  "t": "Breaking Bad",
+  "tp": "serie",
+  "s": "breaking-bad"
+ },
+ {
+  "t": "Vikings",
+  "tp": "serie",
+  "s": "vikings"
+ },
+ {
+  "t": "The Witcher",
+  "tp": "serie",
+  "s": "the-witcher"
+ },
+ {
+  "t": "Fallout",
+  "tp": "serie",
+  "s": "fallout"
+ },
+ {
+  "t": "Game of Thrones",
+  "tp": "serie",
+  "s": "game-of-thrones"
+ },
+ {
+  "t": "Sobrenatural",
+  "tp": "serie",
+  "s": "sobrenatural"
+ },
+ {
+  "t": "Tropa de Elite",
+  "tp": "filme",
+  "s": "tropa-de-elite"
+ },
+ {
+  "t": "Mad Max: Estrada da Fúria",
+  "tp": "filme",
+  "s": "mad-max-estrada-da-furia"
+ },
+ {
+  "t": "Missão: Impossível",
+  "tp": "filme",
+  "s": "missao-impossivel"
+ },
+ {
+  "t": "Interestelar",
+  "tp": "filme",
+  "s": "interestelar"
+ },
+ {
+  "t": "Os Mercenários",
+  "tp": "filme",
+  "s": "os-mercenarios"
+ },
+ {
+  "t": "Ready Player One",
+  "tp": "filme",
+  "imdb": "Ready Player One",
+  "ano": 2018,
+  "s": "ready-player-one"
+ },
+ {
+  "t": "Free Guy",
+  "tp": "filme",
+  "s": "free-guy"
+ },
+ {
+  "t": "Uncharted",
+  "tp": "filme",
+  "s": "uncharted"
+ },
+ {
+  "t": "Jumanji (os novos)",
+  "tp": "filme",
+  "s": "jumanji-os-novos",
+  "imdb": "Jumanji: Welcome to the Jungle",
+  "ano": 2017
+ },
+ {
+  "t": "Capitão América",
+  "tp": "filme",
+  "s": "capitao-america",
+  "imdb": "Captain America: The First Avenger",
+  "ano": 2011
+ },
+ {
+  "t": "Homem-Formiga",
+  "tp": "filme",
+  "s": "homem-formiga"
+ },
+ {
+  "t": "Anônimo",
+  "tp": "filme",
+  "imdb": "Nobody",
+  "ano": 2021,
+  "s": "anonimo"
+ },
+ {
+  "t": "Anônimo 2",
+  "tp": "filme",
+  "imdb": "Nobody 2",
+  "ano": 2025,
+  "s": "anonimo-2"
+ },
+ {
+  "t": "Top Gun: Maverick",
+  "tp": "filme",
+  "s": "top-gun-maverick"
+ },
+ {
+  "t": "Gran Turismo",
+  "tp": "filme",
+  "s": "gran-turismo"
+ },
+ {
+  "t": "No Limite do Amanhã",
+  "tp": "filme",
+  "imdb": "Edge of Tomorrow",
+  "ano": 2014,
+  "s": "no-limite-do-amanha"
+ },
+ {
+  "t": "Bad Boys",
+  "tp": "filme",
+  "s": "bad-boys"
+ },
+ {
+  "t": "Resgate 2",
+  "tp": "filme",
+  "imdb": "Extraction 2",
+  "imdbl": "Extraction II",
+  "ano": 2023,
+  "s": "resgate-2"
+ },
+ {
+  "t": "Operação Fúria",
+  "tp": "filme",
+  "s": "operacao-furia",
+  "imdb": "Fury",
+  "ano": 2014,
+  "strict": true
+ },
+ {
+  "t": "O Protetor",
+  "tp": "filme",
+  "s": "o-protetor"
+ },
+ {
+  "t": "O Contador",
+  "tp": "filme",
+  "wb": [
+   "The Accountant filme Ben Affleck",
+   "O Contador filme Ben Affleck 2016"
+  ],
+  "wm": "accountant|contador",
+  "s": "o-contador",
+  "alt": "The Accountant"
+ },
+ {
+  "t": "O Contador 2",
+  "tp": "filme",
+  "s": "o-contador-2"
+ },
+ {
+  "t": "Bailarina",
+  "tp": "filme",
+  "imdb": "Ballerina",
+  "ano": 2025,
+  "s": "bailarina"
+ },
+ {
+  "t": "Jurassic Park/World",
+  "tp": "filme",
+  "s": "jurassic-park-world",
+  "imdb": "Jurassic Park",
+  "ano": 1993
+ },
+ {
+  "t": "Piratas do Caribe",
+  "tp": "filme",
+  "wp": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "s": "piratas-do-caribe",
+  "alt": "Pirates of the Caribbean: The Curse of the Black Pearl"
+ },
+ {
+  "t": "Thor",
+  "tp": "filme",
+  "s": "thor"
+ },
+ {
+  "t": "Doutor Estranho",
+  "tp": "filme",
+  "s": "doutor-estranho"
+ },
+ {
+  "t": "Pantera Negra",
+  "tp": "filme",
+  "s": "pantera-negra",
+  "imdb": "Black Panther",
+  "ano": 2018
+ },
+ {
+  "t": "Shang-Chi",
+  "tp": "filme",
+  "s": "shang-chi"
+ },
+ {
+  "t": "O Senhor dos Anéis",
+  "tp": "filme",
+  "imdb": "The Lord of the Rings: The Fellowship of the Ring",
+  "ano": 2001,
+  "s": "o-senhor-dos-aneis"
+ },
+ {
+  "t": "Harry Potter",
+  "tp": "filme",
+  "s": "harry-potter"
+ },
+ {
+  "t": "Bird Box",
+  "tp": "filme",
+  "s": "bird-box"
+ },
+ {
+  "t": "Sem Limites",
+  "tp": "filme",
+  "s": "sem-limites",
+  "imdb": "Limitless",
+  "ano": 2011,
+  "strict": true
+ },
+ {
+  "t": "Matrix",
+  "tp": "filme",
+  "s": "matrix"
+ },
+ {
+  "t": "Matrix Reloaded",
+  "tp": "filme",
+  "s": "matrix-reloaded"
+ },
+ {
+  "t": "Matrix Revolutions",
+  "tp": "filme",
+  "s": "matrix-revolutions"
+ },
+ {
+  "t": "Matrix Resurrections",
+  "tp": "filme",
+  "s": "matrix-resurrections"
+ },
+ {
+  "t": "Homem-Aranha: De Volta ao Lar",
+  "tp": "filme",
+  "imdb": "Spider-Man: Homecoming",
+  "ano": 2017,
+  "s": "homem-aranha-de-volta-ao-lar"
+ },
+ {
+  "t": "Homem-Aranha: Longe de Casa",
+  "tp": "filme",
+  "s": "homem-aranha-longe-de-casa"
+ },
+ {
+  "t": "Homem-Aranha: Sem Volta para Casa",
+  "tp": "filme",
+  "imdb": "Spider-Man: No Way Home",
+  "ano": 2021,
+  "s": "homem-aranha-sem-volta-para-casa"
+ },
+ {
+  "t": "Os Vingadores",
+  "tp": "filme",
+  "wp": [
+   "Os Vingadores (filme)",
+   "The Avengers (filme)",
+   "Os Vingadores (filme de 2012)"
+  ],
+  "s": "os-vingadores",
+  "alt": "The Avengers"
+ },
+ {
+  "t": "Vingadores: Era de Ultron",
+  "tp": "filme",
+  "s": "vingadores-era-de-ultron"
+ },
+ {
+  "t": "Vingadores: Guerra Infinita",
+  "tp": "filme",
+  "s": "vingadores-guerra-infinita"
+ },
+ {
+  "t": "Vingadores: Ultimato",
+  "tp": "filme",
+  "wp": "Avengers: Endgame",
+  "s": "vingadores-ultimato",
+  "alt": "Avengers: Endgame"
+ },
+ {
+  "t": "Homem de Ferro",
+  "tp": "filme",
+  "s": "homem-de-ferro"
+ },
+ {
+  "t": "Homem de Ferro 2",
+  "tp": "filme",
+  "s": "homem-de-ferro-2"
+ },
+ {
+  "t": "Homem de Ferro 3",
+  "tp": "filme",
+  "s": "homem-de-ferro-3"
+ },
+ {
+  "t": "Guardiões da Galáxia",
+  "tp": "filme",
+  "imdb": "Guardians of the Galaxy",
+  "ano": 2014,
+  "s": "guardioes-da-galaxia"
+ },
+ {
+  "t": "Guardiões da Galáxia Vol. 2",
+  "tp": "filme",
+  "s": "guardioes-da-galaxia-vol-2"
+ },
+ {
+  "t": "Guardiões da Galáxia Vol. 3",
+  "tp": "filme",
+  "imdb": "Guardians of the Galaxy Vol. 3",
+  "ano": 2023,
+  "s": "guardioes-da-galaxia-vol-3"
+ },
+ {
+  "t": "Deadpool",
+  "tp": "filme",
+  "imdb": "Deadpool",
+  "ano": 2016,
+  "s": "deadpool"
+ },
+ {
+  "t": "Deadpool 2",
+  "tp": "filme",
+  "s": "deadpool-2"
+ },
+ {
+  "t": "Deadpool & Wolverine",
+  "tp": "filme",
+  "s": "deadpool-wolverine"
+ },
+ {
+  "t": "Velozes e Furiosos",
+  "tp": "filme",
+  "imdb": "The Fast and the Furious",
+  "ano": 2001,
+  "s": "velozes-e-furiosos"
+ },
+ {
+  "t": "Velozes e Furiosos 2",
+  "tp": "filme",
+  "imdb": "2 Fast 2 Furious",
+  "ano": 2003,
+  "s": "velozes-e-furiosos-2"
+ },
+ {
+  "t": "Velozes e Furiosos: Desafio em Tóquio",
+  "tp": "filme",
+  "imdb": "The Fast and the Furious: Tokyo Drift",
+  "ano": 2006,
+  "s": "velozes-e-furiosos-desafio-em-toquio"
+ },
+ {
+  "t": "Se Beber, Não Case",
+  "tp": "filme",
+  "imdb": "The Hangover",
+  "ano": 2009,
+  "s": "se-beber-nao-case"
+ },
+ {
+  "t": "Se Beber, Não Case! Parte II",
+  "tp": "filme",
+  "imdb": "The Hangover Part II",
+  "ano": 2011,
+  "s": "se-beber-nao-case-parte-ii"
+ },
+ {
+  "t": "Se Beber, Não Case! Parte III",
+  "tp": "filme",
+  "s": "se-beber-nao-case-parte-iii"
+ },
+ {
+  "t": "John Wick: De Volta ao Jogo",
+  "tp": "filme",
+  "imdb": "John Wick",
+  "ano": 2014,
+  "s": "john-wick-de-volta-ao-jogo"
+ },
+ {
+  "t": "John Wick 2: Um Novo Dia para Matar",
+  "tp": "filme",
+  "imdb": "John Wick: Chapter 2",
+  "ano": 2017,
+  "s": "john-wick-2-um-novo-dia-para-matar"
+ },
+ {
+  "t": "John Wick 3: Parabellum",
+  "tp": "filme",
+  "imdb": "John Wick: Chapter 3 - Parabellum",
+  "ano": 2019,
+  "s": "john-wick-3-parabellum"
+ },
+ {
+  "t": "John Wick 4: Baba Yaga",
+  "tp": "filme",
+  "s": "john-wick-4-baba-yaga"
+ },
+ {
+  "t": "Perdido em Marte",
+  "tp": "filme",
+  "s": "perdido-em-marte"
+ },
+ {
+  "t": "Devoradores de Estrelas",
+  "tp": "filme",
+  "s": "devoradores-de-estrelas"
+ },
+ {
+  "t": "Resgate",
+  "tp": "filme",
+  "imdb": "Extraction",
+  "ano": 2020,
+  "s": "resgate"
+ },
+ {
+  "t": "Devil May Cry",
+  "tp": "anime",
+  "s": "devil-may-cry",
+  "q": "Devil May Cry 2025"
+ },
+ {
+  "t": "Amor à Queima-Roupa",
+  "tp": "filme",
+  "s": "amor-a-queima-roupa",
+  "imdb": "Killers",
+  "ano": 2010
+ },
+ {
+  "t": "Armadilha para Dois",
+  "tp": "filme",
+  "s": "armadilha-para-dois",
+  "imdb": "Knight and Day",
+  "ano": 2010
+ },
+ {
+  "t": "Cidade Perdida",
+  "tp": "filme",
+  "s": "cidade-perdida",
+  "imdb": "The Lost City",
+  "ano": 2022
+ },
+ {
+  "t": "Encontro Explosivo",
+  "tp": "filme",
+  "s": "encontro-explosivo",
+  "imdb": "Knight and Day",
+  "ano": 2010
+ },
+ {
+  "t": "Juni Taisen: Zodiac War",
+  "tp": "anime",
+  "s": "juni-taisen-zodiac-war",
+  "q": "Juni Taisen: Zodiac War"
+ },
+ {
+  "t": "Mr. & Mrs. Smith",
+  "tp": "filme",
+  "s": "mr-mrs-smith",
+  "imdb": "Mr. & Mrs. Smith",
+  "ano": 2005
+ },
+ {
+  "t": "Sr. & Sra. Smith",
+  "tp": "filme",
+  "s": "sr-sra-smith",
+  "imdb": "Mr. & Mrs. Smith",
+  "ano": 2005
+ }
 ]
