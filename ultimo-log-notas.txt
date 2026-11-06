@@ -1,11 +1,7 @@
 serie: Away -> null
 serie: Mars -> null
-filme: Amor à Queima-Roupa -> Killers (2010) (IMDb)
-filme: Armadilha para Dois -> Knight and Day (2010) (IMDb)
-filme: Cidade Perdida -> The Lost City (2022) (IMDb)
-filme: Encontro Explosivo -> Knight and Day (2010) (IMDb)
    jikan falhou: fetch failed ETIMEDOUT
-anime: Juni Taisen: Zodiac War -> JUNI TAISEN：ZODIAC WAR (2017) (AniList) | AniList 6.2 | MAL null | Kitsu 6.5
-filme: Mr. & Mrs. Smith -> Mr. & Mrs. Smith (2005) (IMDb)
-filme: Sr. & Sra. Smith -> Mr. & Mrs. Smith (2005) (IMDb)
-Pronto. Com nota: 260 de 264
+anime: Record of Ragnarok -> Record of Ragnarok (2021) (AniList) | AniList 6.7 | MAL null | Kitsu 6.8
+   jikan falhou: fetch failed ETIMEDOUT
+anime: The Eminence in Shadow -> The Eminence in Shadow (2022) (AniList) | AniList 8.1 | MAL null | Kitsu 8.2
+Pronto. Com nota: 262 de 266

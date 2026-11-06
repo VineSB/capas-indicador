@@ -3189,5 +3189,33 @@
    "votos": 605400
   },
   "achou": "Mr. & Mrs. Smith (2005) (IMDb)"
+ },
+ "record-of-ragnarok": {
+  "t": "Record of Ragnarok",
+  "tp": "anime",
+  "achou": "Record of Ragnarok (2021) (AniList)",
+  "anilist": {
+   "nota": 6.7
+  },
+  "mal": null,
+  "kitsu": {
+   "nota": 6.8,
+   "votos": 9674,
+   "achou": "Shuumatsu no Walküre"
+  }
+ },
+ "the-eminence-in-shadow": {
+  "t": "The Eminence in Shadow",
+  "tp": "anime",
+  "achou": "The Eminence in Shadow (2022) (AniList)",
+  "anilist": {
+   "nota": 8.1
+  },
+  "mal": null,
+  "kitsu": {
+   "nota": 8.2,
+   "votos": 17690,
+   "achou": "Kage no Jitsuryokusha ni Naritakute!"
+  }
  }
 }
