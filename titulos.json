@@ -1530,5 +1530,17 @@
   "s": "sr-sra-smith",
   "imdb": "Mr. & Mrs. Smith",
   "ano": 2005
+ },
+ {
+  "t": "Record of Ragnarok",
+  "tp": "anime",
+  "s": "record-of-ragnarok",
+  "q": "Shuumatsu no Valkyrie"
+ },
+ {
+  "t": "The Eminence in Shadow",
+  "tp": "anime",
+  "s": "the-eminence-in-shadow",
+  "q": "Kage no Jitsuryokusha ni Naritakute!"
  }
 ]
