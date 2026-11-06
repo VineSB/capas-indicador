@@ -1,2 +1,10 @@
-ok: My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out fo -> My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! (AniList)
-Pronto. Com capa: 1. Sem capa: 0
+   imdb "The Lost City" 2022 -> The Lost City (2022, feature) | The Lost City of Z (2016, feature) | The City of Lost Children (1995, feature) | The Lost City (2005, feature) | Dora and the Lost City of Gold (2019, feature) | The Lost City (1935, feature)
+ok: Cidade Perdida -> The Lost City (2022) (IMDb)
+   imdb "Knight and Day" 2010 -> Knight and Day (2010, feature) | Knight and Day: Story (2010, video) | A Knight for a Day (1946, short) | Knight & Daye (1989, TV series) [sem img] | Knight and Day: Scope (2010, video) | Day and an Arabian Knight (1999, short)
+ok: Encontro Explosivo -> Knight and Day (2010) (IMDb)
+ok: Juni Taisen: Zodiac War -> JUNI TAISEN：ZODIAC WAR (AniList)
+   imdb "Mr. & Mrs. Smith" 2005 -> Mr. & Mrs. Smith (2005, feature) | Mr. & Mrs. Smith (2024, TV series) | Mr. & Mrs. Smith (1941, feature) | Mr. & Mrs. Smith (1996, TV series) | Mr. and Mrs. Smith (2007, TV movie) | Mr. And Mrs. Smith Parody (2016, TV movie)
+ok: Mr. & Mrs. Smith -> Mr. & Mrs. Smith (2005) (IMDb)
+   imdb "Mr. & Mrs. Smith" 2005 -> Mr. & Mrs. Smith (2005, feature) | Mr. & Mrs. Smith (2024, TV series) | Mr. & Mrs. Smith (1941, feature) | Mr. & Mrs. Smith (1996, TV series) | Mr. and Mrs. Smith (2007, TV movie) | Mr. And Mrs. Smith Parody (2016, TV movie)
+ok: Sr. & Sra. Smith -> Mr. & Mrs. Smith (2005) (IMDb)
+Pronto. Com capa: 5. Sem capa: 0
