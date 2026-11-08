@@ -1542,5 +1542,69 @@
   "tp": "anime",
   "s": "the-eminence-in-shadow",
   "q": "Kage no Jitsuryokusha ni Naritakute!"
+ },
+ {
+  "t": "Trem-Bala (Bullet Train)",
+  "tp": "filme",
+  "s": "trem-bala-bullet-train",
+  "imdb": "Bullet Train",
+  "ano": 2022
+ },
+ {
+  "t": "A Origem (Inception)",
+  "tp": "filme",
+  "s": "a-origem-inception",
+  "imdb": "Inception",
+  "ano": 2010
+ },
+ {
+  "t": "Gladiador",
+  "tp": "filme",
+  "s": "gladiador",
+  "imdb": "Gladiator",
+  "ano": 2000
+ },
+ {
+  "t": "Demolidor",
+  "tp": "serie",
+  "s": "demolidor",
+  "q": "Daredevil"
+ },
+ {
+  "t": "Andor",
+  "tp": "serie",
+  "s": "andor",
+  "q": "Andor"
+ },
+ {
+  "t": "Silo",
+  "tp": "serie",
+  "s": "silo",
+  "q": "Silo"
+ },
+ {
+  "t": "Kengan Ashura",
+  "tp": "anime",
+  "s": "kengan-ashura",
+  "q": "Kengan Ashura"
+ },
+ {
+  "t": "Jogos Vorazes: Amanhecer na Colheita",
+  "tp": "filme",
+  "s": "jogos-vorazes-amanhecer-na-colheita",
+  "imdb": "The Hunger Games: Sunrise on the Reaping",
+  "ano": 2026
+ },
+ {
+  "t": "The fake alchemist",
+  "tp": "anime",
+  "s": "the-fake-alchemist",
+  "q": "The Fake Alchemist"
+ },
+ {
+  "t": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out fo",
+  "tp": "anime",
+  "s": "my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-i-m-out-fo",
+  "q": "My Gift Lvl 9999 Unlimited Gacha"
  }
 ]
