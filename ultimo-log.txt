@@ -1,12 +1,2 @@
-   imdb "Bullet Train" 2022 -> Bullet Train (2022, feature) | Bullet Train Explosion (2025, feature) | Bullet Train (1975, feature) | Bullet Train Down (2022, feature) | Bullet Train (?, ?) [sem img] | Comedychi Bullet Train (2020, TV series) [sem img]
-ok: Trem-Bala (Bullet Train) -> Bullet Train (2022) (IMDb)
-   imdb "Inception" 2010 -> Inception (2010, feature) | Inception: The Cobol Job (2010, video) | Inception: Jump Right Into the Action (2010, video) | Inception (?, feature) [sem img] | Inception (2014, short) | Bikini Inception (2015, feature)
-ok: A Origem (Inception) -> Inception (2010) (IMDb)
-   imdb "Gladiator" 2000 -> Gladiator (2000, feature) | Gladiator II (2024, feature) | Gladiator (1992, feature) | Gladiator Underground (2025, feature) | The Gladiator (1986, TV movie) | Gladiator Eroticvs: The Lesbian Warriors (2001, video)
-ok: Gladiador -> Gladiator (2000) (IMDb)
-ok: Andor -> Andor (TVmaze)
-ok: Silo -> Silo (TVmaze)
-ok: Kengan Ashura -> KENGAN ASHURA Part I (AniList)
-   imdb "The Hunger Games: Sunrise on the Reaping" 2026 -> The Hunger Games: Sunrise on the Reaping (2026, feature) | Hunger Games: Sunrise on The Reaping - The Donner Sisters - Fan Fiction (2024, short) | On the Black Carpet: The Hunger Games Premiere (2012, video) | Panem on Display: The Hunger Games, The Exhibition (2016, short) | Welcome to the 76th Hunger Games: On Location in Atlanta, Paris & Berlin (2016, video)
-ok: Jogos Vorazes: Amanhecer na Colheita -> The Hunger Games: Sunrise on the Reaping (2026) (IMDb)
-Pronto. Com capa: 7. Sem capa: 0
+ok: The fake alchemist -> Nisemono no Renkinjutsushi (AniList)
+Pronto. Com capa: 1. Sem capa: 0
