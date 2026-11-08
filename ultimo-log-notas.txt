@@ -1,7 +1,16 @@
 serie: Away -> null
 serie: Mars -> null
+filme: Trem-Bala (Bullet Train) -> Bullet Train (2022) (IMDb)
+filme: A Origem (Inception) -> Inception (2010) (IMDb)
+filme: Gladiador -> Gladiator (2000) (IMDb)
+serie: Demolidor -> Daredevil (2015) (IMDb)
+serie: Andor -> Andor (2022) (IMDb)
+serie: Silo -> Silo (2023) (IMDb)
    jikan falhou: fetch failed ETIMEDOUT
-anime: Record of Ragnarok -> Record of Ragnarok (2021) (AniList) | AniList 6.7 | MAL null | Kitsu 6.8
+anime: Kengan Ashura -> KENGAN ASHURA Part I (2019) (AniList) | AniList 7.3 | MAL null | Kitsu 7
+filme: Jogos Vorazes: Amanhecer na Colheita -> The Hunger Games: Sunrise on the Reaping (2026) (IMDb)
    jikan falhou: fetch failed ETIMEDOUT
-anime: The Eminence in Shadow -> The Eminence in Shadow (2022) (AniList) | AniList 8.1 | MAL null | Kitsu 8.2
-Pronto. Com nota: 262 de 266
+anime: The fake alchemist -> Nisemono no Renkinjutsushi (AniList) | AniList null | MAL null | Kitsu null
+   jikan falhou: fetch failed ETIMEDOUT
+anime: My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out fo -> My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! (2025) (AniList) | AniList 7 | MAL null | Kitsu 7.3
+Pronto. Com nota: 270 de 276
