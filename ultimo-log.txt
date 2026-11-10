@@ -1,4 +1,4 @@
-ok: Beelzebub -> As Miss Beelzebub Likes it. (AniList)
-ok: Disastrous Life of Saiki K. -> Saiki Kusuo no Ψ-nan (ONA) (AniList)
-ok: Sakamoto Desu ga? -> Haven't You Heard? I'm Sakamoto (AniList)
-Pronto. Com capa: 3. Sem capa: 0
+   fonte falhou: HTTP 404 https://graphql.anilist.co
+ok: Beelzebub -> Beelzebub: Hirotta Akachan wa Daimaou!? (Kitsu)
+ok: Disastrous Life of Saiki K. -> The Disastrous Life of Saiki K.: Reawakened (AniList)
+Pronto. Com capa: 2. Sem capa: 0
