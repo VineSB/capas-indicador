@@ -1,16 +1,5 @@
-serie: Away -> null
+serie: Away -> Away (2020) (IMDb)
 serie: Mars -> null
-filme: Trem-Bala (Bullet Train) -> Bullet Train (2022) (IMDb)
-filme: A Origem (Inception) -> Inception (2010) (IMDb)
-filme: Gladiador -> Gladiator (2000) (IMDb)
-serie: Demolidor -> Daredevil (2015) (IMDb)
-serie: Andor -> Andor (2022) (IMDb)
-serie: Silo -> Silo (2023) (IMDb)
    jikan falhou: fetch failed ETIMEDOUT
-anime: Kengan Ashura -> KENGAN ASHURA Part I (2019) (AniList) | AniList 7.3 | MAL null | Kitsu 7
-filme: Jogos Vorazes: Amanhecer na Colheita -> The Hunger Games: Sunrise on the Reaping (2026) (IMDb)
-   jikan falhou: fetch failed ETIMEDOUT
-anime: The fake alchemist -> Nisemono no Renkinjutsushi (AniList) | AniList null | MAL null | Kitsu null
-   jikan falhou: fetch failed ETIMEDOUT
-anime: My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out fo -> My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! (2025) (AniList) | AniList 7 | MAL null | Kitsu 7.3
-Pronto. Com nota: 270 de 276
+anime: Magic Maker: Como Fazer Magia em Outro Mundo -> Magic Maker: How to Make Magic in Another World (2025) (AniList) | AniList 6.6 | MAL null | Kitsu 6.9
+Pronto. Com nota: 271 de 277
