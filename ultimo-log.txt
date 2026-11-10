@@ -1,5 +1,2 @@
-   fonte falhou: HTTP 404 https://graphql.anilist.co
-ok: Easygoing Territory Defense by the Optimistic Lord -> Pioneer Log of the Storied Hot Springs "Alternate World's Springs": The Reincarnation Destination of an Onsen Fan (Who's Around 40) Was a Relaxing Hot Spring Paradise (Kitsu)
-   fonte falhou: HTTP 404 https://graphql.anilist.co
-ok: Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita. -> There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her (Kitsu)
-Pronto. Com capa: 2. Sem capa: 0
+ok: Easygoing Territory Defense by the Optimistic Lord -> Easygoing Territory Defense by the Optimistic Lord (AniList)
+Pronto. Com capa: 1. Sem capa: 0
