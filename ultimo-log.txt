@@ -1,4 +1,3 @@
-   fonte falhou: HTTP 404 https://graphql.anilist.co
-ok: Beelzebub -> Beelzebub: Hirotta Akachan wa Daimaou!? (Kitsu)
-ok: Disastrous Life of Saiki K. -> The Disastrous Life of Saiki K.: Reawakened (AniList)
+ok: Beelzebub -> Beelzebub (AniList)
+ok: Disastrous Life of Saiki K. -> The Disastrous Life of Saiki K. (AniList)
 Pronto. Com capa: 2. Sem capa: 0
