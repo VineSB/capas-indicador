@@ -1,5 +1,4 @@
-serie: Away -> Away (2020) (IMDb)
 serie: Mars -> null
    jikan falhou: fetch failed ETIMEDOUT
-anime: Magic Maker: Como Fazer Magia em Outro Mundo -> Magic Maker: How to Make Magic in Another World (2025) (AniList) | AniList 6.6 | MAL null | Kitsu 6.9
-Pronto. Com nota: 271 de 277
+anime: Magic Maker: Como Fazer Mágica em Outro Mundo -> Magic Maker: How to Make Magic in Another World (2025) (AniList) | AniList 6.6 | MAL null | Kitsu 6.9
+Pronto. Com nota: 272 de 278
