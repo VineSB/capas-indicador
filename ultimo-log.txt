@@ -1,6 +1,2 @@
-   fonte falhou: HTTP 404 https://graphql.anilist.co
-ok: Noble Reincarnation: Born Blessed, So I'll Obtain Overwhelming Power -> Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru (Kitsu)
-ok: Sentenced to Be a Hero -> Sentenced to Be a Hero (AniList)
-   fonte falhou: HTTP 404 https://graphql.anilist.co
-ok: Yuusha Party wo Oidasareta Kiyoubinbou -> Shirube (Kitsu)
-Pronto. Com capa: 3. Sem capa: 0
+ok: Yuusha Party wo Oidasareta Kiyoubinbou -> Jack-of-All-Trades, Party of None (AniList)
+Pronto. Com capa: 1. Sem capa: 0
