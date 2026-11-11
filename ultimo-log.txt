@@ -1,2 +1,4 @@
-ok: Kunon, o Feiticeiro (Majutsushi Kunon wa Mieteiru) -> Kunon the Sorcerer Can See (AniList)
-Pronto. Com capa: 1. Sem capa: 0
+ok: Bartender: Glass of God -> BARTENDER Glass of God (AniList)
+   fonte falhou: HTTP 404 https://graphql.anilist.co
+ok: O Mago da Corte Exilado Quer Viver em Paz -> The Banished Court Magician Aims to Become the Strongest (Kitsu)
+Pronto. Com capa: 2. Sem capa: 0
