@@ -1618,5 +1618,188 @@
   "tp": "anime",
   "s": "magic-maker-como-fazer-magica-em-outro-mundo",
   "q": "Magic Maker: Isekai Mahou no Tsukurikata"
+ },
+ {
+  "t": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita.",
+  "tp": "anime",
+  "s": "yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shite-mita",
+  "q": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita."
+ },
+ {
+  "t": "Sentenced to Be a Hero",
+  "tp": "anime",
+  "s": "sentenced-to-be-a-hero",
+  "q": "Sentenced to Be a Hero"
+ },
+ {
+  "t": "Reborn as a Space Mercenary",
+  "tp": "anime",
+  "s": "reborn-as-a-space-mercenary",
+  "q": "Ore wa Seikan Kokka no Akutoku Ryoushu!"
+ },
+ {
+  "t": "Katainaka no Ossan, Kensei ni Naru",
+  "tp": "anime",
+  "s": "katainaka-no-ossan-kensei-ni-naru",
+  "q": "Katainaka no Ossan, Kensei ni Naru"
+ },
+ {
+  "t": "Uma Aventureira em Seu Dia a Dia",
+  "tp": "anime",
+  "s": "uma-aventureira-em-seu-dia-a-dia",
+  "q": "Nijuukyuu-sai Dokushin Chuuken Boukensha no Nichijou"
+ },
+ {
+  "t": "Kenja no Mago",
+  "tp": "anime",
+  "s": "kenja-no-mago",
+  "q": "Kenja no Mago"
+ },
+ {
+  "t": "Noble Reincarnation: Born Blessed, So I'll Obtain Overwhelming Power",
+  "tp": "anime",
+  "s": "noble-reincarnation-born-blessed-so-i-ll-obtain-overwhelming-power",
+  "q": "Noble Reincarnation: Born Blessed, So I'll Obtain Overwhelming Power"
+ },
+ {
+  "t": "Otaku ni Yasashii Gal wa Inai!?",
+  "tp": "anime",
+  "s": "otaku-ni-yasashii-gal-wa-inai",
+  "q": "Otaku ni Yasashii Gal wa Inai!?"
+ },
+ {
+  "t": "Easygoing Territory Defense by the Optimistic Lord",
+  "tp": "anime",
+  "s": "easygoing-territory-defense-by-the-optimistic-lord",
+  "q": "Easygoing Territory Defense by the Optimistic Lord"
+ },
+ {
+  "t": "Marriagetoxin",
+  "tp": "anime",
+  "s": "marriagetoxin",
+  "q": "Marriagetoxin"
+ },
+ {
+  "t": "Black Summoner",
+  "tp": "anime",
+  "s": "black-summoner",
+  "q": "Black Summoner"
+ },
+ {
+  "t": "Kunon, o Feiticeiro (Majutsushi Kunon wa Mieteiru)",
+  "tp": "anime",
+  "s": "kunon-o-feiticeiro-majutsushi-kunon-wa-mieteiru",
+  "q": "Majutsushi Kunon wa Mieteiru"
+ },
+ {
+  "t": "O Mago da Corte Exilado Quer Viver em Paz",
+  "tp": "anime",
+  "s": "o-mago-da-corte-exilado-quer-viver-em-paz",
+  "q": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu"
+ },
+ {
+  "t": "The Exiled Heavy Knight",
+  "tp": "anime",
+  "s": "the-exiled-heavy-knight",
+  "q": "The Exiled Heavy Knight"
+ },
+ {
+  "t": "Ragna Crimson",
+  "tp": "anime",
+  "s": "ragna-crimson",
+  "q": "Ragna Crimson"
+ },
+ {
+  "t": "Yuusha Party wo Oidasareta Kiyoubinbou",
+  "tp": "anime",
+  "s": "yuusha-party-wo-oidasareta-kiyoubinbou",
+  "q": "Yuusha Party wo Oidasareta Kiyoubinbou"
+ },
+ {
+  "t": "Medalist",
+  "tp": "anime",
+  "s": "medalist",
+  "q": "Medalist"
+ },
+ {
+  "t": "Bartender: Glass of God",
+  "tp": "anime",
+  "s": "bartender-glass-of-god",
+  "q": "Bartender Kami no Glass"
+ },
+ {
+  "t": "O Dublê",
+  "tp": "filme",
+  "s": "o-duble",
+  "imdb": "The Fall Guy",
+  "ano": 2024
+ },
+ {
+  "t": "Transformers",
+  "tp": "filme",
+  "s": "transformers",
+  "imdb": "Transformers",
+  "ano": 2007
+ },
+ {
+  "t": "O Protetor 2: A Vingança",
+  "tp": "filme",
+  "s": "o-protetor-2-a-vinganca",
+  "imdb": "The Equalizer 2",
+  "ano": 2018
+ },
+ {
+  "t": "Banshee",
+  "tp": "serie",
+  "s": "banshee",
+  "q": "Banshee"
+ },
+ {
+  "t": "Landman",
+  "tp": "serie",
+  "s": "landman",
+  "q": "Landman"
+ },
+ {
+  "t": "Slow Horses",
+  "tp": "serie",
+  "s": "slow-horses",
+  "q": "Slow Horses"
+ },
+ {
+  "t": "Blue Box",
+  "tp": "anime",
+  "s": "blue-box",
+  "q": "Ao no Hako"
+ },
+ {
+  "t": "Classroom of the Elite",
+  "tp": "anime",
+  "s": "classroom-of-the-elite",
+  "q": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+ },
+ {
+  "t": "DanMachi",
+  "tp": "anime",
+  "s": "danmachi",
+  "q": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+ },
+ {
+  "t": "Tulsa King",
+  "tp": "serie",
+  "s": "tulsa-king",
+  "q": "Tulsa King"
+ },
+ {
+  "t": "Blade Runner 2099",
+  "tp": "serie",
+  "s": "blade-runner-2099",
+  "q": "Blade Runner 2099"
+ },
+ {
+  "t": "Shangri-La Frontier (3ª temporada)",
+  "tp": "anime",
+  "s": "shangri-la-frontier-3-temporada",
+  "q": "Shangri-La Frontier"
  }
 ]
