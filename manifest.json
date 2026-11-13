@@ -922,5 +922,161 @@
  "o-mago-da-corte-exilado-quer-viver-em-paz": {
   "titulo": "O Mago da Corte Exilado Quer Viver em Paz",
   "achou": "The Banished Court Magician Aims to Become the Strongest (Kitsu)"
+ },
+ "anjos-da-lei": {
+  "titulo": "Anjos da Lei",
+  "achou": "21 Jump Street (2012) (IMDb)"
+ },
+ "circulo-de-fogo": {
+  "titulo": "Círculo de Fogo",
+  "achou": "Pacific Rim (2013) (IMDb)"
+ },
+ "em-ritmo-de-fuga": {
+  "titulo": "Em Ritmo de Fuga",
+  "achou": "Baby Driver (2017) (IMDb)"
+ },
+ "furiosa-uma-saga-mad-max": {
+  "titulo": "Furiosa: Uma Saga Mad Max",
+  "achou": "Furiosa: A Mad Max Saga (2024) (IMDb)"
+ },
+ "gente-grande-2": {
+  "titulo": "Gente Grande 2",
+  "achou": "Grown Ups 2 (2013) (IMDb)"
+ },
+ "thunderbolts": {
+  "titulo": "Thunderbolts*",
+  "achou": "Thunderbolts* (2025) (IMDb)"
+ },
+ "velozes-furiosos-hobbs-shaw": {
+  "titulo": "Velozes & Furiosos: Hobbs & Shaw",
+  "achou": "Fast & Furious Presents: Hobbs & Shaw (2019) (IMDb)"
+ },
+ "o-duble": {
+  "titulo": "O Dublê",
+  "achou": "The Fall Guy (2024) (IMDb)"
+ },
+ "transformers": {
+  "titulo": "Transformers",
+  "achou": "Transformers (2007) (IMDb)"
+ },
+ "o-protetor-2-a-vinganca": {
+  "titulo": "O Protetor 2: A Vingança",
+  "achou": "The Equalizer 2 (2018) (IMDb)"
+ },
+ "baki": {
+  "titulo": "Baki",
+  "achou": "BAKI (AniList)"
+ },
+ "dandadan": {
+  "titulo": "Dandadan",
+  "achou": "DAN DA DAN (AniList)"
+ },
+ "digimon-adventure": {
+  "titulo": "Digimon Adventure",
+  "achou": "Digimon: Digital Monsters (AniList)"
+ },
+ "dorohedoro": {
+  "titulo": "Dorohedoro",
+  "achou": "Dorohedoro (AniList)"
+ },
+ "drifters": {
+  "titulo": "Drifters",
+  "achou": "DRIFTERS (AniList)"
+ },
+ "dungeon-meshi": {
+  "titulo": "Dungeon Meshi",
+  "achou": "Delicious in Dungeon (AniList)"
+ },
+ "how-a-realist-hero-rebuilt-the-kingdom": {
+  "titulo": "How a Realist Hero Rebuilt the Kingdom",
+  "achou": "How a Realist Hero Rebuilt the Kingdom (AniList)"
+ },
+ "medalist": {
+  "titulo": "Medalist",
+  "achou": "Medalist (AniList)"
+ },
+ "rurouni-kenshin": {
+  "titulo": "Rurouni Kenshin",
+  "achou": "Rurouni Kenshin (AniList)"
+ },
+ "saga-of-tanya-the-evil": {
+  "titulo": "Saga of Tanya the Evil",
+  "achou": "Saga of Tanya the Evil (AniList)"
+ },
+ "skeleton-knight-in-another-world": {
+  "titulo": "Skeleton Knight in Another World",
+  "achou": "Skeleton Knight in Another World (AniList)"
+ },
+ "the-hero-is-overpowered-but-overly-cautious": {
+  "titulo": "The Hero Is Overpowered but Overly Cautious",
+  "achou": "Cautious Hero: The Hero Is Overpowered but Overly Cautious (AniList)"
+ },
+ "trigun-stampede": {
+  "titulo": "Trigun Stampede",
+  "achou": "TRIGUN STAMPEDE (AniList)"
+ },
+ "witch-hat-atelier": {
+  "titulo": "Witch Hat Atelier",
+  "achou": "Witch Hat Atelier (AniList)"
+ },
+ "yu-yu-hakusho": {
+  "titulo": "Yu Yu Hakusho",
+  "achou": "Yu Yu Hakusho: Ghostfiles (AniList)"
+ },
+ "blue-box": {
+  "titulo": "Blue Box",
+  "achou": "Blue Box (AniList)"
+ },
+ "classroom-of-the-elite": {
+  "titulo": "Classroom of the Elite",
+  "achou": "Classroom of the Elite (AniList)"
+ },
+ "danmachi": {
+  "titulo": "DanMachi",
+  "achou": "Is It Wrong to Try to Pick Up Girls in a Dungeon? (AniList)"
+ },
+ "shangri-la-frontier-3-temporada": {
+  "titulo": "Shangri-La Frontier (3ª temporada)",
+  "achou": "Shangri-La Frontier (AniList)"
+ },
+ "black-sails": {
+  "titulo": "Black Sails",
+  "achou": "Black Sails (TVmaze)"
+ },
+ "neagley-detetive-particular": {
+  "titulo": "Neagley: Detetive Particular",
+  "achou": "Neagley (TVmaze)"
+ },
+ "o-cavaleiro-dos-sete-reinos": {
+  "titulo": "O Cavaleiro dos Sete Reinos",
+  "achou": "A Knight of the Seven Kingdoms (TVmaze)"
+ },
+ "spartacus": {
+  "titulo": "Spartacus",
+  "achou": "Spartacus (TVmaze)"
+ },
+ "the-gentlemen": {
+  "titulo": "The Gentlemen",
+  "achou": "The Gentlemen (TVmaze)"
+ },
+ "the-last-kingdom": {
+  "titulo": "The Last Kingdom",
+  "achou": "The Last Kingdom (TVmaze)"
+ },
+ "xogum-a-gloriosa-saga-do-japao": {
+  "titulo": "Xógum: A Gloriosa Saga do Japão",
+  "achou": "Shōgun (TVmaze)"
+ },
+ "landman": {
+  "titulo": "Landman",
+  "achou": "Landman (TVmaze)"
+ },
+ "tulsa-king": {
+  "titulo": "Tulsa King",
+  "achou": "Tulsa King (TVmaze)"
+ },
+ "blade-runner-2099": {
+  "titulo": "Blade Runner 2099",
+  "achou": "Blade Runner 2099 (TVmaze)"
  }
 }
