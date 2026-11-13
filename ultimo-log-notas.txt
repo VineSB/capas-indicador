@@ -1,4 +1,35 @@
 serie: Mars -> null
+anime: Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita. -> null | AniList null | MAL null | Kitsu null
    jikan falhou: fetch failed ETIMEDOUT
-anime: Magic Maker: Como Fazer Mágica em Outro Mundo -> Magic Maker: How to Make Magic in Another World (2025) (AniList) | AniList 6.6 | MAL null | Kitsu 6.9
-Pronto. Com nota: 272 de 278
+anime: Sentenced to Be a Hero -> Sentenced to Be a Hero (2026) (AniList) | AniList 8 | MAL null | Kitsu 8.1
+   jikan falhou: fetch failed ETIMEDOUT
+anime: Reborn as a Space Mercenary -> I'm the Evil Lord of an Intergalactic Empire! (2025) (AniList) | AniList 6.8 | MAL null | Kitsu 7.1
+   jikan falhou: fetch failed ETIMEDOUT
+anime: Katainaka no Ossan, Kensei ni Naru -> From Old Country Bumpkin to Master Swordsman (2025) (AniList) | AniList 6.9 | MAL null | Kitsu 7.1
+anime: Uma Aventureira em Seu Dia a Dia -> null | AniList null | MAL null | Kitsu null
+anime: Kenja no Mago -> Wise Man’s Grandchild (2019) (AniList) | AniList 6.4 | MAL null | Kitsu 6.7
+anime: Noble Reincarnation: Born Blessed, So I'll Obtain Overwhelming Power -> null | AniList null | MAL null | Kitsu null
+anime: Otaku ni Yasashii Gal wa Inai!? -> Gals Can't Be Kind to Otaku!? (2026) (AniList) | AniList 7.5 | MAL null | Kitsu 7.6
+anime: Easygoing Territory Defense by the Optimistic Lord -> Easygoing Territory Defense by the Optimistic Lord (2026) (AniList) | AniList 6.8 | MAL null | Kitsu 7.2
+anime: Marriagetoxin -> MARRIAGETOXIN (2026) (AniList) | AniList 7.6 | MAL null | Kitsu 7.6
+anime: Black Summoner -> Black Summoner (2022) (AniList) | AniList 6.8 | MAL null | Kitsu 7.1
+anime: Kunon, o Feiticeiro (Majutsushi Kunon wa Mieteiru) -> Kunon the Sorcerer Can See (2026) (AniList) | AniList 6.5 | MAL null | Kitsu 6.9
+anime: O Mago da Corte Exilado Quer Viver em Paz -> null | AniList null | MAL null | Kitsu null
+anime: The Exiled Heavy Knight -> The Exiled Heavy Knight Knows How to Game the System (2026) (AniList) | AniList 6.7 | MAL null | Kitsu 7.1
+anime: Ragna Crimson -> Ragna Crimson (2023) (AniList) | AniList 7.4 | MAL null | Kitsu 7.5
+anime: Yuusha Party wo Oidasareta Kiyoubinbou -> null | AniList null | MAL null | Kitsu null
+anime: Medalist -> Medalist (2025) (AniList) | AniList 8.3 | MAL null | Kitsu 8.2
+anime: Bartender: Glass of God -> BARTENDER Glass of God (2024) (AniList) | AniList 7.3 | MAL null | Kitsu 7.4
+filme: O Dublê -> The Fall Guy (2024) (IMDb)
+filme: Transformers -> Transformers (2007) (IMDb)
+filme: O Protetor 2: A Vingança -> The Equalizer 2 (2018) (IMDb)
+serie: Banshee -> Banshee (2013) (IMDb)
+serie: Landman -> Landman (2024) (IMDb)
+serie: Slow Horses -> Slow Horses (2022) (IMDb)
+anime: Blue Box -> Blue Box (2024) (AniList) | AniList 8.1 | MAL null | Kitsu 8.2
+anime: Classroom of the Elite -> Classroom of the Elite (2017) (AniList) | AniList 7.6 | MAL null | Kitsu 7.8
+anime: DanMachi -> Is It Wrong to Try to Pick Up Girls in a Dungeon? (2015) (AniList) | AniList 7.3 | MAL null | Kitsu 7.7
+serie: Tulsa King -> Tulsa King (2022) (IMDb)
+serie: Blade Runner 2099 -> Blade Runner 2099 (2026) (IMDb)
+anime: Shangri-La Frontier (3ª temporada) -> Shangri-La Frontier (2023) (AniList) | AniList 8 | MAL null | Kitsu 8.1
+Pronto. Com nota: 297 de 308
