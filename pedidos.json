@@ -1,4 +1,253 @@
 [
-{"t":"Bartender: Glass of God","tp":"anime","s":"bartender-glass-of-god","q":"Bartender Kami no Glass"},
-{"t":"O Mago da Corte Exilado Quer Viver em Paz","tp":"anime","s":"o-mago-da-corte-exilado-quer-viver-em-paz","q":"Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu"}
+{
+"t": "Anjos da Lei",
+"tp": "filme",
+"s": "anjos-da-lei",
+"imdb": "21 Jump Street",
+"ano": 2012
+},
+{
+"t": "Círculo de Fogo",
+"tp": "filme",
+"s": "circulo-de-fogo",
+"imdb": "Pacific Rim",
+"ano": 2013
+},
+{
+"t": "Em Ritmo de Fuga",
+"tp": "filme",
+"s": "em-ritmo-de-fuga",
+"imdb": "Baby Driver",
+"ano": 2017
+},
+{
+"t": "F1: O Filme",
+"tp": "filme",
+"s": "f1-o-filme",
+"imdb": "F1",
+"ano": 2025
+},
+{
+"t": "Furiosa: Uma Saga Mad Max",
+"tp": "filme",
+"s": "furiosa-uma-saga-mad-max",
+"imdb": "Furiosa: A Mad Max Saga",
+"ano": 2024
+},
+{
+"t": "Gente Grande 2",
+"tp": "filme",
+"s": "gente-grande-2",
+"imdb": "Grown Ups 2",
+"ano": 2013
+},
+{
+"t": "Thunderbolts*",
+"tp": "filme",
+"s": "thunderbolts",
+"imdb": "Thunderbolts*",
+"ano": 2025
+},
+{
+"t": "Velozes & Furiosos: Hobbs & Shaw",
+"tp": "filme",
+"s": "velozes-furiosos-hobbs-shaw",
+"imdb": "Fast & Furious Presents: Hobbs & Shaw",
+"ano": 2019
+},
+{
+"t": "O Dublê",
+"tp": "filme",
+"s": "o-duble",
+"imdb": "The Fall Guy",
+"ano": 2024
+},
+{
+"t": "Transformers",
+"tp": "filme",
+"s": "transformers",
+"imdb": "Transformers",
+"ano": 2007
+},
+{
+"t": "O Protetor 2: A Vingança",
+"tp": "filme",
+"s": "o-protetor-2-a-vinganca",
+"imdb": "The Equalizer 2",
+"ano": 2018
+},
+{
+"t": "Baki",
+"tp": "anime",
+"s": "baki",
+"q": "Baki"
+},
+{
+"t": "Dandadan",
+"tp": "anime",
+"s": "dandadan",
+"q": "Dandadan"
+},
+{
+"t": "Digimon Adventure",
+"tp": "anime",
+"s": "digimon-adventure",
+"q": "Digimon Adventure"
+},
+{
+"t": "Dorohedoro",
+"tp": "anime",
+"s": "dorohedoro",
+"q": "Dorohedoro"
+},
+{
+"t": "Drifters",
+"tp": "anime",
+"s": "drifters",
+"q": "Drifters"
+},
+{
+"t": "Dungeon Meshi",
+"tp": "anime",
+"s": "dungeon-meshi",
+"q": "Dungeon Meshi"
+},
+{
+"t": "How a Realist Hero Rebuilt the Kingdom",
+"tp": "anime",
+"s": "how-a-realist-hero-rebuilt-the-kingdom",
+"q": "Genjitsu Shugi Yuusha no Oukoku Saikenki"
+},
+{
+"t": "Medalist",
+"tp": "anime",
+"s": "medalist",
+"q": "Medalist"
+},
+{
+"t": "Rurouni Kenshin",
+"tp": "anime",
+"s": "rurouni-kenshin",
+"q": "Rurouni Kenshin: Meiji Kenkaku Romantan"
+},
+{
+"t": "Saga of Tanya the Evil",
+"tp": "anime",
+"s": "saga-of-tanya-the-evil",
+"q": "Youjo Senki"
+},
+{
+"t": "Skeleton Knight in Another World",
+"tp": "anime",
+"s": "skeleton-knight-in-another-world",
+"q": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu"
+},
+{
+"t": "The Hero Is Overpowered but Overly Cautious",
+"tp": "anime",
+"s": "the-hero-is-overpowered-but-overly-cautious",
+"q": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru"
+},
+{
+"t": "Trigun Stampede",
+"tp": "anime",
+"s": "trigun-stampede",
+"q": "Trigun Stampede"
+},
+{
+"t": "Witch Hat Atelier",
+"tp": "anime",
+"s": "witch-hat-atelier",
+"q": "Tongari Boushi no Atelier"
+},
+{
+"t": "Yu Yu Hakusho",
+"tp": "anime",
+"s": "yu-yu-hakusho",
+"q": "Yu Yu Hakusho"
+},
+{
+"t": "Blue Box",
+"tp": "anime",
+"s": "blue-box",
+"q": "Ao no Hako"
+},
+{
+"t": "Classroom of the Elite",
+"tp": "anime",
+"s": "classroom-of-the-elite",
+"q": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+},
+{
+"t": "DanMachi",
+"tp": "anime",
+"s": "danmachi",
+"q": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+},
+{
+"t": "Shangri-La Frontier (3ª temporada)",
+"tp": "anime",
+"s": "shangri-la-frontier-3-temporada",
+"q": "Shangri-La Frontier"
+},
+{
+"t": "Black Sails",
+"tp": "serie",
+"s": "black-sails",
+"q": "Black Sails"
+},
+{
+"t": "Neagley: Detetive Particular",
+"tp": "serie",
+"s": "neagley-detetive-particular",
+"q": "Neagley"
+},
+{
+"t": "O Cavaleiro dos Sete Reinos",
+"tp": "serie",
+"s": "o-cavaleiro-dos-sete-reinos",
+"q": "A Knight of the Seven Kingdoms"
+},
+{
+"t": "Spartacus",
+"tp": "serie",
+"s": "spartacus",
+"q": "Spartacus"
+},
+{
+"t": "The Gentlemen",
+"tp": "serie",
+"s": "the-gentlemen",
+"q": "The Gentlemen"
+},
+{
+"t": "The Last Kingdom",
+"tp": "serie",
+"s": "the-last-kingdom",
+"q": "The Last Kingdom"
+},
+{
+"t": "Xógum: A Gloriosa Saga do Japão",
+"tp": "serie",
+"s": "xogum-a-gloriosa-saga-do-japao",
+"q": "Shogun"
+},
+{
+"t": "Landman",
+"tp": "serie",
+"s": "landman",
+"q": "Landman"
+},
+{
+"t": "Tulsa King",
+"tp": "serie",
+"s": "tulsa-king",
+"q": "Tulsa King"
+},
+{
+"t": "Blade Runner 2099",
+"tp": "serie",
+"s": "blade-runner-2099",
+"q": "Blade Runner 2099"
+}
 ]
