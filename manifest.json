@@ -1082,5 +1082,21 @@
  "f1-o-filme": {
   "titulo": "F1: O Filme",
   "achou": "F1: The Movie (2025) (IMDb)"
+ },
+ "atirador": {
+  "titulo": "Atirador",
+  "achou": "Boy Kills World (2023) (IMDb)"
+ },
+ "free-fire-o-tiroteio": {
+  "titulo": "Free Fire: O Tiroteio",
+  "achou": "Free Fire (2016) (IMDb)"
+ },
+ "nobody-hora-de-matar": {
+  "titulo": "Nobody - Hora de Matar",
+  "achou": "Nobody (2021) (IMDb)"
+ },
+ "os-dias-de-sakamoto": {
+  "titulo": "Os Dias de Sakamoto",
+  "achou": "Haven't You Heard? I'm Sakamoto (AniList)"
  }
 }
