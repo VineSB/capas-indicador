@@ -1,8 +1,3 @@
-   imdb "Boy Kills World" 2023 -> Boy Kills World (2023, feature) | Untitled Boy Kills World spinoff (?, TV series) [sem img] | Bonita Pietila (?, ?) [sem img] | Matt Warburton (?, ?) | Set this World Ablaze Killswitch Engage (2005, feature)
-ok: Atirador -> Boy Kills World (2023) (IMDb)
-   imdb "Free Fire" 2016 -> Free Fire (2016, feature) | Free Fire (2017, video game) | Free Fire Daybreak (?, TV series) | Free Fire Commercial (2022, video) | Free Fire (2025, short) | The Abandoned Field: Free Fire Zone (1979, feature)
-ok: Free Fire: O Tiroteio -> Free Fire (2016) (IMDb)
-   imdb "Nobody" 2021 -> Nobody Wants This (2024, TV series) | Nobody (2021, feature) | Nobody 2 (2025, feature) | Nobody Knows (2004, feature) | Nobody (2025, feature) | Mr. Nobody (2009, feature)
-ok: Nobody - Hora de Matar -> Nobody (2021) (IMDb)
-ok: Os Dias de Sakamoto -> Haven't You Heard? I'm Sakamoto (AniList)
-Pronto. Com capa: 4. Sem capa: 0
+ok: Gate -> Gate (AniList)
+ok: So I'm a Spider, So What? -> So I'm a Spider, So What? (AniList)
+Pronto. Com capa: 2. Sem capa: 0
