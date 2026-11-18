@@ -1138,5 +1138,17 @@
  "halo": {
   "titulo": "Halo",
   "achou": "Halo (TVmaze)"
+ },
+ "loki": {
+  "titulo": "Loki",
+  "achou": "Loki (TVmaze)"
+ },
+ "obi-wan-kenobi": {
+  "titulo": "Obi-Wan Kenobi",
+  "achou": "Obi-Wan Kenobi (TVmaze)"
+ },
+ "the-umbrella-academy": {
+  "titulo": "The Umbrella Academy",
+  "achou": "The Umbrella Academy (TVmaze)"
  }
 }
