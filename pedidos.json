@@ -1,4 +1,6 @@
 [
-{"t":"Gate","tp":"anime","s":"gate","q":"Gate: Jieitai Kanochi nite, Kaku Tatakaeri"},
-{"t":"So I'm a Spider, So What?","tp":"anime","s":"so-i-m-a-spider-so-what","q":"Kumo desu ga, Nani ka?"}
+{"t":"Código 8","tp":"filme","s":"codigo-8","imdb":"Code 8","ano":2019},
+{"t":"Looper: Assassino do Futuro","tp":"filme","s":"looper-assassino-do-futuro","imdb":"Looper","ano":2012},
+{"t":"Pacific Rim: Tempestade Pacífica","tp":"filme","s":"pacific-rim-tempestade-pacifica","imdb":"Pacific Rim","ano":2013},
+{"t":"Tenet","tp":"filme","s":"tenet","imdb":"Tenet","ano":2020}
 ]
