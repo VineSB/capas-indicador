@@ -1,4 +1,8 @@
 {
+ "3": {
+  "titulo": "3%",
+  "achou": "3% (TVmaze)"
+ },
  "piratas-do-caribe": {
   "titulo": "Piratas do Caribe",
   "achou": "Pirates of the Caribbean: The Curse of the Black Pearl (Wikipedia pt, página exata)"
@@ -1122,5 +1126,9 @@
  "tenet": {
   "titulo": "Tenet",
   "achou": "Tenet (2020) (IMDb)"
+ },
+ "fringe": {
+  "titulo": "Fringe",
+  "achou": "Fringe (TVmaze)"
  }
 }
