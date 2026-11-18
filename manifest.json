@@ -1130,5 +1130,13 @@
  "fringe": {
   "titulo": "Fringe",
   "achou": "Fringe (TVmaze)"
+ },
+ "battlestar-galactica": {
+  "titulo": "Battlestar Galactica",
+  "achou": "Battlestar Galactica (TVmaze)"
+ },
+ "halo": {
+  "titulo": "Halo",
+  "achou": "Halo (TVmaze)"
  }
 }

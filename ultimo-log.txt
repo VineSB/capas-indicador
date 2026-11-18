@@ -1,5 +1,3 @@
-ok: 3% -> 3% (TVmaze)
-não achei: Battlestar Galactica
-ok: Fringe -> Fringe (TVmaze)
-não achei: Halo
-Pronto. Com capa: 2. Sem capa: 2 (Battlestar Galactica, Halo)
+ok: Battlestar Galactica -> Battlestar Galactica (TVmaze)
+ok: Halo -> Halo (TVmaze)
+Pronto. Com capa: 2. Sem capa: 0
