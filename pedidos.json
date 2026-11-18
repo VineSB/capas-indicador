@@ -1,6 +1,6 @@
 [
-{"t":"Código 8","tp":"filme","s":"codigo-8","imdb":"Code 8","ano":2019},
-{"t":"Looper: Assassino do Futuro","tp":"filme","s":"looper-assassino-do-futuro","imdb":"Looper","ano":2012},
-{"t":"Pacific Rim: Tempestade Pacífica","tp":"filme","s":"pacific-rim-tempestade-pacifica","imdb":"Pacific Rim","ano":2013},
-{"t":"Tenet","tp":"filme","s":"tenet","imdb":"Tenet","ano":2020}
+{"t":"3%","tp":"serie","s":"3","q":"3%"},
+{"t":"Battlestar Galactica","tp":"serie","s":"battlestar-galactica","q":"Battlestar Galactica 2004"},
+{"t":"Fringe","tp":"serie","s":"fringe","q":"Fringe"},
+{"t":"Halo","tp":"serie","s":"halo","q":"Halo 2022"}
 ]
