@@ -1106,5 +1106,21 @@
  "so-i-m-a-spider-so-what": {
   "titulo": "So I'm a Spider, So What?",
   "achou": "So I'm a Spider, So What? (AniList)"
+ },
+ "codigo-8": {
+  "titulo": "Código 8",
+  "achou": "Code 8 (2019) (IMDb)"
+ },
+ "looper-assassino-do-futuro": {
+  "titulo": "Looper: Assassino do Futuro",
+  "achou": "Looper (2012) (IMDb)"
+ },
+ "pacific-rim-tempestade-pacifica": {
+  "titulo": "Pacific Rim: Tempestade Pacífica",
+  "achou": "Pacific Rim (2013) (IMDb)"
+ },
+ "tenet": {
+  "titulo": "Tenet",
+  "achou": "Tenet (2020) (IMDb)"
  }
 }

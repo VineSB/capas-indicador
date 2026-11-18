@@ -1,3 +1,9 @@
-ok: Gate -> Gate (AniList)
-ok: So I'm a Spider, So What? -> So I'm a Spider, So What? (AniList)
-Pronto. Com capa: 2. Sem capa: 0
+   imdb "Code 8" 2019 -> Code 8 (2019, feature) | Code 8: Part II (2024, feature) | Code 8 (2016, short) | Bohachi Bushido: Code of the Forgotten Eight (1973, feature) | Untitled Code 8 Spinoff (?, TV series) [sem img] | Code 8 Recruitment (?, feature)
+ok: Código 8 -> Code 8 (2019) (IMDb)
+   imdb "Looper" 2012 -> Looper (2012, feature) | Lindsay Pulsipher (?, ?) | Looper (2016, TV series) | Looper (2025, short) [sem img] | Douglas Looper (?, ?) | Dagny Atencio Looper (?, ?)
+ok: Looper: Assassino do Futuro -> Looper (2012) (IMDb)
+   imdb "Pacific Rim" 2013 -> Pacific Rim (2013, feature) | Pacific Rim: Uprising (2018, feature) | Pacific Rim: The Black (2021, TV series) | Pacific Rim: Shatterdome Strike (2019, video) | Pacific Rim Uprising: The Underworld of Uprising (2018, video) | Untitled Pacific Rim Origin Project (?, TV series) [sem img]
+ok: Pacific Rim: Tempestade Pacífica -> Pacific Rim (2013) (IMDb)
+   imdb "Tenet" 2020 -> Tenet (2020, feature) | Olivia Tenet (?, ?) [sem img] | Looking at the World in a New Way: The Making of Tenet (2020, video) | The Tenet (2018, short) | George Tenet (?, ?) | Marion Tenet (?, ?) [sem img]
+ok: Tenet -> Tenet (2020) (IMDb)
+Pronto. Com capa: 4. Sem capa: 0
