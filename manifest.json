@@ -1150,5 +1150,37 @@
  "the-umbrella-academy": {
   "titulo": "The Umbrella Academy",
   "achou": "The Umbrella Academy (TVmaze)"
+ },
+ "agente-oculto": {
+  "titulo": "Agente Oculto",
+  "achou": "The Gray Man (2022) (IMDb)"
+ },
+ "alerta-vermelho": {
+  "titulo": "Alerta Vermelho",
+  "achou": "Red Notice (2021) (IMDb)"
+ },
+ "sem-desistir": {
+  "titulo": "Sem Desistir",
+  "achou": "Never Surrender (2026) (IMDb)"
+ },
+ "dexter": {
+  "titulo": "Dexter",
+  "achou": "Dexter (TVmaze)"
+ },
+ "alice-in-borderland": {
+  "titulo": "Alice in Borderland",
+  "achou": "Alice in Borderland (TVmaze)"
+ },
+ "oshi-no-ko": {
+  "titulo": "Oshi no Ko",
+  "achou": "OSHI NO KO (AniList)"
+ },
+ "tower-of-god": {
+  "titulo": "Tower of God",
+  "achou": "Tower of God (AniList)"
+ },
+ "fool-night": {
+  "titulo": "Fool Night",
+  "achou": "Fool Night (AniList)"
  }
 }
