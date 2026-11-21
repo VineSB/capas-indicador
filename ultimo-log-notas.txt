@@ -1,9 +1,5 @@
 serie: Mars -> null
-serie: Loki -> Loki (2021) (IMDb)
-   jikan falhou: fetch failed ETIMEDOUT
-anime: Cautious Hero: The Hero Is Overpowered but Overly Cautious -> Cautious Hero: The Hero Is Overpowered but Overly Cautious (2019) (AniList) | AniList 7.3 | MAL null | Kitsu 7.5
-   jikan falhou: fetch failed ETIMEDOUT
-anime: Os Dias de Sakamoto -> SAKAMOTO DAYS (2025) (AniList) | AniList 7.6 | MAL null | Kitsu 7.7
-   jikan falhou: fetch failed ETIMEDOUT
-anime: Fool Night -> Fool Night (2026) (AniList) | AniList null | MAL null | Kitsu null
-Pronto. Com nota: 301 de 312
+filme: Duro de Matar -> Die Hard (1988) (IMDb)
+filme: Extração -> Extraction (2020) (IMDb)
+filme: Missão: Impossível - Efeito Fallout -> Mission: Impossible - Fallout (2018) (IMDb)
+Pronto. Com nota: 304 de 315
