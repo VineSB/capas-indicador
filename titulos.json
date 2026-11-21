@@ -1825,5 +1825,26 @@
 "tp": "anime",
 "s": "fool-night",
 "q": "Fool Night"
+},
+{
+"t": "Duro de Matar",
+"tp": "filme",
+"s": "duro-de-matar",
+"imdb": "Die Hard",
+"ano": 1988
+},
+{
+"t": "Extração",
+"tp": "filme",
+"s": "extracao",
+"imdb": "Extraction",
+"ano": 2020
+},
+{
+"t": "Missão: Impossível - Efeito Fallout",
+"tp": "filme",
+"s": "missao-impossivel-efeito-fallout",
+"imdb": "Mission: Impossible - Fallout",
+"ano": 2018
 }
 ]
