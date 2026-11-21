@@ -1,12 +1,7 @@
-   imdb "The Gray Man" 2022 -> The Gray Man (2022, feature) | The Gray Man: On Target (?, feature) [sem img] | The Gray Man (2007, feature) | The Man in the Gray Flannel Suit (1956, feature) | The Man in Gray (1997, feature) | The Gray Man (2002, feature) [sem img]
-ok: Agente Oculto -> The Gray Man (2022) (IMDb)
-   imdb "Red Notice" 2021 -> Red Notice (2021, feature) | SAS: Rise of the Black Swan (2021, feature) | Red Notice 2 (?, feature) [sem img] | Red Notice (?, TV series) [sem img] | Red Notice (2011, TV series) [sem img] | SAS: Red Notice 2 (?, feature) [sem img]
-ok: Alerta Vermelho -> Red Notice (2021) (IMDb)
-   imdb "Never Surrender" 2026 -> Never Surrender (2026, feature) | Never Surrender (2009, feature) | Never Surrender (2011, feature) | Never Surrender: A Galaxy Quest Documentary (2019, feature) | Never Back Down: No Surrender (2016, video) | Never Surrender: The Ed Ramsey Story (2016, feature)
-ok: Sem Desistir -> Never Surrender (2026) (IMDb)
-ok: Dexter -> Dexter (TVmaze)
-ok: Alice in Borderland -> Alice in Borderland (TVmaze)
-ok: Oshi no Ko -> OSHI NO KO (AniList)
-ok: Tower of God -> Tower of God (AniList)
-ok: Fool Night -> Fool Night (AniList)
-Pronto. Com capa: 8. Sem capa: 0
+   imdb "Die Hard" 1988 -> Holiday Watch Guide (?, ?) | Die Hard (1988, feature) | Live Free or Die Hard (2007, feature) | Die Hard 2 (1990, feature) | Die Hard with a Vengeance (1995, feature) | A Good Day to Die Hard (2013, feature)
+ok: Duro de Matar -> Die Hard (1988) (IMDb)
+   imdb "Extraction" 2020 -> Extraction (2020, feature) | Extraction II (2023, feature) | Extraction 3 (?, feature) [sem img] | Extracted (2012, feature) | Extraction (2015, feature) | Extraction (2013, feature)
+ok: Extração -> Extraction (2020) (IMDb)
+   imdb "Mission: Impossible - Fallout" 2018 -> Mission: Impossible - Fallout (2018, feature) | Mission: Impossible: Fallout - Behind the Scenes 360° (2018, video)
+ok: Missão: Impossível - Efeito Fallout -> Mission: Impossible - Fallout (2018) (IMDb)
+Pronto. Com capa: 3. Sem capa: 0
