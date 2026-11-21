@@ -1,10 +1,5 @@
 [
-{"t":"Agente Oculto","tp":"filme","s":"agente-oculto","imdb":"The Gray Man","ano":2022},
-{"t":"Alerta Vermelho","tp":"filme","s":"alerta-vermelho","imdb":"Red Notice","ano":2021},
-{"t":"Sem Desistir","tp":"filme","s":"sem-desistir","imdb":"Never Surrender","ano":2026},
-{"t":"Dexter","tp":"serie","s":"dexter","q":"Dexter"},
-{"t":"Alice in Borderland","tp":"serie","s":"alice-in-borderland","q":"Alice in Borderland"},
-{"t":"Oshi no Ko","tp":"anime","s":"oshi-no-ko","q":"Oshi no Ko"},
-{"t":"Tower of God","tp":"anime","s":"tower-of-god","q":"Tower of God"},
-{"t":"Fool Night","tp":"anime","s":"fool-night","q":"Fool Night"}
+{"t":"Duro de Matar","tp":"filme","s":"duro-de-matar","imdb":"Die Hard","ano":1988},
+{"t":"Extração","tp":"filme","s":"extracao","imdb":"Extraction","ano":2020},
+{"t":"Missão: Impossível - Efeito Fallout","tp":"filme","s":"missao-impossivel-efeito-fallout","imdb":"Mission: Impossible - Fallout","ano":2018}
 ]
