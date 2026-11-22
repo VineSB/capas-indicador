@@ -1,5 +1,13 @@
 serie: Mars -> null
-filme: Duro de Matar -> Die Hard (1988) (IMDb)
-filme: Extração -> Extraction (2020) (IMDb)
-filme: Missão: Impossível - Efeito Fallout -> Mission: Impossible - Fallout (2018) (IMDb)
-Pronto. Com nota: 304 de 315
+filme: Agente Oculto -> The Gray Man (2022) (IMDb)
+filme: Alerta Vermelho -> Red Notice (2021) (IMDb)
+filme: Sem Desistir -> Never Surrender (2026) (IMDb)
+serie: Dexter -> Dexter (2006) (IMDb)
+serie: Alice in Borderland -> Alice in Borderland (2020) (IMDb)
+   jikan falhou: fetch failed ETIMEDOUT
+anime: Oshi no Ko -> OSHI NO KO (2023) (AniList) | AniList 8.4 | MAL null | Kitsu 8.3
+   jikan falhou: fetch failed ETIMEDOUT
+anime: Tower of God -> Tower of God (2020) (AniList) | AniList 7.4 | MAL null | Kitsu 7.6
+   jikan falhou: fetch failed ETIMEDOUT
+anime: Noragami -> Noragami (2014) (AniList) | AniList 7.8 | MAL null | Kitsu 8.2
+Pronto. Com nota: 312 de 323
