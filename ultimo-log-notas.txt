@@ -1,13 +1,15 @@
 serie: Mars -> null
-filme: Agente Oculto -> The Gray Man (2022) (IMDb)
-filme: Alerta Vermelho -> Red Notice (2021) (IMDb)
-filme: Sem Desistir -> Never Surrender (2026) (IMDb)
-serie: Dexter -> Dexter (2006) (IMDb)
-serie: Alice in Borderland -> Alice in Borderland (2020) (IMDb)
+filme: O Pacto -> The Covenant (2023) (IMDb)
+filme: Guerra Sem Regras -> The Ministry of Ungentlemanly Warfare (2024) (IMDb)
+filme: Beekeeper: Rede de Vingança -> The Beekeeper (2024) (IMDb)
+serie: Band of Brothers (Irmãos de Guerra) -> Band of Brothers (2001) (IMDb)
+serie: O Justiceiro -> The Punisher (2017) (IMDb)
    jikan falhou: fetch failed ETIMEDOUT
-anime: Oshi no Ko -> OSHI NO KO (2023) (AniList) | AniList 8.4 | MAL null | Kitsu 8.3
+anime: Zom 100: 100 Coisas para Fazer Antes de Virar Zumbi -> Zom 100: Bucket List of the Dead (2023) (AniList) | AniList 7.6 | MAL null | Kitsu 7.9
    jikan falhou: fetch failed ETIMEDOUT
-anime: Tower of God -> Tower of God (2020) (AniList) | AniList 7.4 | MAL null | Kitsu 7.6
+anime: The Wrong Way to Use Healing Magic -> The Wrong Way to Use Healing Magic (2024) (AniList) | AniList 7.5 | MAL null | Kitsu 7.7
+filme: Missão Resgate de Natal -> The Man with the Bag (2026) (IMDb)
+filme: As Novas Desventuras de Cliff Booth -> The Further Mis-Adventures of Cliff Booth (2026) (IMDb)
    jikan falhou: fetch failed ETIMEDOUT
-anime: Noragami -> Noragami (2014) (AniList) | AniList 7.8 | MAL null | Kitsu 8.2
-Pronto. Com nota: 312 de 323
+anime: Mashle (3ª temporada) -> MASHLE: MAGIC AND MUSCLES (2023) (AniList) | AniList 7.6 | MAL null | Kitsu 7.7
+Pronto. Com nota: 322 de 333
