@@ -1,16 +1,3 @@
    imdb "The Covenant" 2023 -> The Covenant (2023, feature) | The Covenant (2006, feature) | The Covenant (2025, feature) | Alien: Covenant (2017, feature) | The Holcroft Covenant (1985, feature) | The Covenant (2023, feature)
-não achei: O Pacto
-   imdb "The Ministry of Ungentlemanly Warfare" 2024 -> The Ministry of Ungentlemanly Warfare (2024, feature) | Churchill's Ministry of Ungentlemanly Warfare (?, TV series) [sem img] | Winston Churchill's Ministry of Ungentlemanly Warfare (?, TV series) [sem img] | David Bowes-Lyon (?, ?) [sem img] | Choir of the Moscow University of the Ministry of Internal Affairs (?, ?) [sem img] | The Ministry of Time (2015, TV series)
-ok: Guerra Sem Regras -> The Ministry of Ungentlemanly Warfare (2024) (IMDb)
-   imdb "The Beekeeper" 2024 -> The Beekeeper (2024, feature) | The Beekeeper 2 (2027, feature) | The Beekeeper (1986, feature) | The Quiet Beekeeper (2026, feature) | The Beekeeper (2013, feature) | The Beekeeper (2013, TV movie)
-ok: Beekeeper: Rede de Vingança -> The Beekeeper (2024) (IMDb)
-ok: Band of Brothers (Irmãos de Guerra) -> Band of Brothers (TVmaze)
-ok: O Justiceiro -> Marvel's The Punisher (TVmaze)
-ok: Zom 100: 100 Coisas para Fazer Antes de Virar Zumbi -> Zom 100: Bucket List of the Dead (AniList)
-ok: The Wrong Way to Use Healing Magic -> The Wrong Way to Use Healing Magic (AniList)
-   imdb "The Man with the Bag" 2026 -> Holiday Watch Guide (?, ?) | The Man with the Bag (2026, feature) | Method Man (?, ?) | Arnold Schwarzenegger (?, ?) | Dennis Waterman (?, ?) | Christopher Rodriguez Marquette (?, ?)
-ok: Missão Resgate de Natal -> The Man with the Bag (2026) (IMDb)
-   imdb "The Further Mis-Adventures of Cliff Booth" 2026 -> The Further Mis-Adventures of Cliff Booth (2026, feature)
-ok: As Novas Desventuras de Cliff Booth -> The Further Mis-Adventures of Cliff Booth (2026) (IMDb)
-ok: Mashle (3ª temporada) -> MASHLE: MAGIC AND MUSCLES (AniList)
-Pronto. Com capa: 9. Sem capa: 1 (O Pacto)
+ok: O Pacto -> The Covenant (2023) (IMDb)
+Pronto. Com capa: 1. Sem capa: 0
