@@ -1897,5 +1897,15 @@
 "tp": "anime",
 "s": "noragami",
 "q": "Noragami"
-}
+},
+{"t": "O Pacto", "tp": "filme", "s": "o-pacto", "imdb": "The Covenant", "ano": 2023},
+{"t": "Guerra Sem Regras", "tp": "filme", "s": "guerra-sem-regras", "imdb": "The Ministry of Ungentlemanly Warfare", "ano": 2024},
+{"t": "Beekeeper: Rede de Vingança", "tp": "filme", "s": "beekeeper-rede-de-vinganca", "imdb": "The Beekeeper", "ano": 2024},
+{"t": "Band of Brothers (Irmãos de Guerra)", "tp": "serie", "s": "band-of-brothers-irmaos-de-guerra", "q": "Band of Brothers"},
+{"t": "O Justiceiro", "tp": "serie", "s": "o-justiceiro", "q": "The Punisher"},
+{"t": "Zom 100: 100 Coisas para Fazer Antes de Virar Zumbi", "tp": "anime", "s": "zom-100-100-coisas-para-fazer-antes-de-virar-zumbi", "q": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto"},
+{"t": "The Wrong Way to Use Healing Magic", "tp": "anime", "s": "the-wrong-way-to-use-healing-magic", "q": "Chiyu Mahou no Machigatta Tsukaikata"},
+{"t": "Missão Resgate de Natal", "tp": "filme", "s": "missao-resgate-de-natal", "imdb": "The Man with the Bag", "ano": 2026},
+{"t": "As Novas Desventuras de Cliff Booth", "tp": "filme", "s": "as-novas-desventuras-de-cliff-booth", "imdb": "The Further Mis-Adventures of Cliff Booth", "ano": 2026},
+{"t": "Mashle (3ª temporada)", "tp": "anime", "s": "mashle-3-temporada", "q": "Mashle: Magic and Muscles"}
 ]
