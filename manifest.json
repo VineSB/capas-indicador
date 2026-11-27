@@ -1194,5 +1194,41 @@
  "missao-impossivel-efeito-fallout": {
   "titulo": "Missão: Impossível - Efeito Fallout",
   "achou": "Mission: Impossible - Fallout (2018) (IMDb)"
+ },
+ "guerra-sem-regras": {
+  "titulo": "Guerra Sem Regras",
+  "achou": "The Ministry of Ungentlemanly Warfare (2024) (IMDb)"
+ },
+ "beekeeper-rede-de-vinganca": {
+  "titulo": "Beekeeper: Rede de Vingança",
+  "achou": "The Beekeeper (2024) (IMDb)"
+ },
+ "band-of-brothers-irmaos-de-guerra": {
+  "titulo": "Band of Brothers (Irmãos de Guerra)",
+  "achou": "Band of Brothers (TVmaze)"
+ },
+ "o-justiceiro": {
+  "titulo": "O Justiceiro",
+  "achou": "Marvel's The Punisher (TVmaze)"
+ },
+ "zom-100-100-coisas-para-fazer-antes-de-virar-zumbi": {
+  "titulo": "Zom 100: 100 Coisas para Fazer Antes de Virar Zumbi",
+  "achou": "Zom 100: Bucket List of the Dead (AniList)"
+ },
+ "the-wrong-way-to-use-healing-magic": {
+  "titulo": "The Wrong Way to Use Healing Magic",
+  "achou": "The Wrong Way to Use Healing Magic (AniList)"
+ },
+ "missao-resgate-de-natal": {
+  "titulo": "Missão Resgate de Natal",
+  "achou": "The Man with the Bag (2026) (IMDb)"
+ },
+ "as-novas-desventuras-de-cliff-booth": {
+  "titulo": "As Novas Desventuras de Cliff Booth",
+  "achou": "The Further Mis-Adventures of Cliff Booth (2026) (IMDb)"
+ },
+ "mashle-3-temporada": {
+  "titulo": "Mashle (3ª temporada)",
+  "achou": "MASHLE: MAGIC AND MUSCLES (AniList)"
  }
 }
